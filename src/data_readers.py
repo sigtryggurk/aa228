@@ -17,27 +17,37 @@ def get_wic():
     data = samples.assign(is_same = labels)
     return data
 
-def get_embedding_model(embed_file=Config.GLOVE_FILE):
+def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=50):
+    fails = 0
     with open(embed_file, encoding="utf8" ) as f:
        content = f.readlines()
     model = {}
     for line in content:
         splitLine = line.split()
-        word = splitLine[0]
-        embedding = np.array([float(val) for val in splitLine[1:]])
-        model[word] = embedding
+        if len(splitLine) == dim+1:
+            word = splitLine[0]
+            embedding = np.array([float(val) for val in splitLine[1:]])
+            model[word] = embedding
+        else:
+            fails += 1
     print ("Done.",len(model)," words loaded!")
+    print("Skipped " + str(fails) + " words!")
     return model
 
-def add_embeddings(data, embed_file=Config.GLOVE_FILE):
+def add_embeddings(data, embed_file=Config.GLOVE_FILE, cased=False):
     model = get_embedding_model(embed_file)
     vect_1 = []
     vect_2 = []
+    if 'unk' not in model:
+        model['unk'] = model['UNK']
+        
+    word_c = lambda x, cased: x if cased else x.lower()
+    
     for sent1 in data['ctx1']:
-        vect_1.append(np.mean([model.get(word, model['unk']) for word in sent1.split()], axis=0))
+        vect_1.append(np.mean([model.get(word_c(word, cased), model['unk']) for word in sent1.split()], axis=0))
     for sent2 in data['ctx2']:
-        vect_2.append(np.mean([model.get(word, model['unk']) for word in sent2.split()], axis=0))
-    vect_w = [model.get(word, model['unk']) for word in data['w']]
+        vect_2.append(np.mean([model.get(word_c(word, cased), model['unk']) for word in sent2.split()], axis=0))
+    vect_w = [model.get(word_c(word, cased), model['unk']) for word in data['w']]
     vect = np.hstack((vect_1, vect_2, vect_w))
     columns = ["emb_" + str(i) for i in range(len(vect[0]))]
     data = data.join(pd.DataFrame(vect, columns=columns))

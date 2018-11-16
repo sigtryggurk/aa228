@@ -9,5 +9,6 @@ class Config:
     WIC_LABELS_FILE = Path(join(DATA_DIR, "wic.train.gold.txt"))
     EMBED_DIR = Path(join(BASE_DIR, "embed"))
     GLOVE_FILE = Path(join(EMBED_DIR, "glove.6B.50d.txt"))
+    GLOVE_WIKICLEAN_FILE = Path(join(EMBED_DIR, "glove.wikiclean.50d.txt"))
     
     SEED = 42

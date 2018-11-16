@@ -11,6 +11,7 @@ from sklearn.metrics import accuracy_score
 SEED = Config.SEED
 
 def run_baselines(data, clf):
+    X_cols = [col_name for col_name in data.columns if "emb_" in col_name]
     acc = [] 
     for train, dev in dr.get_k_fold_split(data, n_splits=5):
         X_train = train[X_cols]
@@ -25,13 +26,22 @@ def run_baselines(data, clf):
     return(np.mean(acc))        
 
 data = dr.get_wic()
-data = add_embeddings(data)
-X_cols = [col_name for col_name in data.columns if "emb_" in col_name]
-        
+data = dr.add_embeddings(data)
+print("GloVe 50d")
 print("Dummy: ", run_baselines(data, DummyClassifier(random_state=SEED))) 
 print("LogReg: ", run_baselines(data, LogisticRegression(random_state=SEED)))
 print("LGBM: ", run_baselines(data, LGBMClassifier(random_state=SEED)))
-
 #Dummy:  0.510632163095
 #LogReg:  0.652402730211
 #LGBM:  0.698870114954
+
+print("GloVe Wikiclean 50d")
+data_wikiclean = dr.get_wic()
+data_wikiclean = dr.add_embeddings(
+        data_wikiclean, embed_file=Config.GLOVE_WIKICLEAN_FILE, cased=True)
+print("Dummy: ", run_baselines(data_wikiclean, DummyClassifier(random_state=SEED))) 
+print("LogReg: ", run_baselines(data_wikiclean, LogisticRegression(random_state=SEED)))
+print("LGBM: ", run_baselines(data_wikiclean, LGBMClassifier(random_state=SEED)))
+#Dummy:  0.510632163095
+#LogReg:  0.66224766418
+#LGBM:  0.700707212847
