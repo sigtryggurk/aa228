@@ -7,3 +7,7 @@ class Config:
     DATA_DIR = Path(join(BASE_DIR, "data"))
     WIC_SAMPLES_FILE = Path(join(DATA_DIR, "wic.train.data.txt"))
     WIC_LABELS_FILE = Path(join(DATA_DIR, "wic.train.gold.txt"))
+    EMBED_DIR = Path(join(BASE_DIR, "embed"))
+    GLOVE_FILE = Path(join(EMBED_DIR, "glove.6B.50d.txt"))
+    
+    SEED = 42
