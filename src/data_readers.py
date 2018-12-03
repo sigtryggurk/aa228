@@ -17,29 +17,43 @@ def get_wic():
     data = samples.assign(is_same = labels)
     return data
 
-def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=50):
-    fails = 0
-    with open(embed_file, encoding="utf8" ) as f:
-       content = f.readlines()
-    model = {}
-    for line in content:
-        splitLine = line.split()
-        if len(splitLine) == dim+1:
-            word = splitLine[0]
-            embedding = np.array([float(val) for val in splitLine[1:]])
-            model[word] = embedding
-        else:
-            fails += 1
-    print ("Done.",len(model)," words loaded!")
-    print("Skipped " + str(fails) + " words!")
+def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=300):
+    if embed_file != Config.MULTIFT_EMBED_FILE:
+        fails = 0
+        with open(embed_file, encoding="utf8" ) as f:
+           content = f.readlines()
+        model = {}
+        for line in content:
+            splitLine = line.split()
+            if len(splitLine) == dim+1:
+                word = splitLine[0]
+                embedding = np.array([float(val) for val in splitLine[1:]])
+                model[word] = embedding
+            else:
+                fails += 1
+        print ("Done.", len(model), " words loaded!")
+        print("Skipped " + str(fails) + " words!")
+    else:
+        with open(Config.MULTIFT_WORDS_FILE, encoding="utf8" ) as f:
+           words = f.readlines()
+        subword_emb = np.load(embed_file)
+        model = {}
+        i = 0
+        for word in words:
+            word = word[:-1]
+            model[word] = subword_emb[i]
+            i = i+1
+        print ("Done.", len(model), " words loaded!")
     return model
+
 
 def add_embeddings(data, embed_file=Config.GLOVE_FILE, cased=False):
     model = get_embedding_model(embed_file)
     vect_1 = []
     vect_2 = []
     if 'unk' not in model:
-        model['unk'] = model['UNK']
+        if 'UNK' in model:
+            model['unk'] = model['UNK']
         
     word_c = lambda x, cased: x if cased else x.lower()
     

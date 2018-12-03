@@ -27,21 +27,21 @@ def run_baselines(data, clf):
 
 data = dr.get_wic()
 data = dr.add_embeddings(data)
-print("GloVe 50d")
+print("GloVe 300d")
 print("Dummy: ", run_baselines(data, DummyClassifier(random_state=SEED))) 
 print("LogReg: ", run_baselines(data, LogisticRegression(random_state=SEED)))
 print("LGBM: ", run_baselines(data, LGBMClassifier(random_state=SEED)))
 #Dummy:  0.510632163095
-#LogReg:  0.652402730211
-#LGBM:  0.698870114954
+#LogReg:  0.66972953118
+#LGBM:  0.703463118359
 
-print("GloVe Wikiclean 50d")
-data_wikiclean = dr.get_wic()
-data_wikiclean = dr.add_embeddings(
-        data_wikiclean, embed_file=Config.GLOVE_WIKICLEAN_FILE, cased=True)
-print("Dummy: ", run_baselines(data_wikiclean, DummyClassifier(random_state=SEED))) 
-print("LogReg: ", run_baselines(data_wikiclean, LogisticRegression(random_state=SEED)))
-print("LGBM: ", run_baselines(data_wikiclean, LGBMClassifier(random_state=SEED)))
+print("Multisense FastText")
+data_multift = dr.get_wic()
+data_multift = dr.add_embeddings(
+        data_multift, embed_file=Config.MULTIFT_EMBED_FILE, cased=True)
+print("Dummy: ", run_baselines(data_multift, DummyClassifier(random_state=SEED))) 
+print("LogReg: ", run_baselines(data_multift, LogisticRegression(random_state=SEED)))
+print("LGBM: ", run_baselines(data_multift, LGBMClassifier(random_state=SEED)))
 #Dummy:  0.510632163095
-#LogReg:  0.66224766418
-#LGBM:  0.700707212847
+#LogReg:  0.636257031603
+#LGBM:  0.706614794044
