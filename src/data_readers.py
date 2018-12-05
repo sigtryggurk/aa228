@@ -1,11 +1,12 @@
+import multift
 import numpy as np
 import pandas as pd
 
 from config import Config
 from sklearn.model_selection import StratifiedKFold
 
-def get_wic():
-    samples = pd.read_csv(Config.WIC_SAMPLES_FILE, delimiter='\t', header=None, names=["w", "pos", "indices", "ctx1", "ctx2"])
+def get_wic(samples_f=Config.WIC_SAMPLES_FILE, labels_f=Config.WIC_LABELS_FILE):
+    samples = pd.read_csv(samples_f, delimiter='\t', header=None, names=["w", "pos", "indices", "ctx1", "ctx2"])
     indices = samples.indices.apply(lambda s: tuple(map(int, s.split('-'))))
     samples.drop(["indices"], inplace=True, axis=1)
 
@@ -13,14 +14,18 @@ def get_wic():
     samples = samples.assign(start1=start1)
     samples = samples.assign(start2=start2)
 
-    labels = pd.read_csv(Config.WIC_LABELS_FILE, header=None, squeeze=True, converters={0 :lambda t: True if t=="T" else False})
-    data = samples.assign(is_same = labels)
+    if labels_f is not None:
+      labels = pd.read_csv(labels_f, header=None, squeeze=True, converters={0 :lambda t: True if t=="T" else False})
+      data = samples.assign(is_same = labels)
+    else:
+      data = samples
     return data
 
 def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=300):
-    if embed_file != Config.MULTIFT_EMBED_FILE:
+    if embed_file != Config.DUAL_SENSE_FILE:
         fails = 0
-        with open(embed_file, encoding="utf8" ) as f:
+        #with open(embed_file, encoding="utf8" ) as f:
+        with open(embed_file ) as f:
            content = f.readlines()
         model = {}
         for line in content:
@@ -34,20 +39,18 @@ def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=300):
         print ("Done.", len(model), " words loaded!")
         print("Skipped " + str(fails) + " words!")
     else:
-        with open(Config.MULTIFT_WORDS_FILE, encoding="utf8" ) as f:
-           words = f.readlines()
-        subword_emb = np.load(embed_file)
-        model = {}
-        i = 0
-        for word in words:
-            word = word[:-1]
-            model[word] = subword_emb[i]
-            i = i+1
-        print ("Done.", len(model), " words loaded!")
+        with open(Config.VOCAB_FILE) as f:
+            words = f.readlines()
+
+        vecs = np.load(Config.DUAL_SENSE_FILE + ".npy")
+
+        model = {word[:-1] : vecs[i].flatten() for i, word in enumerate(words)}
+        model['unk'] = model['UNK'] = np.zeros_like(vecs[0].flatten())
     return model
 
 
 def add_embeddings(data, embed_file=Config.GLOVE_FILE, cased=False):
+    print("Getting embedding model from %s" % embed_file)
     model = get_embedding_model(embed_file)
     vect_1 = []
     vect_2 = []
@@ -56,11 +59,14 @@ def add_embeddings(data, embed_file=Config.GLOVE_FILE, cased=False):
             model['unk'] = model['UNK']
         
     word_c = lambda x, cased: x if cased else x.lower()
-    
+   
+    print("Computing ctx1 vectors")
     for sent1 in data['ctx1']:
         vect_1.append(np.mean([model.get(word_c(word, cased), model['unk']) for word in sent1.split()], axis=0))
+    print("Computing ctx2 vectors")
     for sent2 in data['ctx2']:
         vect_2.append(np.mean([model.get(word_c(word, cased), model['unk']) for word in sent2.split()], axis=0))
+    print("Computing target word vectors")
     vect_w = [model.get(word_c(word, cased), model['unk']) for word in data['w']]
     vect = np.hstack((vect_1, vect_2, vect_w))
     columns = ["emb_" + str(i) for i in range(len(vect[0]))]

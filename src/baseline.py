@@ -25,20 +25,22 @@ def run_baselines(data, clf):
     
     return(np.mean(acc))        
 
-data = dr.get_wic()
-data = dr.add_embeddings(data)
-print("GloVe 300d")
-print("Dummy: ", run_baselines(data, DummyClassifier(random_state=SEED))) 
-print("LogReg: ", run_baselines(data, LogisticRegression(random_state=SEED)))
-print("LGBM: ", run_baselines(data, LGBMClassifier(random_state=SEED)))
+#data = dr.get_wic()
+#data = dr.add_embeddings(data)
+#print("GloVe 300d")
+#print("Dummy: ", run_baselines(data, DummyClassifier(random_state=SEED))) 
+#print("LogReg: ", run_baselines(data, LogisticRegression(random_state=SEED)))
+#print("LGBM: ", run_baselines(data, LGBMClassifier(random_state=SEED)))
 #Dummy:  0.510632163095
 #LogReg:  0.66972953118
 #LGBM:  0.703463118359
 
 print("Multisense FastText")
+print("Getting WIC")
 data_multift = dr.get_wic()
+print("Adding embeddings")
 data_multift = dr.add_embeddings(
-        data_multift, embed_file=Config.MULTIFT_EMBED_FILE, cased=True)
+        data_multift, embed_file=Config.DUAL_SENSE_FILE, cased=True)
 print("Dummy: ", run_baselines(data_multift, DummyClassifier(random_state=SEED))) 
 print("LogReg: ", run_baselines(data_multift, LogisticRegression(random_state=SEED)))
 print("LGBM: ", run_baselines(data_multift, LGBMClassifier(random_state=SEED)))
