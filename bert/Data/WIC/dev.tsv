@@ -1,0 +1,1538 @@
+	random	noun/verb	location	#1 String	#2 String	label
+5	sale	N	5-3	They are having a clearance sale : 50 % off .	they held a sale to reduce their inventory	T
+6	play	N	3-5	they gave full play to the artist 's talent	the coach drew up the plays for her team	F
+11	cut	V	0-0	cut recording tape	cut from one scene to another	F
+13	air	N	7-4	The flock of birds took to the air .	I need some fresh air	T
+16	make	V	2-3	Do n't make this into a big deal	This invention will make you a millionaire	T
+17	advance	V	1-1	To advance the ripening of fruit	To advance one 's interests	T
+64	window	N	2-3	the expanded window will give us time to catch the thieves	they had a window of less than an hour when an attack would have succeeded	T
+65	catch	V	2-2	did you catch that allusion ?	If he catches you on the chin , you 'll be on the mat .	F
+69	construct	V	0-0	construct an argument	construct a proof	T
+76	draw	V	0-1	draw pulp from the fruit	To draw a memorial , a deed , or bill of exchange	F
+79	raise	V	1-0	To raise somebody to office	raise the specter of unemployment	F
+86	vehicle	N	4-5	his editorials provided a vehicle for his political views	the play was just a vehicle to display her talents	T
+93	charge	N	5-4	he was arrested on a charge of larceny	The child was a charge of the nanny .	F
+95	get	V	3-1	What do you get when you add up these numbers ?	I got a computer from my parents for my birthday .	F
+101	style	N	2-2	a cartilaginous style	The anal styles of insects	T
+107	run	V	4-2	The crowd had to run away from the burning structure with only the clothes on their backs .	he is running the Marathon this year	F
+108	shopping	N	3-6	"she loaded her shopping into the car""women carrying home shopping did n't give me a second glance"	On Saturdays we usually do the shopping .	F
+111	give	V	0-2	give priority to	Can I give you my keys while I go in the pool ?	F
+116	beat	V	0-0	beat one 's breast	beat one 's foot rhythmically	T
+118	hum	N	1-4	the hum of distant traffic	They could hear a hum coming from the kitchen , and found the dishwasher on .	T
+119	line	N	5-1	they attacked the enemy 's line	the line stretched clear around the corner	F
+121	look	V	2-2	My backyard look onto the pond	The house looks north	T
+126	point	V	0-3	point the letter	the dancers toes pointed outward	F
+129	use	V	0-6	use the plastic bags to store the food	He does n't know how to use a computer	T
+131	flare	N	5-2	infection can cause a lupus flare	a colitis flare	T
+147	plagiarism	N	7-6	Even if it 's not illegal , plagiarism is usually frowned upon .	Copy from one , it 's plagiarism . Copy from two , it 's research .	T
+150	weapon	N	13-5	The club that is now mostly used for golf was once a common weapon .	he used all his conversational weapons	F
+156	break	V	0-3	break a circuit	His peccadilloes finally broke his marriage	F
+157	sanitize	V	0-0	sanitize a document before releasing it to the press	sanitize history	T
+163	performance	N	5-2	we congratulated him on his performance at the rehearsal	the frequent performances of the symphony testify to its popularity	F
+178	work	V	4-4	This method does n't work	How does your idea work in practice ?	T
+179	raise	V	0-8	raise a smile	Chew with your mouth shut — were you raised in a barn ?	F
+181	feel	V	4-1	I made the students feel different about themselves	He felt his flesh crawl	F
+193	develop	V	1-0	Please develop this roll of film for me	develop land	F
+194	business	N	3-4	a racially integrated business concern	show me where the business was today	F
+197	break	V	0-2	break an alibi	The wholesaler broke the container loads into palettes and boxes for local retailers .	F
+200	flatten	V	0-2	flatten a road	Mary would flatten the dough before rolling it into pretzels .	T
+209	peeler	N	1-4	Potato peeler	she invented a potato peeler	T
+211	chain	N	5-1	This led to an unfortunate chain of events .	the chain of command	T
+217	affinity	N	1-2	an affinity for politics	James 's affinity with Sam	T
+222	state	N	1-4	his state of health	in a weak financial state	T
+226	business	N	7-2	They did nearly a million dollars of business over the long weekend .	Government and business could not agree	F
+228	hold	V	0-0	hold in place	Hold the pencil like this .	F
+231	area	N	7-1	it was about 500 square feet in area	the area of a rectangle	T
+232	house	N	3-9	This is my house and my family 's ancestral home .	she felt she had to get out of the house	T
+237	take	V	2-3	I 'll take three salmon steaks	The escaped convict took to the hills	F
+239	take	V	4-2	Tomorrow the doctor will take the cast off her arm .	Can you take this bag , please	F
+246	sense	N	5-3	fortunately she had the good sense to run away	It 's common sense not to put metal objects in a microwave oven .	T
+250	way	N	4-2	if I had my way	a lonely way of life	F
+258	streak	N	5-2	I was on a winning streak until the fourth game , where I was dealt terrible cards .	had a streak of bad luck	T
+262	take	V	0-3	take a pulse	You ca n't take credit for this !	F
+266	eye	N	3-5	she has an eye for fresh talent	he has an artist 's eye	T
+277	take	V	2-3	Do you take me for a fool ?	How should I take this message ?	T
+279	term	N	2-5	a prison term	He was sentenced to a term of six years in prison .	T
+287	be	V	4-2	When will the meeting be ?	The dog was drowned by the boy .	T
+288	take	V	3-3	How should I take this message ?	He was often taken to be a man of means .	T
+289	take	V	2-1	Can you take this bag , please	It takes nerve to do what she did	F
+290	take	V	2-3	I 'll take three salmon steaks	You ca n't take credit for this !	F
+301	curmudgeon	N	4-14	There 's a cranky curmudgeon working at the hospital who gives all the patients and other doctors flak .	John Doe 's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate .	T
+302	cut	V	0-3	cut from one scene to another	Would you please cut the cake ?	F
+306	center	N	1-1	Shopping center	the center fumbled the handoff	F
+309	militate	V	1-1	To militate against the possibility of his election .	Politeness militated against this opinion being expressed	T
+310	sanitize	V	0-0	sanitize a document before releasing it to the press	sanitize the language in a book	T
+314	see	V	2-4	Do you see what I mean ?	The minister does n't see anybody before noon	F
+315	raise	V	0-0	raise a siege	raise a family	F
+333	scrub	V	3-3	Engineers had to scrub the satellite launch due to bad weather .	we had to scrub our vacation plans	T
+334	sum	N	1-1	the sum of all our troubles did not equal the misery they suffered	The sum of forty pounds	F
+342	get	V	2-3	We 'll get them !	This time I got him	T
+344	meet	V	4-2	The company agrees to meet the cost of any repairs .	This proposal meets my requirements .	T
+346	leave	V	3-1	She did n't leave until midnight	I left my keys inside the car and locked the doors	F
+351	sense	N	1-1	a sense of danger	a sense of self	T
+354	key	N	1-4	the key to development is economic integration	they were carrying two keys of heroin	F
+364	go	V	6-2	Do you think the sofa will go through the door ?     The belt just barely went around his waist .	her eyesight went after the accident	F
+370	snap	V	1-1	To snap a whip	bullets snapped past us	F
+383	support	N	4-6	they called for artillery support	he applied to the state for support	F
+385	bum	N	4-2	That mechanic 's a bum - he could n't fix a yo - yo .	a lazy bum	T
+386	beat	V	0-0	beat the cream	beat the subway fare	F
+387	run	V	0-3	run a temperature	let the dogs run free	F
+394	head	N	3-3	She gave great head .	They shot 20 head of quail	F
+395	erase	V	3-1	The files will erase quickly .	I erased that note because it was wrong .	F
+404	work	V	3-2	I can not work a miracle	His fingers worked with tension	F
+405	run	V	2-2	the heifers run with the bulls to produce offspring	he is running the Marathon this year	F
+410	make	V	5-4	have , throw , or make a party	This company is what made you .	F
+411	take	V	0-4	take a scene	Tomorrow the doctor will take the cast off her arm .	F
+414	side	N	5-6	it brought out his better side	they always sat on the right side of the church	F
+424	know	V	1-2	We know this movie	Do you know my sister ?	T
+425	play	V	3-7	Charlie likes to play Mary	The engine has a wheel that is playing in a rack	F
+427	assumption	N	1-6	Their assumption of his guilt disqualified them from jury duty .	any society is built upon certain assumptions	T
+434	break	V	5-0	The book dealer would not break the set	break off the negotiations	F
+443	dozen	N	3-7	I ordered two dozen doughnuts .	There should n't be more than two dozen Christmas cards left to write .	T
+446	give	V	4-1	This material does n't give	He gave his life for his children	F
+450	make	V	3-0	What do you make of his remarks ?	make a stir	F
+453	go	V	5-5	These ugly billboards have to go !	This chair has got to go .	T
+476	carry	V	2-1	I will carry the secret to my grave	I carry a lot of life insurance	T
+477	body	N	3-3	What 's a body got ta do to get a drink around here ?	they found the body in the lake	T
+480	operation	N	5-5	a large - scale farming operation	it can perform millions of operations per second	F
+491	raise	V	0-6	raise a smile	We visited a farm where they raise chickens .	F
+492	thing	N	1-4	this thing has got to end	it is a remarkable thing	T
+493	post	N	8-2	there is an officer 's club on the post	this military post provides an important source of income for the town nearby	T
+506	perversion	N	0-6	perversion also shows up in kinky telephone cords	the tendrils of the plant exhibited perversion	T
+522	take	V	2-2	I 'll take the blue plates .	We are taking an orphan from Romania	F
+523	sense	N	3-5	It 's common sense not to put metal objects in a microwave oven .	he has n't got the sense God gave little green apples	T
+529	cut	V	3-2	We had to cut short the conversation	This bread cuts easily	F
+531	stress	N	4-12	Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .	Go easy on him , he 's been under a lot of stress lately .	F
+536	stabilization	N	4-1	he worked for price stabilization for farm products	wage stabilization is necessary for industrial peace	T
+546	scale	N	7-1	The Holocaust was insanity on an enormous scale .	the scale of the map	T
+554	admit	V	1-2	To admit evidence in the trial of a cause	A ticket admits one into a playhouse .	T
+567	product	N	3-3	they improve their product every year	They improve their product every year ; they export most of their agricultural production .	T
+571	feel	N	3-3	She has a feel for music .	"he has a feel for animals "" or "" it 's easy when you get the feel of it"	T
+578	serve	V	3-2	This table would serve very well	His freedom served him well	T
+584	keep	V	8-0	There 's little to earn and many to keep	keep count	F
+606	job	N	4-8	it is always a job to contact him	estimates of the city 's loss on that job ranged as high as a million dollars	F
+611	litany	N	1-4	a litany of failures	the patient recited a litany of complaints	T
+617	bed	N	8-4	We added a new rosebush to our rose bed .	the gardener planted a bed of roses	T
+626	play	N	4-4	they made a futile play for power	there was too much play in the steering wheel	F
+629	take	V	4-0	Tomorrow the doctor will take the cast off her arm .	Take the plunge	F
+632	delivery	N	4-2	she had a difficult delivery	his reluctant delivery of bad news	F
+633	take	V	0-1	take shelter from the storm	She took her seat on the stage	F
+635	stand	V	0-1	stand the test of time	She stands 6 feet tall	F
+640	hold	V	2-4	She can hold an audience spellbound	A crazy idea took hold of him	F
+641	recognition	N	12-1	he was unable to make his motion because he could n't get recognition by the chairman	increasing recognition that diabetes frequently coexists with other chronic diseases	F
+642	clip	N	8-6	I went into the salon to get a clip .	he could do ten at a clip	F
+644	catch	V	0-0	catch fire	catch the mood	T
+651	cut	V	2-1	If you cut then I 'll deal .	This cuts into my earnings	F
+655	experience	N	4-3	he had a religious experience	he recalled the experience vividly	T
+657	take	V	2-1	Do you take me for a fool ?	He took off his shoes .	F
+668	time	N	1-4	take time to smell the roses	I did n't have time to finish	T
+674	play	V	3-1	I used to play with trucks as a little girl	She played the servant to her husband 's master	F
+685	come	V	3-0	Nothing good will come of this	come down here !	F
+690	commercialization	N	7-6	both companies will retain control over the commercialization of their own products	the government tried to accelerate the commercialization of this development	T
+695	fair	N	1-1	trade fair	book fair	T
+699	grow	V	3-4	That acorn will grow into an oak tree .	An oak tree will grow from that acorn .	T
+713	audience	N	4-3	every artist needs an audience	he requested an audience with the king	F
+722	waste	N	3-2	much of the waste material is carried off in the sewers	the trackless wastes of the desert	F
+729	fall	V	0-1	fall asleep	They fell out of favor	T
+731	throw	V	0-1	throw the car into reverse	she threw a beautiful teapot	F
+734	loaf	N	1-1	meat loaf	a loaf of cheese	T
+738	move	V	2-6	We must move quickly	Come on guys , let 's move : there 's work to do !	T
+742	seat	N	11-4	He sat on the arm of the chair rather than the seat , which always annoyed his mother .	there were not enough seats for all the guests	T
+743	wealth	N	3-1	She brings a wealth of knowledge to the project .	great wealth is not a sign of great intelligence	T
+767	interest	N	5-4	He has a lot of interest in vintage cars .	Victorian furniture is an interest of mine .	F
+768	pool	N	5-1	the body lay in a pool of blood	The pools of Solomon	T
+769	touch	V	2-2	Do n't touch my CDs !	Stefan was touched by the song 's message of hope .	F
+770	theater	N	6-5	His grandfather was in the Pacific theater during the war .	he served in the Vietnam theater for three years	T
+773	come	V	3-2	your wish will come true	Their anger came to a boil	T
+775	give	V	2-0	I 'll give you three books for four CDs	give thought to	F
+776	likelihood	N	2-1	In all likelihood the meeting will be cancelled .	The likelihood is that the inflation rate will continue to rise .	T
+780	fall	V	1-1	To fall a tree	He fell to his knees	F
+787	part	N	1-1	The part of his hair was slightly to the left .	his part was right in the middle	T
+796	krona	N	9-4	Grāmata maksā piecas kronas — the book costs five krona	Piecas kronas — five krona	T
+805	feel	V	3-1	You make me feel naked	She felt small and insignificant	T
+806	make	V	0-0	make an effort	make love , not war	T
+812	run	N	3-4	she got a run in her stocking	the ship made its run in record time	F
+813	emission	N	1-1	The emission of heat from a fire	The emission of light from the sun	T
+814	camp	V	4-4	We 're planning to camp in the field until Sunday .	The houseguests had to camp in the living room	T
+822	take	V	3-3	I used to take The Sunday Times .	The hard work took its toll on her	F
+826	grow	V	4-2	An oak tree will grow from that acorn .	The gardener grew that acorn into an oak tree .	T
+828	window	N	2-1	the expanded window will give us time to catch the thieves	Launch window ; window of opportunity	T
+833	carry	V	2-1	I will carry the secret to my grave	I carry her image in my mind 's eye	T
+838	furniture	N	9-6	The woman does not even have one stick of furniture moved in yet .	there was only one piece of furniture in the room	T
+840	key	N	5-7	he spoke in a low key	Some students cheated by using the answer key .	F
+850	see	V	2-2	Now I see !	Can you see the bird in that tree ?	F
+852	charge	N	5-5	this cartridge has a powder charge of 50 grains	the battery needed a fresh charge	F
+854	unit	N	9-5	after the battle the soldier had trouble rejoining his unit	the coach said the offensive unit did a good job	T
+857	make	V	0-0	make clay into bricks	make lead into gold	T
+866	raise	V	0-0	raise a sad cry	raise a protest	T
+870	make	V	0-1	make merry	He made as if to punch him , but they both laughed and shook hands .	T
+874	score	N	11-3	he tried to blame the victim but his success on that score was doubtful	what was your score on your homework ?	F
+875	give	V	0-1	give an excuse	She gave a pair of shoes to her husband for their anniversary .	F
+882	give	V	1-1	I give you two minutes to respond	She gave him First Aid	F
+887	stand	V	2-1	Can you stand the bookshelf up ?	He stood the broom in a corner and took a break .	T
+896	beat	V	3-0	the grandfather clock beat midnight	beat one 's breast	F
+898	cut	V	8-0	We had to lose weight , so we cut the sugar from our diet	cut grain	F
+907	beat	V	1-2	I beat the traffic	The drums beat all night	F
+915	clash	V	2-4	These colors clash	Fans from opposing teams clashed on the streets after the game .	T
+918	split	N	7-8	he was winning until he got a split in the tenth frame	they announced a two - for - one split of the common stock	F
+923	interest	N	2-3	in the interest of safety	in the common interest	T
+928	flash	N	1-1	a flash sewn on his sleeve indicated the unit he belonged to	red flashes adorned the airplane	T
+942	keep	V	0-1	keep count	I keep my specimens under glass to protect them .	F
+943	time	N	3-2	See you another time ;    that 's three times he 's made the same mistake	it is time to go	F
+947	construct	V	0-0	construct a proof	construct an argument	T
+948	diversification	N	5-5	my broker recommended a greater diversification of my investments	he limited his losses by diversification of his product line	T
+953	economy	N	0-6	economy of effort	the Scots are famous for their economy	F
+962	stuff	N	4-16	What is all that stuff on your bedroom floor ?	He did n't want his pockets to bulge so he was walking around with all his stuff in his hands .	T
+975	see	V	3-3	I 'll probably see you at the meeting	The 1960 's saw the rebellion of the younger generation against established traditions	F
+979	get	V	0-0	get an idea	get nauseous	T
+982	make	V	3-1	She may not make the grade	He made twenty bucks playing poker last night .	F
+983	contraction	N	6-5	` wo n't ' is a contraction of ` will not '	` o'clock ' is a contraction of ` of the clock '	T
+985	focus	V	1-1	Please focus on your studies and not on your hobbies	We focused on it .	T
+987	account	N	8-4	he predicted that although it is of small account now it will rapidly increase in importance	a person of considerable account	T
+989	behalf	N	2-4	in your behalf	campaigning in his own behalf	T
+991	reproduction	N	1-2	Unauthorized reproduction of this article is prohibited .	Gutenberg 's reproduction of holy texts was far more efficient	T
+992	bring	V	3-1	Waiter , please bring me a single malt whiskey .	This brings me to the main point	T
+998	book	N	1-4	the book of Isaiah	Genesis is the first book of the Bible .	T
+1001	breath	N	2-3	not a breath of scandal ever touched her	The child 's breath came quickly and unevenly .	F
+1015	work	V	4-4	This dough does not work easily ;    the soft metal works well	He used pliers to work the wire into shape .	F
+1021	raise	V	1-0	We raise hogs here	raise a mutiny	F
+1022	day	N	2-3	after that day she never trusted him again	those were the days	T
+1039	mouth	N	5-6	the jar had a wide mouth	they built a fire at the mouth of the cave	F
+1051	rest	N	4-8	The boulder came to rest just behind the house after rolling down the mountain .	a body will continue in a state of rest until acted upon	T
+1057	slit	V	1-0	He slit the bag open and the rice began pouring out .	slit the throat of the victim	T
+1058	develop	V	0-2	develop the rook	The country developed into a mighty superpower	F
+1059	operation	N	7-2	the power of its engine determines its operation	a multinational operation	F
+1060	break	V	0-2	break a branch from a tree	Kids were break - dancing at the street corner	F
+1064	safety	N	2-8	insure the safety of the children	If you push it to the limit , safety is not guaranteed .	T
+1065	block	N	4-4	he reserved a large block of seats	he held a large block of the company 's stock	T
+1066	leave	V	3-4	She wants to leave	The president 's remarks left us speechless	F
+1069	command	N	5-2	General Smith was placed in command .	a good command of French	F
+1074	head	N	1-2	200 head of cattle and 50 head of horses	Tap the head of the drum for this roll .	F
+1076	break	V	2-5	Can you break a hundred - dollar bill for me ?	The bus we travelled in broke down on the way to town	F
+1079	convention	N	1-7	political convention	The EU installed an inter - institutional Convention to draft a European constitution	T
+1080	foot	N	1-1	the foot of the mountain	the foot of the list	T
+1081	quality	N	3-13	a man of quality	A peasant is not allowed to fall in love with a lady of quality .	T
+1082	open	V	2-1	Vermont will open elk hunting season next week .	This opens up new possibilities	F
+1093	death	N	5-1	he seemed more content in death than he had ever been in life	her death came as a terrible shock	F
+1094	run	N	7-5	the defensive line braced to stop the run	the team enjoyed a brief run of victories	F
+1095	carry	V	4-2	put down 5 and carry 2	I am carrying his child	F
+1099	line	N	2-6	toe the line	historians can only point out those lines for which evidence is available	F
+1101	make	V	2-0	He will make a fine father	make a fire	F
+1107	know	V	3-1	She does n't know this composer	We know this movie	T
+1109	tell	V	2-1	Can you tell whether those flowers are real or silk , from this distance ?     No , there 's no way to tell .	Ellen told Helen about the situation .	F
+1114	lift	V	0-1	lift a ban	I lifted the books onto the table .	F
+1118	head	N	1-1	the head of the list	the head of the stairs	T
+1125	hang	V	0-4	hang a door	The cloud of suspicion hangs over her	F
+1128	take	V	1-1	We take all major credit cards .	We took a pay cut	T
+1135	while	N	6-6	he was here for a little while	He lectured for quite a long while .	T
+1137	see	V	2-1	Can you see the bird in that tree ?	I saw their laughing and joking .	T
+1139	mouth	N	5-5	she wiped lipstick from her mouth	the jar had a wide mouth	F
+1143	baby	N	1-1	the baby of the family	the baby of the Supreme Court	T
+1145	luck	N	4-2	it was my good luck to be there	they say luck is a lady	T
+1146	life	N	2-4	Get a life .	his heroism saved a life	F
+1147	run	V	2-0	I will run the sample .	run the dogs	F
+1148	tea	N	11-8	Would you be a dear and get me a cup of tea , please ?	the store shelves held many different kinds of tea	T
+1149	mean	V	1-3	I mean no harm	I did n't mean to knock your tooth out .	T
+1150	cut	V	0-0	cut a Ping - Pong ball	cut paper dolls	F
+1153	keep	V	0-1	keep a diary	I keep a small stock of painkillers for emergencies .	F
+1163	home	N	7-5	he grew up in a good Christian home	there 's no place like home	T
+1168	take	V	0-0	take vengeance	take steps	T
+1173	lead	N	6-9	the police are following a promising lead	we were just waiting for someone to take the lead	F
+1177	dog	N	1-1	the dog barked all night	The dogs were too hot to touch .	F
+1183	stand	V	0-1	stand the test of time	There stood on the corner a statue .	F
+1189	trend	N	1-7	The trend of a coastline ;    the upward trend of stock - market prices	not openly liberal but that is the trend of the book	F
+1193	cut	V	0-3	cut recording tape	Would you please cut the cake ?	F
+1195	dip	N	5-2	I 'm going for a dip before breakfast .	This onion dip is just scrumptious .	F
+1199	assumption	N	1-2	your assumption that I would agree was unwarranted	on the assumption that he has been injured we can infer that he will not to play	F
+1200	authority	N	3-3	he is an authority on corporate law	I have the authority to penalise the staff in my department , but not the authority to sack them .	F
+1206	raise	V	0-0	raise a protest	raised edges	F
+1207	remove	V	0-1	remove a case to another court	Doug removed the smudges .	F
+1208	third	N	3-2	Jones came in third .	a distant third	T
+1218	language	N	12-0	the speed with which a program can be executed depends on the language in which it is written	language sets homo sapiens apart from all other animals	F
+1227	throat	N	1-1	the throat of a chimney	the throat of the vase	T
+1228	return	N	5-9	they set out on their return to the base camp	I expect the house to be spotless upon my return .	T
+1234	head	N	3-6	he stuck his head out the window	A reduction in the assessment per head of sheep	F
+1244	turn	V	0-0	turn your palm this way	turn a key	T
+1245	know	V	2-3	Do you know my sister ?	She does n't know this composer	T
+1250	lead	N	6-2	the police are following a promising lead	the trail led straight to the perpetrator	T
+1253	bevy	N	1-5	a bevy of young beach boys swarmed around him	he was surrounded by a bevy of beauties in bathing attire	T
+1255	picture	N	2-4	the political picture is favorable	the dictionary had many pictures	F
+1258	luck	N	1-4	bad luck caused his downfall	Gilbert had some bad luck yesterday — he got pick - pocketed and lost fifty dollars .	T
+1265	tea	N	7-0	Go to the supermarket and buy some tea .	tea has fragrant white flowers	T
+1266	nationality	N	6-4	such images define their sense of nationality	immigrants of the same nationality often seek each other out	T
+1267	float	V	0-2	float data	The dancer floated across the stage	F
+1276	carry	V	1-2	We carry a very large mortgage	His efforts carried the entire project	T
+1282	face	N	9-1	I wish I had seen the look on his face when he got the news	the face of the city is changing	F
+1299	number	N	1-4	every number has a unique position in the sequence	he has an unlisted number	F
+1303	ease	N	6-5	they put it into containers for ease of transportation	a life of luxury and ease	F
+1309	fatigue	N	6-1	the American public is experiencing scandal fatigue	political fatigue	T
+1313	range	N	5-7	the army maintains a missile range in the desert	any good golf club will have a range where you can practice	T
+1327	carry	V	2-1	Do you carry kerosene heaters ?	Amanda carried the package to New York from home .	F
+1329	pay	V	0-1	pay up , please !	It pays to go through the trouble	F
+1338	wash	V	9-2	The car is so dirty , we need to wash it .	Can you wash away the spots on the windows ?	T
+1350	strike	V	2-7	We must strike the enemy 's oil fields	in the fifth inning , the Giants struck , sending three runners home to win the game 5 to 2	T
+1358	business	N	4-0	show me where the business was today	business is good today	T
+1366	run	N	5-4	the team enjoyed a brief run of victories	Yesterday we did a run of 12,000 units .	F
+1371	range	N	6-7	We hiked through the Andes mountain range .	the plains lay just beyond the mountain range	T
+1375	take	V	0-0	take steps	take the gun from your pocket	F
+1378	get	V	3-2	You can not get water out of a stone	We 'll get them !	F
+1381	make	V	2-0	She 'll make a fine president .	make a dress	F
+1385	time	N	7-1	Okay , but this is the last time . No more after that !	this time he succeeded	T
+1394	portfolio	N	8-10	I would like to introduce you to our portfolio of services .	they were disappointed by the poor returns on their stock portfolio	T
+1400	light	N	3-8	they saw the light of the beacon	he stopped the car and turned off the lights	F
+1403	waste	N	3-3	much of the waste material is carried off in the sewers	they collect the waste once a week	T
+1407	bar	N	10-6	it was an excellent kick but the ball hit the bar	the orchestra omitted the last twelve bars of the song	F
+1416	touch	V	3-0	He could not touch the meaning of the poem	Touch the stone for good luck	F
+1417	hit	V	3-1	An interesting idea hit her	He hit a home run	F
+1423	art	N	1-3	the art of conversation	How great thou art !	T
+1447	make	V	0-3	make a cake	This salary increase makes no difference to my standard of living	F
+1453	side	N	5-5	it brought out his better side	he was on the heavy side	T
+1457	fall	V	1-1	To fall a tree	Night fell	T
+1462	do	V	3-5	What makes her do this way ?	A ' B ' grade does n't suffice to get me into medical school	F
+1464	sampler	N	2-1	a candy sampler	a sampler of French poets	T
+1465	culture	N	3-16	the developing drug culture	the reason that the agency is doomed to inaction has something to do with the FBI culture	T
+1473	border	N	2-5	A solid border around a table of figures	There 's a nice frilly border around the picture frame .	T
+1476	crush	V	0-2	crush an aluminum can	She was crushed by his refusal of her invitation	F
+1481	year	N	2-2	in the year 1920	A normal year has 365 full days , but there are 366 days in a leap year .	T
+1485	drive	V	2-0	Can you drive this four - wheel truck ?	drive the game	F
+1488	dress	V	0-2	dress the patient	He was dressed in the latest fashions .	T
+1505	catch	V	3-0	ears open to catch every sound	Catch a glimpse	T
+1506	mean	V	9-8	The sky is red this morning — does that mean we 're in for a storm ?	An example sentence would show what this word means	T
+1510	pull	V	0-0	pull the string gently	pull the trigger of the gun	T
+1537	quarter	N	3-1	it 's a quarter til 4	a quarter after 4 o'clock	T
+1545	work	V	4-3	She knows how to work the system .	Is your husband working again ?	F
+1547	space	N	5-1	the astronauts walked in outer space without a tether	the space between his teeth	F
+1557	movement	N	4-8	he had a bowel movement	it was an expensive watch with a diamond movement	F
+1559	floor	N	8-5	we spread our sleeping bags on the dry floor of the tent	The room has a wooden floor .	T
+1561	twinkle	N	4-9	there 's a perpetual twinkle in his eyes	He was a rotund , jolly man with a twinkle in his eye .	T
+1563	game	N	7-7	he thought of his painting as a game that filled his empty time	Being a child is all fun and games .	T
+1565	third	N	4-3	it contains approximately a third of the minimum daily requirement	He ate a third of the pie . Divided by two - thirds .	F
+1566	stretch	V	2-0	I always stretch my muscles before exercising .	Stretch your legs !	T
+1572	action	N	11-2	the United Nations must have the power to propose and organize action without being hobbled by irrelevant issues	recent federal action undermined the segregationist position	T
+1581	get	V	3-0	What do you get when you add up these numbers ?	get nauseous	F
+1585	throw	N	5-7	the catcher made a good throw to second base	he could n't afford $ 50 a throw	F
+1595	orbit	N	3-3	The Moon 's orbit around the Earth takes nearly one month to complete .	he plotted the orbit of the moon	T
+1598	horizon	N	4-13	It is beyond the horizon of present knowledge	Some students take a gap year after finishing high school to broaden their horizons .	T
+1599	follow	V	2-7	Can you follow her argument ?	When he lectures , I can not follow	T
+1609	shrinkage	N	8-0	the material lost 2 inches per yard in shrinkage	shrinkage is the retail trade 's euphemism for shoplifting	F
+1631	cut	V	3-0	she could not cut the long days in the office	cut bourbon	F
+1632	break	V	4-4	The newsman wanted to break a big story , something that would make him famous .	News of her death broke in the morning	T
+1640	break	V	2-8	Let 's break for lunch .	My daughter 's fancy wedding is going to break me !	F
+1641	carry	V	1-4	I carry her image in my mind 's eye	How many people are carried on the payroll ?	F
+1642	accept	V	3-1	I can not accept your invitation	We accept the idea of universal health care	F
+1648	intermingle	V	3-5	We do n't intermingle much	The yolks and the whites intermingled .	T
+1657	check	V	0-0	check into the rumor	check the time of the class	T
+1662	range	V	2-2	My students range from very bright to dull	The instruments ranged from tuba to cymbals	T
+1663	worry	N	1-5	his worry over the prospect of being fired	it is not work but worry that kills	T
+1666	give	V	0-1	give thought to	I gave him a punch in the nose	F
+1671	see	V	6-3	The artist must first learn to see	I want to see whether she speaks French	F
+1672	collector	N	4-8	He is an avid collector of nineteenth - century postage stamps .	That old piano is just a big dust collector .	T
+1673	make	V	3-5	She may not make the grade	Again , the cat had made on the expensive rug	F
+1682	point	N	1-3	a point of information	get to the point	F
+1691	school	N	1-5	the school was built in 1932	Our children attend a public school in our neighborhood .	F
+1694	make	V	0-3	make a decision	four and four make eight	F
+1700	weakness	N	8-1	In a small number of horses , muscle weakness may progress to paralysis .	the weakness of the dollar against the yen	T
+1703	take	V	0-3	take a pulse	A reading was taken of the earth 's tremors	T
+1708	see	V	2-3	I can see a risk in this strategy	I ca n't see him on horseback !	T
+1712	make	V	2-2	She 'll make a fine president .	He will make a splendid father !	T
+1719	degree	N	13-3	She has two bachelor 's degrees and is studying towards a master 's degree .	he earned his degree at Princeton summa cum laude	T
+1722	train	N	10-3	Unfortunately , the leading bridesmaid stepped on the bride 's train as they were walking down the aisle .	the bride 's train was carried by her two young nephews	T
+1724	blow	V	5-16	certain insects are said to blow	There 's nothing more thrilling to the whale watcher than to see a whale surface and blow .	F
+1739	experience	N	3-4	It was an experience he would not soon forget .	he had a religious experience	T
+1743	break	V	5-6	The horse was tough to break	He slipped on the ice and broke his leg .	F
+1745	reach	V	2-2	Our advertisements reach millions	The sunlight reached the wall	F
+1751	space	N	5-8	it all happened in the space of 10 minutes	they tested his ability to locate objects in space	F
+1754	line	N	5-3	Please speak up , the line is very faint .	drop me a line when you get there	F
+1765	stuff	N	5-16	the trunk was full of stuff	He did n't want his pockets to bulge so he was walking around with all his stuff in his hands .	T
+1768	softness	N	6-6	suddenly her gigantic power melted into softness for the baby	he attributes the disappointing results to softness in the economy	F
+1777	crack	V	1-0	To crack a whip	crack a safe	F
+1780	run	V	0-6	run a new program on the Mac	My computer is too old to run the new OS .	T
+1782	take	V	0-0	take steps	take action	T
+1785	raise	V	0-8	raise a shout	Chew with your mouth shut — were you raised in a barn ?	F
+1791	tension	N	4-3	the direction of maximum tension moves asymptotically toward the direction of the shear	there is a tension between these approaches to understanding history	F
+1792	carry	V	1-1	I carry her image in my mind 's eye	I carry these thoughts in the back of my head	T
+1801	cast	V	0-0	cast a warm light	cast a vote	F
+1807	see	V	2-3	You should see a lawyer	We had to see a psychiatrist	T
+1816	develop	V	0-6	develop a market for the new mobile phone	Many countries in Asia are now developing at a very fast pace	F
+1823	range	N	7-6	the plains lay just beyond the mountain range	We hiked through the Andes mountain range .	T
+1826	note	N	14-3	I did n't have any coins to pay with , so I used a note .	he detected a note of sarcasm	F
+1831	hand	N	3-6	give me a hand with the chores	he kept trying to see my hand	F
+1832	taste	N	5-7	the melon had a delicious taste	the candy left him with a bad taste	T
+1836	application	N	6-7	it is a job requiring serious application	December 31 is the deadline for MBA applications .	F
+1837	radiate	V	1-2	spokes radiate from the hub of the wheel	The heat radiates from a stove .	F
+1838	position	N	9-8	Stop running all over the field and play your position !	Chief of Staff is the second - highest position in the army .	F
+1847	place	N	3-7	he overstepped his place	he put the lamp back in its place	F
+1856	see	V	3-0	the doctor will see you now	see a movie	F
+1857	edge	N	4-3	she sat on the edge of the bed	the water 's edge	T
+1860	skinful	N	10-12	I was n't thinking straight – I 'd had a skinful that night .	someone had to drive me home last night because I had a skinful	T
+1862	language	N	2-4	The English language ;    sign language	he recorded the spoken language of the streets	T
+1867	breath	N	2-3	his sour breath offended her	The child 's breath came quickly and unevenly .	F
+1868	head	N	1-6	12 head of big cattle and 14 head of branded calves	At five years of age this head of cattle is worth perhaps $ 40	T
+1872	take	V	1-3	I take aspirin every day to thin my blood .	I do n't take sugar in my coffee	T
+1875	libido	N	3-19	"For Freudians , libido means the desire to "" unite and bind "" with objects in the world ."	The ego as an organ which seeks to synthesize thoughts in the psyche is said to be driven by libido or eros .	T
+1880	break	V	0-0	break a lucky streak	break into tears	F
+1894	empathize	V	4-4	You really have to empathize with their doing it .	You really have to empathize with them .	T
+1897	save	V	2-2	I 'll save you the trouble	This will save you a lot of time	T
+1899	sow	V	2-3	As you sow , so shall you reap .	When I had sown the field , the day 's work was over .	T
+1908	refine	V	0-0	refine oil	refine paper stock	T
+1916	wound	N	8-7	he feared that mentioning it might reopen the wound	deep in her breast lives the silent wound	T
+1925	assign	V	1-2	To assign counsel for a prisoner	The teacher assigned him to lead his classmates in the exercise	T
+1927	normalize	V	9-0	There is little hope that the two countries will normalize relations ; their governments seem to hate each other and would just as soon stay on bad terms .	normalize the temperature	T
+1941	get	V	3-1	You need to get permission to leave early .	He got a girl into trouble	F
+1942	undo	V	4-4	I wish I could undo my actions	Fortunately , we can undo most of the damage to the system by the war .	T
+1951	draw	V	0-1	draw a conclusion	She drew $ 2,000 from the account	F
+1952	fanny	N	10-3	Her dress was so short you could nearly see her fanny	in England ` fanny ' is vulgar slang for female genitals	T
+1963	drip	V	6-2	Listening to the tap next door drip all night drove me mad !	Water is dripping from the faucet	T
+1964	hold	V	2-1	I 'll hold you by your promise	She held her ears when the jackhammer started to operate	F
+1969	laugh	V	4-1	Paul laughed a cheerful laugh .	Paul laughed at Mary .	T
+1974	control	N	3-3	she never lost control of herself	he had lost control of his sphincters	F
+1975	inspect	V	1-1	Please inspect your father 's will carefully	We inspected the area .	T
+1976	piece	N	6-7	the children acted out a comic piece to amuse the guests	it is not known who created this piece	F
+1979	school	N	5-1	The divers encountered a huge school of mackerel .	a school of small glittering fish swam by	T
+1994	rectify	V	0-0	rectify a curve	rectify alternating current	F
+1998	break	V	8-0	My daughter 's fancy wedding is going to break me !	break the code	F
+2008	know	V	1-3	I know it 's time	I want to know who is winning the game !	T
+2010	center	N	1-3	Convention center	it is a center 's responsibility to get the football to the quarterback	F
+2012	make	V	0-0	make a decision	make a phone call	T
+2028	line	N	1-4	in line with	he got out of line	T
+2032	wall	N	1-1	a wall of prejudice	a wall of smoke	T
+2035	play	V	0-3	play safe	The tape was playing for hours	F
+2037	picture	N	3-2	she was the picture of despair	the very picture of a modern general	T
+2039	understand	V	1-1	I understand wanting more .	I understand how to do it .	T
+2040	side	N	6-2	he had a pain in his side	the Confederate side was prepared to attack	F
+2043	care	V	3-3	I do n't care	I do n't care what he does .	T
+2052	notice	N	1-3	a notice of sale	He took no notice of the changes , and went on as though nothing had happened .	F
+2055	lift	V	0-1	lift the box onto the table	I lifted the books onto the table .	T
+2068	apology	N	5-5	he wrote a letter of apology to the hostess	The CEO made a public apology for the scandal , and promised full cooperation with the authorities .	T
+2071	land	N	5-6	he built the house on land leased from the city	there 's no work on the land any more	F
+2074	head	N	1-1	200 head of cattle and 50 head of horses	a head of steam	F
+2079	appointment	N	11-3	I 'm leaving work early because I have a doctor 's appointment .	They made an appointment to meet at six .	T
+2090	get	V	2-2	We 'll get them !	did you get it ?	F
+2094	pursuit	N	1-11	Unremitting pursuit of wealth does n't bring happiness , particularly if successful .	the culprit started to run and the cop took off in pursuit	T
+2100	cut	V	0-0	cut class	cut a dress	F
+2102	pipe	V	0-0	pipe a tune	pipe oil , water , and gas into the desert	F
+2113	fair	N	1-1	book fair	world fair	T
+2115	period	N	2-3	hastened the period of time of his recovery	Picasso 's blue period	T
+2120	book	N	1-5	the book of Isaiah	Many readers find the first book of A Tale of Two Cities to be confusing .	T
+2127	get	V	3-2	You can not get water out of a stone	the cat got the goldfish	F
+2131	hit	V	2-1	The ball hit the fence .	We hit Detroit by noon	F
+2137	be	V	4-2	When will the meeting be ?	The sky is blue .	T
+2145	boy	N	14-3	The boys were playing kickball in the mud ;    Steve is a boy of 16	she made the boy brush his teeth every night	T
+2148	lyric	N	1-1	The lyric in line 3 does n't rhyme .	The lyrics were written by the composer .	T
+2153	pull	N	1-1	the pull up the hill had him breathing harder	the pull of the moon	F
+2156	process	V	0-0	process the applicants	process a loan	T
+2158	head	N	6-1	At five years of age this head of cattle is worth perhaps $ 40	the head of the humerus	F
+2169	wall	N	5-3	his back was to the wall	the container 's walls were blue	F
+2182	break	V	4-5	The newsman wanted to break a big story , something that would make him famous .	When news of their divorce broke , ...	T
+2184	cut	N	4-3	The lawyer took a cut of the profits .	I like the cut of that suit .	F
+2185	run	V	0-1	run rogue	She ran 10 miles that day	F
+2187	bear	V	0-0	bear a resemblance	bear a signature	T
+2193	par	N	0-7	par for this course is 72	He needs to make this shot for par .	T
+2194	wall	N	6-5	competition was pushing them to the wall	The wind blew against the walls of the tent .	F
+2202	neighborhood	N	5-8	the price is in the neighborhood of $ 100	he always blames someone else in the immediate neighborhood	F
+2207	hold	V	1-2	I hold with those who say life is sacred	The bridge held	F
+2208	mouth	N	3-3	 Open your mouth and say ' aah ' ,  directed the doctor .	he stuffed his mouth with candy	T
+2209	object	N	1-0	the object of my affection	objects of thought	T
+2211	turn	V	0-1	turn the heat down	She turned to her relatives for help	F
+2212	fit	V	4-5	This man ca n't fit himself into our work environment	The small shirt does n't fit me , so I 'll buy the medium size .	F
+2217	buildup	N	2-4	a military buildup in preparation for the invasion	I envied his rapid buildup of assets	T
+2218	pay	V	0-0	pay a visit	pay a call	T
+2222	baseball	N	3-2	there was a baseball game on every empty lot	he played baseball in high school	T
+2224	mean	V	3-2	I did n't mean to knock your tooth out .	I only meant to help you	T
+2225	buy	V	4-3	I 'm going to buy my father something nice for his birthday .	This sum will buy you a ride on the train	F
+2228	play	V	0-4	play a hooked fish	This speech did n't play well with the American public	F
+2235	shot	N	6-6	he is still recovering from a shot to his leg	I caught him with a solid shot to the chin	T
+2244	head	N	1-9	200 head of cattle and 50 head of horses	I could n't get his words out of my head	F
+2245	drain	N	1-1	a drain on resources	a drain of young talent by emigration	T
+2247	bear	V	0-0	bear a heavy load	bearing orders	T
+2250	water	N	7-8	first you have to cut off the water	The boat was found in within the territorial waters .	F
+2252	carry	V	0-1	carry too far	She carries her mother 's genes	F
+2256	danger	N	3-4	there was widespread danger of disease	you are in no danger	T
+2259	basket	N	6-4	The point guard drove toward the basket .	Let 's play some basket .	T
+2266	course	N	1-3	the course of the river	he took a course in basket weaving	F
+2269	principle	N	2-1	Bernoulli 's principle ;     The http://en.wikipedia.org/wiki/Pauli_exclusion_principle Pauli Exclusion Principle prevents two fermions from occupying the same state .     The principle of the internal combustion engine	the principles of democracy	T
+2272	drill	V	0-0	drill a hole into the wall	drill for oil	T
+2276	dwelling	N	2-4	Philip 's dwelling fronted on the street . - Alfred Tennyson	he built a modest dwelling near the pond	T
+2284	break	V	2-0	Kids were break - dancing at the street corner	break a promise	F
+2291	conceive	V	7-2	Assisted procreation can help those trying to conceive .	The racist conceives such people to be inferior	F
+2302	breath	N	4-4	he took a deep breath and dived into the pool	I could hear the breath of the runner behind me .	T
+2311	furniture	N	3-2	A chair is furniture . Sofas are also furniture .	How much furniture did they leave behind ?	T
+2316	mount	V	0-0	mount an attack	mount a play	T
+2319	pay	V	0-3	pay up , please !	She offered to pay the bill ;    he has paid his debt to society	T
+2323	cycle	N	9-4	"The "" Ring of the Nibelung "" is a cycle of four operas by Richard Wagner , the famous nineteenth - century German composer ."	a year constitutes a cycle of the seasons	F
+2332	keep	V	1-0	I keep a small stock of painkillers for emergencies .	Keep smiling	F
+2344	strength	N	6-3	they measured the station 's signal strength	He had the strength of ten men .	T
+2347	performance	N	3-11	they admired his performance under stress	when Roger Maris powered four home runs in one game his performance merits awe	T
+2356	make	N	1-1	what make of car is that ?	What make of car do you drive ?	T
+2360	voice	N	1-3	the voice of experience	he said his voices told him to do it	T
+2364	treatment	N	11-1	The change is due largely to the increased availability of antiretroviral treatment .	A treatment or cure is applied after a medical problem has already started .	T
+2366	play	V	14-2	I 've practiced the piano off and on , and I still ca n't play very well .	This factor played only a minor part in his decision	F
+2367	flight	N	6-4	Where is the departure gate for flight 747 ? / Go straight down and to the right .	I took the noon flight to Chicago	T
+2376	be	V	2-2	I shall be writing to you soon .	It had been six days since his departure , when I received a letter from him .	T
+2379	drink	N	5-5	Can I buy you a drink ?	I asked for a hot drink	T
+2382	make	V	0-1	make love , not war	We made for the mountains	F
+2387	set	V	0-2	set a broken bone	The moon sets at eight o'clock tonight .	F
+2394	stick	N	6-6	the policy so far is all stick and no carrot	fever left him weak on his sticks	F
+2395	opening	N	1-1	the opening received good critical reviews	the opening established the basic theme	F
+2396	keep	V	1-0	I keep a small stock of painkillers for emergencies .	keep appointments	F
+2403	nick	N	4-9	he 's in the nick	He was arrested and taken down to Sun Hill nick police station to be charged .	T
+2407	break	V	0-6	break cigarette smoking	He slipped on the ice and broke his leg .	F
+2413	make	V	3-1	He did n't make the choir after his voice changed .	She makes more than he does , and works longer hours than he does , but she still does most of the house - cleaning .	T
+2414	mechanism	N	1-1	the mechanism of the ear	the mechanism of infection	T
+2415	play	V	0-0	play safe	play fair	T
+2416	scratch	V	2-2	Do n't scratch your insect bites !	the lovers scratched their names into the bark of the tree	F
+2419	drift	V	0-2	drift the cattle herds westwards	the laborers drift from one town to the next	F
+2425	presence	N	6-4	Any painter can benefit from the presence of a live model from which to draw .	he tested for the presence of radon	T
+2432	drive	V	1-0	We drive the turnpike to work	drive the forest	F
+2442	impute	V	1-1	People impute great cleverness to cats	We imputed this quotation to Shakespeare .	T
+2449	cut	V	0-2	cut recording tape	The boat cut the water	F
+2456	grain	N	4-4	sand of a fine grain	a stone of coarse grain	T
+2460	concern	N	8-4	The employees ' attitude is really hurting the concern .	a racially integrated business concern	T
+2463	chain	N	1-6	the chain of command	The third link of the silver chain needs to be resoldered .	T
+2465	sublime	V	0-2	sublime iodine	some salts sublime when heated	T
+2468	see	V	13-1	They 're blind to the damage they do , but someday they 'll see .	I see that you have been promoted	F
+2471	make	V	1-1	Clothes make the man	He made to speak but said nothing in the end	F
+2472	pass	V	0-3	pass along the good news	A black limousine passed by when she looked out the window	F
+2473	come	V	0-1	come into the room	He came singing down the road	T
+2491	order	N	0-4	order ruled in the streets	The house is in order ; the machinery is out of order .	T
+2496	hold	V	2-2	I 'll hold you by your promise	He 's held by a contract	T
+2503	house	N	3-3	he has a house on Cape Cod	This is my house and my family 's ancestral home .	T
+2507	stimulate	V	0-2	stimulate my appetite	This play stimulates	F
+2511	wall	N	5-1	negotiations ran into a brick wall	a wall of smoke	T
+2513	pull	V	7-0	You 'll be sent home if you pull another stunt like that .	pull a bank robbery	T
+2520	optimization	N	2-2	in an optimization problem we seek values of the variables that lead to an optimal value of the function that is to be optimized	the simultaneous optimization of growth and profitability	T
+2522	draw	V	1-0	I draw a line here	draw parallels	T
+2524	bed	N	4-8	the gardener planted a bed of roses	We added a new rosebush to our rose bed .	T
+2533	come	V	0-2	come out of the closet !	A scream came from the woman 's mouth	F
+2539	match	V	4-2	His interests did n't match her interests .	let them match their best athletes against ours	F
+2545	make	V	6-1	You have to spend money to make money !	She makes more than he does , and works longer hours than he does , but she still does most of the house - cleaning .	T
+2549	raise	V	6-1	We visited a farm where they raise chickens .	To raise somebody to office	T
+2551	respect	N	3-5	she lost all respect for him	be sure to give my respects to the dean	F
+2552	feeling	N	3-5	she had a feeling of euphoria	The house gave me a feeling of dread .	T
+2561	place	N	11-4	We thought we would win but only ended up in fourth place .	He comes from a place near Chicago	F
+2563	run	N	7-15	the assembly line was on a 12-hour run	He went to Las Vegas and spent all his money over a three - day run .	T
+2565	have	V	3-0	What do we have here ?	have , throw , or make a party	F
+2568	time	N	12-6	Time stops for nobody .     the ebb and flow of time	it took more than half my time	F
+2583	reenactment	N	8-1	They 're going to the Civil War battle reenactment this weekend .	the reenactment of the battle of Princeton	T
+2585	third	N	3-4	he is playing third	Now put it into third .	F
+2593	ambition	N	1-1	My ambition is to own a helicopter .	his ambition is to own his own business	T
+2598	head	N	1-1	the head of the list	the head of the page	T
+2609	containment	N	1-1	the containment of the rebellion	the containment of the AIDS epidemic	T
+2618	breath	N	6-4	he was fighting to his last breath	he took a deep breath and dived into the pool	T
+2624	chain	N	1-1	the chain of command	A chain of ideas , one leading to the next	T
+2630	wilderness	N	10-1	the duties of citizenship are lost sight of in the wilderness of interests of individuals and groups	a wilderness of masts in the harbor	T
+2636	hearing	N	1-1	his hearing was impaired	My hearing is n't what it used to be , but I still heard that noise .	T
+2639	drop	N	1-4	a drop of each sample was analyzed	there is not a drop of pity in that man	T
+2641	admit	V	3-1	We can not admit non - members into our club building	She admitted us .	T
+2646	carry	V	2-2	I always carry money	The troops carried the town after a brief fight	F
+2652	read	V	2-1	I can read his feelings in his face .	She read my mind and promptly rose to get me a glass of water .	T
+2653	mouth	N	4-6	he rode into the mouth of the canyon	they built a fire at the mouth of the cave	T
+2655	top	N	2-6	only the top side of the box was painted	he stared as she buttoned her top	F
+2659	think	V	3-1	She did n't think to harm me	We thought to return early that night	T
+2668	carry	V	1-2	We carry a very large mortgage	The motion carried easily	F
+2671	fabric	N	5-1	it is part of the fabric of society	The fabric of our lives	T
+2681	reaction	N	2-3	a bad reaction to the medicine	the forces of reaction carried the election	F
+2689	break	V	0-1	break a record	You broke the alarm clock when you took it apart !	F
+2692	apply	V	1-0	I apply this rule to get good results	apply for a job	F
+2693	gather	V	0-12	gather some stones	If you want to emphasise the shape , it is possible to gather the waistline .	F
+2694	rub	V	0-1	rub oil into her skin	I rubbed the cloth over the glass .	T
+2696	pull	V	0-0	pull the trigger of the gun	Pull the rope	T
+2698	dip	N	3-2	there was a dip in the road	This onion dip is just scrumptious .	F
+2700	winnow	V	0-0	winnow chaff	winnow the finalists from the long list of applicants	F
+2713	feel	N	3-3	"he has a feel for animals "" or "" it 's easy when you get the feel of it"	She has a feel for music .	T
+2715	draw	V	10-0	At the start of their turn , each player must draw a card .	draw a card	T
+2716	body	N	1-8	the body of the car was badly rusted	Penny was in the scullery , pressing the body of her new dress .	F
+2720	line	N	1-4	the line of soldiers advanced with their bayonets fixed	he has a smooth line but I did n't fall for it	F
+2728	thrust	N	1-3	the thrust of the jet engines	he made a thrusting motion with his fist	F
+2739	deal	N	5-6	I believe it 's your deal .	I did n't have a good deal all evening .	T
+2756	inclination	N	2-1	the alkaline inclination of the local waters	her inclination is for classical music	F
+2760	pad	V	0-0	pad the seat of the chair	pad a bra	F
+2764	charge	V	0-2	charge the wagon with hay	The teacher charged the children to memorize the poem	F
+2768	work	V	0-0	work the metal	work one 's way through the crowd	F
+2772	range	N	7-5	the plains lay just beyond the mountain range	the valley was between two ranges of hills	T
+2774	serve	V	1-1	They serve a restricted role on the bench .	She served in Congress for two terms	F
+2779	keep	V	0-0	keep notes	keep a diary	T
+2787	cut	V	2-1	The coach cut two players from the team	Wayne cut	F
+2794	hinge	N	4-4	his absence is the hinge of our plan	This argument was the hinge on which the question turned .	T
+2795	run	V	0-2	run a new program on the Mac	Do n't run that software unless you have permission . '	T
+2798	worry	N	4-5	I 'm afflicted by worry throughout the night .	it is not work but worry that kills	T
+2800	term	N	2-2	Near - term , mid - term and long - term goals	a prison term	T
+2801	year	N	2-3	This Chinese year is the year of the Rooster .	she is 4 years old	T
+2810	go	V	0-4	go about the world in a certain manner	His knowledge does n't go very far	F
+2823	have	V	0-3	have a feeling	I wo n't have this dog in my house !	F
+2824	business	N	4-7	show me where the business was today	They did nearly a million dollars of business over the long weekend .	T
+2825	drop	N	1-3	a drop of each sample was analyzed	there was a drop in pressure in the pulmonary artery	F
+2834	capital	N	10-4	The Welsh government claims that Cardiff is Europe 's youngest capital .	Washington D.C. is the capital of the United States of America .	T
+2837	run	N	4-3	the ship made its run in record time	she got a run in her stocking	F
+2846	spread	N	5-1	they put out quite a spread	the spread between lending and borrowing costs	F
+2853	unravel	V	2-11	can you unravel the mystery ?	Stop playing with the seam of the tablecloth ! You will unravel it .	T
+2858	beat	V	2-0	The boat beat in the strong wind	beat the subway fare	F
+2861	develop	V	0-2	develop a market for the new mobile phone	Well - developed breasts	F
+2864	play	V	3-3	I used to play with trucks as a little girl	The kids were playing outside all day	T
+2872	cut	V	0-2	cut recording tape	The baby cut a tooth	F
+2876	melt	V	13-2	When the weather is warm , the snowman will disappear ; he will melt .	The wax melted in the sun	T
+2879	order	N	4-5	men from the fraternal order will staff the soup kitchen today	an explosion of a low order of magnitude	F
+2884	set	V	0-0	set the table	Set the dogs on the scent of the missing children	F
+2886	use	V	2-2	we only use Spanish at home	We can use this mathematical formula to solve the problem .	T
+2891	side	N	5-2	it brought out his better side	the Confederate side was prepared to attack	F
+2893	block	V	0-0	block a plate for printing	block the wheels of a car	T
+2907	change	N	5-1	The product is undergoing a change in order to improve it .	the change was intended to increase sales	T
+2909	read	V	3-3	I ca n't read his strange behavior	The fortune teller read his fate in the crystal ball	T
+2913	shoot	V	0-0	shoot a basket	shoot a movie	F
+2915	flip	V	3-0	You need to flip the pancake onto the other side .	flip over the pork chop	T
+2917	head	N	5-9	tickets are $ 5 per head	Be careful when you pet that dog on the head ; it may bite .	F
+2921	home	N	0-7	home is where the heart is	he grew up in a good Christian home	T
+2925	hold	V	4-1	A crazy idea took hold of him	I hold him personally responsible	F
+2927	hold	V	2-3	He can hold his liquor	This theory still holds	F
+2928	cut	N	2-6	the unkindest cut of all	the barber gave him a good cut	F
+2931	statement	N	4-4	his tantrums are a statement of his need for attention	a Cadillac makes a statement about who you are	T
+2934	halt	V	0-0	halt the presses	Halt the engines	T
+2938	fall	V	4-0	The hills around here fall towards the ocean	fall into a trap	F
+2939	see	V	3-4	I went to see my friend Mary the other day	This program will be seen all over the world	F
+2964	see	V	4-3	What message do you see in this letter ?	We had to see a psychiatrist	F
+2990	cut	N	4-2	he took a vicious cut at the ball	the unkindest cut of all	F
+2994	work	V	0-3	work one 's way through the crowd	The rock musician worked the crowd of young girls into a frenzy	F
+3002	play	V	5-1	Play football ;    play sports ;    play games	Pele played for the Brazilian teams in many important matches	T
+3003	stage	N	6-7	then we embarked on the second stage of our Caribbean cruise	we went out of town together by stage about ten or twelve miles	F
+3007	strike	V	0-2	strike ` z ' on the keyboard	her comments struck a sour note	T
+3008	case	N	7-2	The teaching consists of theory lessons and case studies .	A door case ; a window case	F
+3009	leak	N	6-1	he had to clean up the leak	A leak in a boat	T
+3012	stay	V	0-2	stay alone	The judge stayed the execution order	F
+3013	bum	N	4-9	That mechanic 's a bum - he could n't fix a yo - yo .	That guy keeps interrupting the concert . Throw the bum out !	T
+3016	come	V	0-0	come into the room	Come with me to the Casbah	T
+3017	boy	N	3-4	she made the boy brush his teeth every night	most soldiers are only boys in uniform	T
+3020	get	V	3-2	What do you get when you add up these numbers ?	Let 's get down to work now	F
+3022	cut	V	0-1	cut the songs	She cut all of her major titles again	T
+3023	answer	V	5-2	She did n't want to answer	This may answer her needs	F
+3027	system	N	3-1	in a static system oil can not be replaced by water on a surface	the system consists of a motor and a small computer	F
+3031	whisk	V	0-4	whisk the eggs	The chef prepared to whisk the egg whites for the angel 's food cake .	T
+3034	serve	V	1-2	They serve a restricted role on the bench .	He had served in financial planning positions .	T
+3040	pay	V	0-2	pay a call	You 'll pay for this !	F
+3042	time	N	3-1	See you another time ;    that 's three times he 's made the same mistake	this time he succeeded	T
+3043	have	V	3-1	I do n't have any money left	I have two years left	T
+3045	burn	V	4-2	He watched the house burn .	The sun burned his face	F
+3050	howl	N	3-0	he gave a howl of pain	howls of laughter	T
+3058	day	N	1-4	my day began early this morning	she called it a day and went to bed	T
+3066	spell	V	13-4	The letters “ a ” , “ n ” and “ d ” spell “ and ” .	I 'm afraid this spells trouble !	F
+3084	session	N	6-2	" Are we having a recording session ?  / "" Yes . We 've even got some session musicians to provide some brass . """	A training session	T
+3085	raise	V	0-0	raise hell	raise Cain	T
+3086	make	V	0-1	make up a room	She made ten points in that game .	F
+3087	ghetto	N	6-4	the relative security of the gay ghetto	no escape from the ghetto of the typing pool	T
+3093	cup	N	3-3	he drank a cup of coffee	he borrowed a cup of sugar	T
+3102	follow	V	3-0	These people still follow the laws of their ancient religion	follow the road	F
+3104	look	N	5-5	I do n't like the look of the new design .	I do n't like the looks of this place	T
+3106	business	N	2-15	We do business all over the world .	He 's such a poor cook , I ca n't believe he 's still in business !	T
+3118	try	V	11-4	If you want to play varsity , you 'll have to try out for the team .	This approach has been tried with good results	T
+3119	take	V	2-3	Do you take sugar in your coffee ?	A reading was taken of the earth 's tremors	F
+3121	make	V	0-2	make lead into gold	My wife made me buy a new sofa	F
+3122	light	N	2-8	Put that light out !	he stopped the car and turned off the lights	T
+3130	know	V	1-1	I know it 's time	He knows about 19th century politics .	T
+3134	trade	N	7-3	they are accused of conspiring to constrain trade	they rode the trade winds going west	F
+3136	blight	V	4-3	Too much rain may blight the garden with mold	This vine never blights .	T
+3140	push	V	2-1	` Now push hard , ' said the doctor to the woman	He pushed her to finish her doctorate	F
+3143	develop	V	1-1	Please develop this roll of film for me	They developed a new technique	F
+3147	cut	V	0-5	cut a ticket	Cut orders ;    cut a check	T
+3148	convert	V	0-1	convert lead into gold	He converted his garden into a tennis court .	T
+3153	break	V	0-0	break a circuit	break down a proof	F
+3166	run	N	3-6	I have a run in my stocking .	The bus on the Cherry Street run is always crowded .	F
+3168	audience	N	4-4	every artist needs an audience	the broadcast reached an audience of millions	T
+3171	touch	N	3-5	he has a touch of rheumatism	this piano has a wonderful touch	F
+3173	place	N	3-5	he lost his place on the page	a political system with no place for the less prominent groups	F
+3175	head	N	1-4	the head of the column advanced boldly	they were at the head of the attack	T
+3178	quality	N	10-14	Membership of this golf club is limited to those of quality and wealth .	While being impulsive can be great for artists , it is not a desirable quality for engineers .	F
+3179	trust	V	2-1	do n't trust my ex - wife	I trust you will behave better from now on	F
+3187	catch	N	2-5	he played catch with his son in the backyard	The kids love to play catch .	T
+3189	book	N	5-7	I am reading a good book on economics	they got a subpoena to examine our books	F
+3190	come	V	0-1	come out of the closet !	He came from France .	T
+3192	carry	V	3-7	He can not carry a tune	he had drunk more than he could carry	F
+3204	take	V	0-0	take shelter from the storm	Take a test	F
+3212	containment	N	1-1	the containment of the AIDS epidemic	the containment of the rebellion	T
+3216	richness	N	6-1	the fire - light gave a richness of coloring to that side of the room	the richness all around unsettled him for he had expected to find poverty	F
+3221	pay	V	3-1	Crime does n't pay ;     it will pay to wait	He paid me 5000 pounds for the car .	F
+3222	make	V	3-0	This invention will make you a millionaire	Make yourself clear	T
+3223	puncture	V	0-2	puncture a tire	The tire punctured	F
+3224	score	N	3-1	he studied the score of the sonata	a score were sent out but only one returned	F
+3228	pay	V	0-0	pay an obligation	pay a debt	T
+3231	session	N	2-6	A training session	" Are we having a recording session ?  / "" Yes . We 've even got some session musicians to provide some brass . """	T
+3239	make	V	0-5	make a decision	Again , the cat had made on the expensive rug	F
+3240	hit	V	1-1	We hit Detroit at one in the morning but kept driving through the night .	He hit a home run	F
+3249	touch	N	10-3	With the lights out , she had to rely on touch to find her desk .	only sight and touch enable us to locate objects in the space around us	T
+3252	power	N	1-2	the power of his love saved her	the deterrent power of nuclear weapons	T
+3259	empathize	V	5-4	You 've really got to empathize with what they want .	You really have to empathize .	T
+3261	get	V	2-3	Let 's get down to work now	You can not get water out of a stone	F
+3265	run	V	0-2	run a subject	Musical talent runs in the family	F
+3274	bit	N	1-7	a bit of lint	the horse was not accustomed to a bit	F
+3278	draft	N	4-7	they served beer on draft	He left the country to avoid the draft .	F
+3279	live	V	2-1	Can you live on $ 2000 a month in New York City ?	I lived through two divorces	F
+3282	development	N	1-2	the development of his ideas took many years	the slow development of her skill as a writer	T
+3294	run	V	0-2	run a process	he is running the Marathon this year	F
+3295	hand	N	2-1	a ranch hand	Her hands are really strong .	F
+3306	make	V	1-0	I make the height about 100 feet	make water into wine	F
+3317	coast	N	2-6	The rocky coast of Maine has few beaches .	the children lined up for a coast down the snowy slope	F
+3334	fatigue	N	5-5	the soldiers were put on fatigue to teach them a lesson	they were assigned to kitchen fatigues	T
+3341	begin	V	0-2	begin a cigar	My property begins with the three maple trees	F
+3346	give	V	2-1	I 'll give you three books for four CDs	She gave the boy a good spanking	F
+3347	operation	N	2-5	a multinational operation	a large - scale farming operation	T
+3352	krona	N	4-8	Piecas kronas — five krona	Kronas kurss — the exchange rate of the krona	T
+3359	breath	N	3-4	The child 's breath came quickly and unevenly .	he took a deep breath and dived into the pool	T
+3360	call	V	3-6	The ship will call in Honolulu tomorrow	A transmitter in Samoa was heard calling	F
+3380	play	V	4-1	This speech did n't play well with the American public	I played no role in your dismissal	F
+3393	ministry	N	2-5	The present ministry of the Holy Spirit	he is studying for the ministry	T
+3397	charge	N	4-4	The child was a charge of the nanny .	the teacher led her charges across the street	T
+3401	play	V	2-0	Let 's play like I am mommy	Play cowboy and Indians	T
+3407	damage	N	4-4	how much is the damage ?	 What 's the damage ?  he asked the waiter .	T
+3416	take	V	0-2	take a risk	The story took a new turn	F
+3419	take	V	0-0	take action	Take a swipe at one 's opponent	F
+3423	war	N	2-1	a price war	a war of wits	T
+3426	read	V	3-1	I ca n't read his strange behavior	She read the sky and predicted rain	T
+3440	impression	N	4-5	he made a good impression	I wanted to create an impression of success	T
+3441	border	N	2-1	A solid border around a table of figures	The border between Canada and USA is the longest in the world .	F
+3456	job	N	8-1	estimates of the city 's loss on that job ranged as high as a million dollars	the job of repairing the engine took several hours	T
+3460	length	N	3-1	he determined the length of the shortest line segment joining the two points	a length of tubing	F
+3461	fall	V	0-1	fall by the wayside	Christmas falls on a Monday this year	F
+3472	break	V	10-1	If the vase falls to the floor , it might break .	Twigs break off of those branches easily .	F
+3474	rank	N	6-5	his salary was determined by his rank and seniority	the entrance was guarded by ranks of policemen	F
+3481	count	V	2-5	Can you count the books on your shelf ?	There are three apples ; count them .	T
+3482	beat	V	0-0	beat the subway fare	beat the table with his shoe	F
+3487	cut	V	0-2	cut a disk	The boat cut the water	F
+3491	land	V	5-2	It can be tricky to land a helicopter .	this may land you in jail	T
+3500	term	N	7-1	he left school before the end of term	The term allowed to a debtor to discharge his debt	T
+3504	take	V	1-0	We take the Times every day	take action	F
+3505	life	N	3-6	while there 's life there 's hope	I have known him all his life	F
+3512	vegetate	V	2-3	The fields vegetate vigorously	The bacterial growth vegetated along	F
+3518	cut	V	0-0	cut the engine	cut from one scene to another	F
+3519	play	V	0-1	play safe	She played all her money on the dark horse	F
+3520	blowout	N	6-5	the right front tire had a blowout	as a result of the blowout we lost all the lights	T
+3529	contact	N	7-5	they claimed that they had been in contact with extraterrestrial beings	they forget to solder the contacts	F
+3533	carry	V	2-2	These bonds carry warrants	this undertaking carries many dangers	T
+3544	cover	V	8-0	When the pot comes to a boil , cover it and reduce the heat to medium .	cover the meat with a lot of gravy	F
+3557	cut	V	0-1	cut a disk	This cuts into my earnings	F
+3558	war	N	1-2	the war against crime	"The "" war on terror "" is a campaign against terrorist crime ."	T
+3562	take	V	2-2	Shall we take a guide in Rome ?	Do you take sugar in your coffee ?	F
+3563	play	V	3-3	On weekends I play	the stereo was playing Beethoven when I entered	F
+3567	size	N	8-3	she hates me , that 's about the size of it	that 's the size of the situation	T
+3571	order	N	4-3	The house is in order ; the machinery is out of order .	IBM received an order for a hundred computers	F
+3574	hold	V	4-0	A crazy idea took hold of him	Hold the pencil like this .	T
+3578	save	V	3-3	This move will save money	Where did I save that document ? I ca n't find it on the desktop .	F
+3581	see	V	1-3	I see that you have been promoted	I want to see whether she speaks French	F
+3586	resistance	N	4-1	the enemy offered little resistance	Widespread resistance to the new urban development plans	T
+3590	heat	V	0-2	heat the water on the stove	the sun heats the oceans	T
+3593	catch	V	4-11	The fashion did not catch	I have some free time tonight so I think I 'll catch a movie .	F
+3596	fabric	N	5-1	it is part of the fabric of society	The fabric of the universe	T
+3604	breath	N	6-2	he was fighting to his last breath	not a breath of scandal ever touched her	F
+3606	third	N	13-4	he answered the first question willingly , the second reluctantly , and the third with resentment	Now put it into third .	F
+3607	ulteriority	N	6-5	his stories were too susceptible to ulteriority	their conversation was limited to ulteriorities	T
+3609	form	N	7-4	he was at the top of his form	the team was off form last night	T
+3615	make	V	1-0	To make like a deer caught in the headlights .	make a wall of stones	F
+3616	run	V	0-4	run a new program on the Mac	Our coach had us running plays for the whole practice .	T
+3617	raise	V	0-0	raise a shout	raise a protest	T
+3619	hold	V	0-2	hold a reception	The canteen holds fresh water	F
+3620	take	V	3-2	I do n't take sugar in my coffee	His voice took on a sad tone	F
+3621	unionize	V	11-13	The company laid off all the workers when they tried to unionize .	We do n't allow people to come into our plant and try to unionize the workers	T
+3625	end	N	5-5	he came to a bad end	no one wanted to play end	F
+3631	movement	N	2-8	the second movement is slow and melodic	it was an expensive watch with a diamond movement	F
+3633	dig	V	0-0	dig salt	dig coal	T
+3634	discover	V	10-5	The story is false , so far as I can discover	Turning the corner , I discovered a lovely little shop .	T
+3640	hold	V	2-3	She can hold an audience spellbound	Elections will be held on the first Sunday of next month .	F
+3645	make	V	0-0	make revolution	make enemies	F
+3655	behave	V	2-5	Do n't behave like a fool	The children must learn to behave	F
+3657	society	N	9-5	It was then that they decided to found a society of didgeridoo - playing unicyclists .	they formed a small lunch society	T
+3658	hold	V	2-6	He can hold his liquor	To carry well , i.e. to hold the head high , with arching neck	F
+3659	trial	N	1-6	a trial of progesterone failed to relieve the pain	a sample for ten days free trial	T
+3663	day	N	4-4	it was a busy day on the stock exchange	she called it a day and went to bed	T
+3665	job	N	7-4	he gave it up as a bad job	she did an outstanding job as Ophelia	T
+3667	trial	N	9-3	he called each flip of the coin a new trial	in the experimental trials the amount of carbon was measured separately	T
+3670	raise	V	1-0	To raise Sandy Hook light	raise the specter of unemployment	F
+3676	turn	V	18-0	The hillside behind our house is n't generally much to look at , but once all the trees turn it 's gorgeous .	turn cartwheels	F
+3677	pay	V	3-1	Crime does n't pay ;     it will pay to wait	To pay attention	F
+3679	authority	N	3-2	I have the authority to penalise the staff in my department , but not the authority to sack them .	Respect my authority !	T
+3681	difference	N	9-8	You need to learn to be more tolerant of difference .	It just wo n't make much of a difference to anyone .	F
+3684	break	V	0-4	break the cycle of poverty	The first winter storm broke over New York	F
+3688	break	V	0-1	break a circuit	She broke the vase .	F
+3693	hit	V	3-1	He tries to hit on women in bars	He hit a home run	F
+3696	take	V	4-3	This surface will not take the dye	The test grader takes off a point for every misspelled word .	F
+3698	support	N	4-1	they gave him emotional support during difficult times	his support kept the family together	T
+3699	unit	N	6-5	the word is a basic linguistic unit	the reduced the number of units and installations	T
+3708	round	N	3-5	we enjoyed our round of the local bars	the story is going the rounds in Washington	F
+3710	movement	N	2-2	the second movement is slow and melodic	a broad movement of the electorate to the right	F
+3715	make	V	0-2	make a decision	She 'll make a fine president .	F
+3716	clear	V	0-2	clear a debt	The fog cleared in the afternoon	F
+3717	hold	V	2-2	She can hold an audience spellbound	The beam holds up the roof	F
+3721	reek	V	1-1	You reek of perfume .	Marshes reeking in the sun	F
+3724	break	V	5-6	The book dealer would not break the set	I do n't know how to break this to you , but your cat is not coming back .	F
+3725	break	V	2-2	Can you break a hundred - dollar bill for me ?	The dam broke	F
+3726	space	N	1-3	the space between his teeth	the architect left space in front of the building	T
+3731	keep	V	2-9	These potatoes keep for a long time	Our grant has run out and we can not keep you on	F
+3733	make	V	0-0	make a decision	make a move	T
+3740	see	V	8-7	You have to be a good observer to see all the details	He is blind -- he can not see	T
+3743	pull	V	0-0	pull the old soup cans from the supermarket shelf	pull a bank robbery	F
+3748	face	N	2-3	an angry face	Why the sad face ?	F
+3749	dresser	N	4-4	he 's a meticulous dresser	she 's an elegant dresser	T
+3754	clearance	N	4-2	the plane was given clearance to land	He got clearance to travel to America , even though he had previous links to terrorists	T
+3756	run	N	15-7	He went to Las Vegas and spent all his money over a three - day run .	the assembly line was on a 12-hour run	T
+3757	press	V	3-3	This guy can press 300 pounds	This is a pressing problem	F
+3764	stretch	V	1-1	Cats stretch with equal ease and agility beyond the point that breaks a man on the rack .	I stretched the rubber band until it almost broke .	F
+3767	neighborhood	N	8-5	he always blames someone else in the immediate neighborhood	the price is in the neighborhood of $ 100	F
+3771	action	N	6-2	the piano had a very stiff action	recent federal action undermined the segregationist position	F
+3778	block	V	0-2	block the book cover	His brother blocked him at every turn	F
+3793	make	V	3-4	They hope to make a bigger profit	How much do you make a month in your new job ?	T
+3794	hyponym	N	3-3	Dog is a hyponym of animal .	British is a hyponym of European .	T
+3805	academy	N	2-2	The military academy at West Point ; a riding academy ; the Academy of Music .	The French Academy ; the American Academy of Arts and Sciences ; academies of literature and philology .	F
+3808	give	V	0-0	give a course	give a yelp	F
+3812	fall	V	4-2	The hills around here fall towards the ocean	his eyes fell	F
+3814	see	V	2-1	let 's see -- which movie should we see tonight ?	I saw their laughing and joking .	F
+3819	one	N	4-3	they had lunch at one	he has the one but will need a two and three to go with it	T
+3825	analyze	V	0-2	analyze the evidence in a criminal trial	The inspector analyzed the building for its soundness .	T
+3833	raise	V	0-0	raise a siege	raise from the dead	F
+3843	cut	V	0-1	cut a dress	soap cuts grease	F
+3844	replace	V	3-1	the insurance will replace the lost income	He replaced the old razor blade	T
+3849	sign	N	6-4	Their angry expressions were a clear sign they did n't want to talk .	Those clouds show little sign of raining soon .	T
+3853	work	V	4-2	She knows how to work the system	A ship works in a heavy sea .	F
+3857	contact	N	0-3	contact with the pier scraped paint from the hull	the pilot made contact with the base	F
+3858	hit	N	8-7	Where am I going to get my next hit ?	after three misses she finally got a hit	F
+3859	feel	V	2-1	The sheets feel soft	He felt the wind	F
+3863	head	N	1-1	The head of the compass needle is pointing due north .	"the head of the nail "" , "" a pinhead is the head of a pin"	F
+3877	drink	N	4-19	he jumped into the drink and had to be rescued	If he does n't pay off the mafia , he 'll wear cement shoes to the bottom of the drink !	T
+3879	business	N	2-5	We do business all over the world .	he bought his brother 's business	F
+3883	ski	V	4-3	My children do n't ski	We love to ski the Rockies	T
+3885	make	V	7-4	A good review by this critic will make your play !	This company is what made you .	T
+3888	break	V	0-0	break a circuit	break a promise	F
+3895	drive	V	0-2	drive a car or bus	She finally drove him to change jobs	F
+3897	carry	V	2-2	These bonds carry warrants	The restaurant carries an unusual name	T
+3902	head	N	1-4	The head of the compass needle is pointing due north .	matters came to a head yesterday	F
+3907	key	N	5-7	some students had stolen the key to the final exam	Some students cheated by using the answer key .	T
+3914	dress	V	3-1	Can the child dress by herself ?	Marlene dressed the baby .	T
+3916	cover	V	4-2	The grant does n't cover my salary	The President covered the fact that he bugged the offices in the White House	F
+3918	catch	V	11-1	I have some free time tonight so I think I 'll catch a movie .	He caught the last three innings .	F
+3923	support	N	6-3	they developed a scheme of mutual support	The government provides support to the arts in several ways .	T
+3929	mean	V	3-1	I did n't mean to knock your tooth out .	I meant to take the car in for a smog check , but it slipped my mind .	T
+3933	cut	V	1-1	She cut the deck for a long time	soap cuts grease	F
+3934	purchase	V	1-1	To purchase land , to purchase a house	Carmen purchased a dress for $ 50 .	T
+3939	development	N	3-1	what a revolting development !	recent developments in Iraq	T
+3943	shift	V	4-0	We 'll have to shift these boxes to the downtown office .	shift one 's attention	T
+3954	move	V	9-1	The chairman of the company told the salesmen to move the computers	she moves in certain circles only	F
+3956	hold	V	0-2	hold your temper	The book holds in store much valuable advise	F
+3958	krona	N	4-1	Piecas kronas — five krona	Papīra krona — paper krona ( i.e. , bills , banknotes )	T
+3971	raise	V	0-0	raise a protest	raise a shout	T
+3976	wear	V	0-1	wear one 's hair in a certain way	She wore a smile all day .	F
+3978	line	N	2-2	toe the line	a washing line	F
+3984	impression	N	5-3	the events left a permanent impression in his mind	he left the impression of his fingers in the soft mud	F
+3987	make	V	0-3	make enemies	What do you make of his remarks ?	F
+4004	time	N	4-3	When was the last time we went out ? I do n't remember .	he called four times	T
+4005	get	V	4-2	Her childish behavior really get to me	the cat got the goldfish	F
+4009	crack	N	4-6	Open the door a crack .	We managed to squeeze through a crack in the rock wall .	T
+4013	catch	V	2-2	did you catch a cold ?	Who is catching ?	F
+4018	mother	N	4-1	The lioness was a mother of four cubs .	the mother of three children	T
+4022	unit	N	8-5	He was a member of a special police unit .	the reduced the number of units and installations	T
+4024	stabilization	N	1-4	wage stabilization is necessary for industrial peace	he worked for price stabilization for farm products	T
+4030	break	V	2-3	let 's break for lunch	his voice is breaking -- he should no longer sing in the choir	F
+4033	take	V	0-2	take the gun from your pocket	Do you take me for a fool ?	F
+4044	break	N	1-4	the break seems to have been caused by a fall	we took a 10-minute break	F
+4045	run	V	3-2	let the dogs run free	Interest rates run from 5 to 10 percent	F
+4048	situation	N	2-2	no human situation is simple	the dangerous situation developed suddenly	T
+4062	run	V	2-0	Do n't run that software unless you have permission . '	run rogue	F
+4068	bevy	N	5-1	he was surrounded by a bevy of beauties in bathing attire	a bevy of young beach boys swarmed around him	T
+4077	break	V	2-4	let 's break for lunch	The first winter storm broke over New York	F
+4082	check	V	0-1	check your luggage before boarding	She checked for an instant and missed a step	F
+4086	believe	V	3-2	You can not believe this man	Should we believe a publication like the National Enquirer ?	T
+4087	sign	N	4-6	The hunters found deer sign at the end of the trail .	Their angry expressions were a clear sign they did n't want to talk .	T
+4091	rate	N	2-1	the literacy rate	The rate of production at the factory is skyrocketing .	F
+4095	start	V	4-2	We simply could not start the engine	The rain started at 9:00 .	F
+4096	space	N	5-1	they stopped at an open space in the jungle	the space between his teeth	T
+4098	set	N	1-1	a set of golf clubs	a set of books	T
+4106	render	V	0-0	render thanks	render fat in a casserole	F
+4115	suit	N	6-12	they buried him in his best suit	"Be sure to keep your nose to the grindstone today ; the suits are making a "" surprise "" visit to this department ."	T
+4121	firewood	N	11-6	After many days of hard work , we finally had enough firewood for the winter .	they collected and cut their own firewood	T
+4122	land	V	5-2	It can be tricky to land a helicopter .	The plane landed in Istanbul	F
+4129	give	V	4-1	I 'm going to give my wife a necklace for her birthday .	He gives of his energies to the organization .	T
+4132	get	V	0-2	get nauseous	the cat got the goldfish	F
+4134	work	V	4-0	She knows how to work the system	Work the metal into a sword	F
+4135	stretch	V	2-2	I always stretch my muscles before exercising .	His mustache stretched all the way to his sideburns .	F
+4137	run	V	4-2	The crowd had to run away from the burning structure with only the clothes on their backs .	Who 's running for treasurer this year ?	F
+4139	plundering	N	1-1	his plundering of the great authors	the plundering of the Parthenon	T
+4145	firewood	N	6-11	they collected and cut their own firewood	After many days of hard work , we finally had enough firewood for the winter .	T
+4150	know	V	1-1	I know Latin	Adam knew Eve	F
+4155	pulp	V	0-0	pulp wood	pulp fruit	T
+4156	demand	N	3-3	there is a demand for jobs	There is a demand for voluntary health workers in the poorer parts of Africa and Asia .	T
+4160	break	V	10-4	If the vase falls to the floor , it might break .	The flat plain was broken by tall mesas	F
+4178	sequence	N	1-7	the sequence of names was alphabetical	he invented a technique to determine the sequence of base pairs in DNA	T
+4182	fall	V	4-2	The hills around here fall towards the ocean	The estate fell to my sister	F
+4187	deal	N	4-5	it was a package deal	We need to finalise the deal with Henderson by midnight .	T
+4197	hyponym	N	4-3	" A is a hyponym of B  means that "" A is a type of B. """	Dog is a hyponym of animal .	T
+4198	coverage	N	6-3	they accused the paper of biased coverage of race relations	There are overlapping coverages on your insurance policies .	F
+4205	play	N	8-1	insiders said the company 's stock was in play	the play of light on the water	F
+4209	return	N	12-2	his gross income was enough that he had to file a tax return	on his return from Australia we gave him a welcoming party	F
+4213	way	N	4-4	did n't know the way home	if I had my way	F
+4220	run	V	5-3	I 'm not ready to run a marathon .	let the dogs run free	F
+4222	life	N	1-1	city life	social life	T
+4235	hand	N	3-2	on the one hand ... , but on the other hand ...	A good hand	F
+4237	smile	N	4-3	He has a sinister smile .	She had a smile on her face .	T
+4241	construction	N	4-5	He had worked in construction all his life .	I concluded from his awkward constructions that he was a foreigner	F
+4242	patch	N	6-3	I lost my locket in this patch of grass here .	Does n't that patch of clouds looks like a bunny ?	T
+4246	freshen	V	5-1	I 'm going to go freshen up .	She freshened up after the tennis game	T
+4257	point	N	6-5	he held me up at the point of a gun	The one with the most points will win the game	F
+4263	extend	V	0-2	extend a loan	The facts extend beyond a consideration of her personal assets	F
+4273	rest	V	4-0	The blame seems to rest with your father .	rest assured	T
+4279	come	V	3-1	Where did you come from ?	He came from France .	F
+4284	field	N	7-8	There were some cows grazing in a field .	A crop circle was made in a corn field .	T
+4292	leak	N	6-1	one of the tires developed a leak	The leaks by Chelsea Manning showed the secrets of the US military .	F
+4294	notice	N	6-1	you did n't give me enough notice	a notice of sale	T
+4295	wall	N	5-1	negotiations ran into a brick wall	the walls of the cylinder were perforated	F
+4299	mine	N	6-9	He came out of the coal mine with a face covered in black .	Most coal and ore comes from open - pit mines nowadays .	T
+4306	line	N	4-1	they were arrayed in line of battle	the line of soldiers advanced with their bayonets fixed	T
+4308	play	V	3-1	On weekends I play	She played all her money on the dark horse	F
+4311	scene	N	5-2	The crazy lady made a scene in the grocery store .	he painted scenes from everyday life	F
+4312	finish	N	10-6	when these final episodes are broadcast it will be the finish of the show	the market was up at the finish	F
+4315	label	N	6-1	We laughed at her because the label was still on her new sweater .	The label says this silk scarf should not be washed in the washing machine .	T
+4324	vote	N	6-4	he failed to get the Black vote	American women got the vote in 1920	F
+4329	cry	V	6-1	That sad movie always makes me cry .	She cried bitterly when she heard the news of his death	T
+4336	fall	V	0-0	fall into a trap	Fall in love	T
+4343	hit	V	1-0	We hit Detroit by noon	hit a ball	F
+4366	offer	V	0-1	offer resistance	He offered his sympathy	F
+4377	patch	N	6-3	The world economy had a rough patch in the 1930s .	Does n't that patch of clouds looks like a bunny ?	T
+4378	turn	V	0-0	turn the earth in the Spring	turn the heat down	F
+4381	block	N	4-7	he held a large block of the company 's stock	the pyramids were built with large stone blocks	F
+4386	take	V	3-1	I used to take The Sunday Times .	We took our seats in the orchestra	F
+4387	right	N	4-4	he writes with his right hand but pitches with his left	hit him with quick rights to the body	T
+4393	get	V	3-3	What do you get when you add up these numbers ?	My children finally got me to buy a computer	F
+4404	war	N	2-1	"The "" war on drugs "" is a campaign against the use of narcotic drugs ."	the war against crime	T
+4405	ball	N	1-6	the ball rolled into the corner pocket	the mayor threw out the first ball	T
+4413	start	V	4-1	We simply could not start the engine	John started the party .	F
+4414	resistance	N	4-1	the enemy offered little resistance	The resistance of bacteria to certain antibiotics	T
+4415	baby	N	0-3	baby rabbits	When is your baby due ?	T
+4420	buy	V	5-1	I 'm not going to buy your stupid excuses anymore !	Carmen bought a dress from Diana .	F
+4424	scene	N	3-14	The most moving scene is the final one , where he realizes he has wasted his whole life .	The play is divided into three acts , and in total twenty - five scenes .	T
+4425	catch	V	2-8	do n't catch your meaning	I have to stop for a moment and catch my breath .	F
+4427	well	V	1-2	Tears well in her eyes	the currents well up	T
+4433	go	V	5-6	This chair has got to go .	How fast does your new car go ?	F
+4435	inactivation	N	1-2	thermal inactivation of serum samples	the gene inactivation system	T
+4440	behave	V	10-5	His mother threatened to spank him if he did n't behave .	The children must learn to behave	F
+4444	origin	N	4-0	the rumor had its origin in idle gossip	origin in sensation	T
+4445	foot	N	4-2	armored from head to foot	his bare feet projected from his trousers	T
+4448	flatten	V	0-14	flatten a road	As there was a lot of damage , we chose the heavy roller to flatten the pitch .	T
+4455	see	V	3-3	How nice to see you again !	We had to see a psychiatrist	F
+4456	catch	V	3-11	I have to catch a train at 7 o'clock	I have some free time tonight so I think I 'll catch a movie .	F
+4462	collision	N	6-1	three passengers were killed in the collision	the collision of the two ships resulted in a serious oil spill	T
+4469	make	V	0-1	make a cake	He made twenty bucks playing poker last night .	F
+4476	stay	N	4-4	they had a nice stay in Paris	a four - month stay in bankruptcy court	T
+4477	texture	N	7-5	The beans had a grainy , gritty texture in her mouth .	the wall had a smooth texture	T
+4478	head	N	1-1	200 head of cattle and 50 head of horses	200 head of cattle	T
+4483	voice	N	3-1	the wee small voice of conscience	the voice of the law	F
+4484	cut	V	2-1	The coach cut two players from the team	We cut through the neighbor 's yard to get home sooner	F
+4485	shift	V	3-1	you have to shift when you go down a steep hill	He shifted in his seat	F
+4494	game	N	7-0	you need four people to play this game	Games in the classroom can make learning fun .	T
+4498	weakness	N	1-3	his weakness increased as he became older	he has a weakness for chocolate	F
+4505	run	V	0-2	run riot	The speech runs as follows : …	F
+4508	pay	V	2-2	You 'll pay for this !	You 'll pay for this opinion later	T
+4515	raise	V	0-0	raise Cain	raise hell	T
+4516	world	N	1-2	the world of insects	the outdoor world	T
+4538	make	V	0-0	make advances	make a decision	T
+4539	remember	V	1-3	I remember the concert clearly , but I ca n't recollect why I was there .	I ca n't remember saying any such thing	T
+4540	hold	V	0-1	hold one 's nose	I hold with those who say life is sacred	F
+4548	action	N	2-2	A rifle action	the Union action of emancipating Southern slaves	F
+4550	pull	V	0-0	pull the oars	pull the ball	F
+4557	check	V	8-2	Katie 's sick , so I need to check up on her and see if she needs anything .	I will check up on the car tomorrow .	T
+4558	be	V	2-1	I shall be writing to you soon .	It is hot in Arizona , but it is not usually humid .	T
+4566	skeleton	N	5-4	the battalion was a mere skeleton of its former self	there must be a skeleton somewhere in that family 's closet	F
+4567	break	V	6-3	This play will either make or break the playwright	I had to break a $ 100 bill just to buy the candy	F
+4570	sale	N	5-8	They are having a clearance sale : 50 % off .	I got some great bargains at their annual sale	T
+4572	stretch	V	0-3	stretch out that piece of cloth	The rubber band stretched almost to the breaking point .	F
+4577	connect	V	3-2	This computer will connect well to the network .	These computers connected well .	T
+4581	tact	N	4-2	By the use of tact , she was able to calm her jealous husband .	I used tact when I told my fat uncle that his extra weight made him look better .	T
+4589	piece	N	3-3	he sacrificed a piece to get a strategic advantage	he needed a piece of granite	F
+4590	operation	N	8-5	they paid taxes on every stage of the operation	a large - scale farming operation	T
+4593	water	N	7-6	He showed me the river of living water , sparkling like crystal , flowing from the throne of God .	he asked for a drink of water	F
+4596	point	N	2-3	the main point on the agenda was taken up first	what is the point of discussing it ?	F
+4600	keep	V	0-2	keep appointments	The students keep me on my toes	F
+4601	origin	N	1-1	mineral origin	vegetable origins	T
+4611	break	V	6-4	I do n't know how to break this to you , but your cat is not coming back .	The newsman wanted to break a big story , something that would make him famous .	T
+4612	dig	V	0-0	dig coal	dig out a channel	F
+4628	ground	N	6-2	they fought to regain the lost ground	they gained ground step by step	T
+4629	purchase	V	5-1	$ 50 wo n't even purchase a dress .	Carmen purchased a dress for $ 50 .	T
+4638	head	N	1-6	the head of the list	A reduction in the assessment per head of sheep	F
+4646	be	V	4-1	When will the meeting be ?	There were two hundred people at his funeral	T
+4655	action	N	9-1	gawkers always try to get as close to the action as possible	the action is no longer in technology stocks but in municipal bonds	T
+4657	take	V	4-1	Tomorrow the doctor will take the cast off her arm .	He took off his shoes .	T
+4658	discover	V	10-1	The story is false , so far as I can discover	I discovered how to do it .	T
+4671	space	N	3-1	the architect left space in front of the building	the space between his teeth	T
+4684	appearance	N	5-4	it was Bernhardt 's last appearance in America	A person makes his appearance as an historian , an artist , or an orator .	T
+4686	fire	N	3-4	There was a fire at the school last night and the whole place burned down .	We sat around the fire singing songs and telling stories .	F
+4688	connect	V	4-5	The planes do n't connect and you will have to wait for four hours	The local train does not connect with the Amtrak train	T
+4695	operation	N	2-2	the cognitive operation of remembering	a multinational operation	F
+4707	care	V	3-3	He does n't care about how / whether she comes .	I do n't care what he does .	T
+4718	play	N	5-8	the ball was still in play	insiders said the company 's stock was in play	T
+4726	work	V	4-0	He used pliers to work the wire into shape .	work the raisins into the dough	F
+4733	misplay	V	1-1	His misplay in the bridge tournament was penalized when it was noted he 'd broken the rules .	I misplayed the tennis shot , I should have hit it to her right instead of left and she 'd have had more trouble returning it .	T
+4734	hold	V	1-0	I hold him personally responsible	hold these truths to be self - evident	T
+4738	face	N	6-7	Put a big sign on each face of the building that can be seen from the road .	She wanted to wipe him off the face of the earth .	T
+4739	lift	N	7-2	some actresses have more than one face lift	Take the lift to the fourth floor .	F
+4747	fair	N	1-1	book fair	trade fair	T
+4751	cut	V	0-3	cut a dress	Would you please cut the cake ?	F
+4763	cut	V	5-0	Cut orders ;    cut a check	cut a caper	F
+4768	drag	N	7-6	he went to the party dressed in drag	the waitresses looked like missionaries in drag	T
+4770	touch	V	10-2	"Can he reach ? "" "" The chair must not touch the wall"	Their hands touched	F
+4772	side	N	5-4	he is on the purchasing side of the business	Look on the bright side .	T
+4776	cut	V	1-0	We cut through the neighbor 's yard to get home sooner	cut the engine	F
+4784	bit	N	3-5	he had a bit of good luck	A horse hates having a bit put in its mouth .	F
+4787	see	V	4-3	The minister does n't see anybody before noon	the doctor will see you now	T
+4790	opening	N	4-6	there was a small opening between the trees	A salamander darted out of an opening in the rocks .	T
+4792	hit	V	2-3	We were hit by really bad weather	The temperature could hit 110 F tomorrow .	F
+4795	make	V	0-1	make clay into bricks	Harry made Sally	F
+4796	priority	N	3-8	national independence takes priority over class struggle	He set his e - mail message 's priority to high .	T
+4800	head	N	3-1	They shot 20 head of quail	200 head of cattle and 50 head of horses	T
+4803	furniture	N	2-9	How much furniture did they leave behind ?	The woman does not even have one stick of furniture moved in yet .	T
+4808	scene	N	3-14	he made a scene	The play is divided into three acts , and in total twenty - five scenes .	F
+4813	have	V	1-0	I have a house and a car .	have an assistant	F
+4818	make	V	4-1	How much do you make a month in your new job ?	We made for the mountains	F
+4819	practice	V	1-2	Pianists practice scales	You should practice playing piano every day .	T
+4820	leak	N	1-1	A leak in a roof	A leak in a boat	T
+4821	approach	V	0-0	approach a task	approach a new project	T
+4828	hour	N	3-7	I spent an hour at lunch .	the job will take more than an hour	T
+4833	foot	N	1-4	one foot of the chair was on the carpet	armored from head to foot	F
+4836	coverage	N	3-11	the dictionary 's coverage of standard English is excellent	Do n't go to lunch if we do n't have enough coverage for the help - desk phones .	T
+4841	suck	V	0-1	suck the poison from the place where the snake bit	this sucks !	F
+4846	field	N	8-3	A crop circle was made in a corn field .	he planted a field of wheat	T
+4849	krona	N	9-1	Grāmata maksā piecas kronas — the book costs five krona	Papīra krona — paper krona ( i.e. , bills , banknotes )	T
+4850	recognition	N	1-2	increasing recognition that diabetes frequently coexists with other chronic diseases	a sudden recognition of the problem he faced	T
+4862	break	V	2-1	let 's break for lunch	I broke in the new intern	F
+4864	block	N	4-4	he held a large block of the company 's stock	he reserved a large block of seats	T
+4874	head	N	2-1	under the head of minor Roman poets	the head of the hammer	F
+4876	study	N	4-4	he is a quick study	no schools offer graduate study in interior design	F
+4884	business	N	7-0	They did nearly a million dollars of business over the long weekend .	business is good today	T
+4889	meaning	N	3-1	what is the meaning of this sentence	The meaning of life	T
+4890	head	N	1-6	200 head of cattle	This song keeps going through my head .	F
+4903	run	V	2-2	Do n't run that software unless you have permission . '	The film runs 5 hours	F
+4904	fish	N	7-16	they have a chef who specializes in fish	after the scare about foot - and - mouth disease a lot of people started eating fish instead of meat	T
+4905	business	N	7-0	They did nearly a million dollars of business over the long weekend .	Business has been slow lately .	T
+4909	edge	N	3-4	the water 's edge	she sat on the edge of the bed	T
+4922	product	N	1-1	the product of 2 and 3 is 6	The product of 2 and 3 is 6 .    The product of 2 , 3 , and 4 is 24 .	T
+4934	stay	N	4-3	a four - month stay in bankruptcy court	a lengthy hospital stay	T
+4938	drop	N	8-3	it was a miracle that he survived the drop from that height	there was a drop in pressure in the pulmonary artery	F
+4939	light	N	5-5	it brought the scandal to light	he could paint the lightest light and the darkest dark	F
+4942	leave	V	6-2	At what time does your train leave ?	Her blood left a stain on the napkin	F
+4944	burn	V	4-2	He watched the house burn .	Maple wood burns well	T
+4949	truth	N	4-0	the lawyer questioned the truth of my account	Truth to one 's own feelings is all - important in life .	T
+4951	patch	V	0-3	patch the skirt	The field was patched with snow	F
+4955	garage	V	3-1	we do n't garage our car	We garaged the convertible during the monsoon months .	T
+4958	field	N	3-0	The farmer 's field was a civil war battleground , and relics such a minnie bullets were frequently found while plowing .	Field of view	F
+4960	give	V	0-2	give a divorce	The wall gave in	F
+4967	join	V	2-1	I will join you watching the football game as soon as I have finished my work .	She joined him for a drink	T
+4971	dress	V	0-0	dress the patient	dress the plants in the garden	F
+4977	play	V	0-1	play with her feelings	She plays on her clients ' emotions	F
+4981	pay	V	0-1	pay attention	He paid me 5000 pounds for the car .	F
+4984	see	V	6-2	The artist must first learn to see	I can see what will happen	F
+4988	kill	V	0-4	kill the engine	These new shoes are killing me !	F
+5003	make	V	3-1	He did n't make the choir after his voice changed .	He made as if to punch him , but they both laughed and shook hands .	F
+5009	connection	N	4-1	My headache has no connection with me going out last night .	the connection between church and state is inescapable	T
+5012	split	N	6-3	he inserted the wedge into a split in the log	he demanded his split before they disbanded	F
+5019	floor	N	1-2	the floor of the cave	The pit floor showed where a ring of post holes had been .	T
+5022	term	N	5-7	He was sentenced to a term of six years in prison .	he left school before the end of term	T
+5025	throw	V	0-2	throw the car into reverse	have , throw , or make a party	F
+5028	tautology	N	15-7	"Given a Boolean A , "" A OR ( NOT A ) "" is a tautology ."	A logical statement which is neither a tautology nor a contradiction is a contingency .	T
+5040	art	N	3-1	How great thou art !	the art of conversation	T
+5042	production	N	1-2	the production of white blood cells	Shakespeare 's production of poetry was enormous	T
+5045	fall	V	4-0	We must stand or fall	fall by the wayside	T
+5046	stand	V	3-6	Where do you stand on the War ?	Christian charity , or love , stands first in the rank of gifts .	T
+5047	drive	V	0-3	drive a car or bus	My new truck drives well	F
+5048	work	V	3-3	The artist 's work influenced the young painter	He could not work the math problem	F
+5055	check	N	6-2	he paid all his bills by check	Put a check mark in the box corresponding to the correct answer .	F
+5062	time	N	7-4	Okay , but this is the last time . No more after that !	When was the last time we went out ? I do n't remember .	T
+5066	raise	V	1-6	To raise somebody to office	We visited a farm where they raise chickens .	T
+5072	catch	V	6-0	We have a big barrel to catch the rainwater	catch one 's breath	F
+5078	fall	V	0-1	fall prey to an imposter	They fell out of favor	T
+5082	care	V	3-1	I do n't care what he does .	We cared about the opera .	T
+5087	catch	V	0-1	catch one 's breath	I caught the hem of my dress in the brambles	F
+5092	turn	V	0-2	turn your face to the wall	The people turned against the President when he stole the election	F
+5098	head	N	6-1	At five years of age this head of cattle is worth perhaps $ 40	the head of the column advanced boldly	F
+5100	mine	N	6-5	He came out of the coal mine with a face covered in black .	This diamond comes from a mine in South Africa .	T
+5101	head	N	7-1	We will consider performance issues under the head of future improvements .	the head of a comet	F
+5104	lift	V	0-0	lift a ban	Lift a load	F
+5108	number	N	7-7	I hope to become one of their number before I die	The equation e^i\pi+1=0 includes the most important numbers : 1 , 0 , \pi , i , and e.	F
+5120	turn	V	4-0	the strong man could turn an iron bar	turn the earth in the Spring	F
+5125	demand	N	4-3	the automobile reduced the demand for buggywhips	there were many demands on his time	F
+5140	exhaust	V	0-4	exhaust one 's savings	This kind of work exhausts me	F
+5146	education	N	8-4	A good teacher is essential for a good education .	he received no formal education	T
+5150	region	N	3-2	in the abdominal region	The temperate regions	F
+5157	get	V	2-3	We 'll get them !	What do you get when you add up these numbers ?	F
+5160	go	V	5-10	The washing machine wo n't go unless it 's plugged in	This violinist is as good as Juilliard - trained violinists go	F
+5180	profession	N	7-10	the news spread rapidly through the medical profession	His conduct is against the established practices of the legal profession .	T
+5184	carry	V	2-4	I will carry the secret to my grave	The painting of Mary carries motherly love	F
+5187	fight	V	2-1	Do n't fight it !	He fought for breath	F
+5198	step	V	1-0	To step to one of the neighbors	step off ten yards	F
+5201	pull	V	0-0	pull the string gently	pull the oars	F
+5202	draw	V	0-10	draw a deep breath	At the start of their turn , each player must draw a card .	F
+5209	change	V	6-2	Ask the janitor to come and change the lightbulb .     After a brisk walk , I washed up and changed my shirt .	Would you change places with me ?	F
+5214	piece	N	4-4	she bought a lovely piece of china	he designed a new piece of equipment	T
+5216	head	N	1-6	12 head of big cattle and 14 head of branded calves	the office was full of secret heads	F
+5220	wall	N	5-1	negotiations ran into a brick wall	a wall of prejudice	T
+5222	flight	N	1-0	The flight of a refugee	flights of imagination	F
+5225	refill	N	3-3	he got a refill for his notebook	he got a refill for his ball - point pen	T
+5232	make	V	1-1	To make like a deer caught in the headlights .	He made as if to punch him , but they both laughed and shook hands .	T
+5236	catch	V	8-0	I have to stop for a moment and catch my breath .	catch one 's breath	T
+5238	area	N	1-8	the area of a rectangle	The photo is a little dark in that area .	T
+5242	know	V	1-1	I know him under a different name	We know this movie	T
+5253	use	V	0-3	use your common sense	I ca n't use this tool	F
+5254	make	V	0-0	make revolution	make laws	F
+5258	see	V	2-3	You 'll see a lot of cheating in this school	The 1960 's saw the rebellion of the younger generation against established traditions	T
+5261	make	V	3-3	They hope to make a bigger profit	He did n't make the choir after his voice changed .	T
+5262	side	N	1-7	Which side of the tray shall I put it on ?	The patient was bleeding on the right side .	T
+5269	work	V	4-3	She never did any work because she inherited a lot of money	My wife never worked	T
+5271	understand	V	1-1	I understand how to do it .	I understand what she means	T
+5275	spot	N	10-6	Would you like to come round on Sunday for a spot of lunch ?	The leopard is noted for the spots of color in its fur .	F
+5277	fall	V	0-4	fall into a strange way of thinking	The pressure to succeed fell on the youngest student	F
+5278	transform	V	4-1	The alchemists sought to transform lead into gold .	She transformed the clay into a beautiful sculpture	T
+5280	title	N	12-5	he looked for books with the word ` jazz ' in the title	I can never remember movie titles	T
+5286	point	N	3-3	what is the point of discussing it ?	he stuck the point of the knife into a tree	F
+5288	break	V	1-2	Twigs break off of those branches easily .	The figurine broke	F
+5291	head	N	1-1	200 head of cattle and 50 head of horses	12 head of big cattle and 14 head of branded calves	T
+5292	majority	N	8-1	Those opposing the building plans were in the majority , so the building project was canceled .	The majority agreed that the new proposal was the best .	T
+5293	population	N	4-7	the African - American population of Salt Lake City has been increasing	people come and go , but the population of this town has remained approximately constant for the past decade	T
+5301	truck	V	0-1	truck fresh vegetables across the mountains	Amanda trucked the package to her mother 's house from Philadelphia .	T
+5306	area	N	7-8	it was about 500 square feet in area	The photo is a little dark in that area .	T
+5317	end	N	1-3	the end of the pier	she knotted the end of the thread	T
+5333	class	N	1-2	The class of 1982 was particularly noteworthy .	early morning classes are always sleepy	T
+5341	give	V	3-0	The French doors give onto a terrace	give a course	F
+5342	range	N	7-9	any good golf club will have a range where you can practice	they used to drive the cattle across the open range every spring	F
+5351	call	N	12-3	he heard the phone ringing but did n't want to take the call	I received several calls today .	T
+5352	hold	V	2-4	She can hold an audience spellbound	The illegal immigrants were held at a detention center	F
+5362	take	V	1-3	I take it you 're not going ?	How should I take this message ?	T
+5365	admit	V	3-2	The French doors admit onto the yard	A ticket admits one into a playhouse .	F
+5367	shift	V	0-1	shift the date for our class reunion	She shifted slightly in her seat .	F
+5375	execute	V	0-4	execute the decision of the people	Your orders have been executed , sir !	T
+5378	microprocessor	N	5-1	a disk drive contains a microprocessor to handle the internal functions of the drive	a microprocessor functions as the central processing unit of a microcomputer	T
+5387	action	N	7-11	his novels always have a lot of action	the United Nations must have the power to propose and organize action without being hobbled by irrelevant issues	F
+5389	face	N	7-3	She wanted to wipe him off the face of the earth .	he washed his face	F
+5393	take	V	2-1	I 'll take that plate off the table .	We take all major credit cards .	F
+5396	breath	N	4-3	I could hear the breath of the runner behind me .	The child 's breath came quickly and unevenly .	T
+5398	constriction	N	3-3	he felt a constriction in her chest	emotion caused a constriction of his throat	T
+5407	assimilate	V	11-2	The teacher paused in her lecture to allow the students to assimilate what she had said .	This country assimilates immigrants very quickly	F
+5411	keep	V	3-2	Where do you keep your gardening tools ?	These potatoes keep for a long time	F
+5420	hold	V	1-2	I hold with those who say life is sacred	She can hold an audience spellbound	F
+5424	doubt	V	1-1	I doubt these reports	He doubted that was really what you meant .	T
+5430	make	V	2-1	She 'll make a fine president .	This makes the third infraction	F
+5436	top	V	10-3	I do n't want to be bald , so just top my hair .	the towers were topped with conical roofs	F
+5450	portfolio	N	10-8	they were disappointed by the poor returns on their stock portfolio	I would like to introduce you to our portfolio of services .	T
+5471	time	N	12-2	Time stops for nobody .     the ebb and flow of time	it is time to go	F
+5482	place	N	1-3	your place or mine ?	a woman 's place is no longer in the kitchen	F
+5487	touch	V	3-2	He could not touch the meaning of the poem	She never touched her husband	F
+5490	third	N	2-13	a distant third	he answered the first question willingly , the second reluctantly , and the third with resentment	T
+5491	model	N	1-4	a model of clarity	he is the very model of a modern major general	T
+5499	stop	N	4-2	it came to a stop at the bottom of the hill	his next stop is Atlanta	F
+5500	land	V	5-2	The plane is about to land .	The ship landed in Pearl Harbor	T
+5503	estate	N	8-5	There are 50 acres of land in this estate .	the family owned a large estate on Long Island	T
+5506	area	N	3-0	it was his area of specialization	areas of interest include ...	T
+5514	check	V	8-0	Katie 's sick , so I need to check up on her and see if she needs anything .	check the brakes	T
+5515	fix	N	3-4	We have a fix on your position .	he got a good fix on the target	T
+5544	line	N	4-2	there is a narrow line between sanity and insanity	toe the line	F
+5549	catch	V	0-2	catch fire	The trees caught quickly in the dry wind .	T
+5551	frequency	N	1-1	the frequency of his seizures increased as he grew older	the frequency of modulation was 40 cycles per second	T
+5553	cut	V	0-0	cut my hair	cut grain	F
+5556	age	N	4-6	It 's been an age since we last saw you .	it was replaced because of its age	T
+5560	chain	N	6-5	The third link of the silver chain needs to be resoldered .	This led to an unfortunate chain of events .	T
+5566	top	N	3-7	I bought this top as it matches my jeans .	a relief pitcher took over in the top of the fifth	F
+5567	spin	N	9-7	One of the planet 's moons has a slower spin than the others .	he took the new car for a spin	F
+5573	take	V	1-1	We take all major credit cards .	It takes nerve to do what she did	F
+5574	head	N	1-6	a head of cauliflower	A reduction in the assessment per head of sheep	F
+5582	luck	N	2-4	they say luck is a lady	it was my good luck to be there	T
+5585	pay	V	2-3	You 'll pay for this !	She had to pay the penalty for speaking out rashly	T
+5596	fall	V	0-0	fall into a strange way of thinking	fall asleep	T
+5598	take	V	1-1	I take aspirin every day to thin my blood .	She takes Route 1 to Newark	F
+5635	know	V	3-6	I want to know who is winning the game !	It is vital that he not know .    She knew of our plan .	T
+5637	stick	V	0-0	stick your thumb in the crack	stick some feathers in the turkey before you serve it	F
+5643	member	N	3-0	Canada is a member of the United Nations	members of the opposite sex	F
+5652	stone	V	3-2	People wanted to stone the woman who had a child out of wedlock	She got stoned to death after they found her .	T
+5653	deal	V	0-2	deal a blow to someone	I can deal with this crew of workers	F
+5654	break	V	0-2	break cigarette smoking	The clouds broke after the heavy downpour	F
+5659	distress	N	3-6	a ship in distress	she was the classic maiden in distress	T
+5661	hold	V	1-0	To hold true ;    to hold good	Hold that position behind the trees !	F
+5665	run	V	0-3	run a new program on the Mac	The horse will run the Preakness next year .	F
+5674	turn	V	0-0	turn a somersault	turn cartwheels	T
+5675	trace	V	0-0	trace a pattern	trace the student 's progress	F
+5677	period	N	2-2	hastened the period of time of his recovery	a time period of 30 years	T
+5678	faith	N	3-5	he cherished the faith of a good woman	a member of his own faith contradicted him	F
+5680	distribute	V	4-1	The publisher wants to distribute the book in Asia	Values distribute	F
+5702	set	V	0-1	set this poem to music	To set pear trees in an orchard	F
+5706	vouch	V	1-1	I vouch for the quality of my products	He vouched his words by his deeds	F
+5709	insulate	V	5-4	Ceramic can be used to insulate power lines .	We had his bedroom insulated before winter came	T
+5716	break	V	0-0	break down a proof	break a law	F
+5737	keep	V	0-0	keep potatoes fresh	keep notes	F
+5743	know	V	6-1	It is vital that he not know .    She knew of our plan .	I know it 's time	T
+5749	drill	V	0-0	drill for oil	Drill a small hole to start the screw in the right direction .	T
+5750	space	N	8-1	they tested his ability to locate objects in space	the spaces are the notes F - A - C - E	F
+5761	school	N	3-1	he walked to school every morning	a school of small glittering fish swam by	F
+5764	reduce	V	3-2	The sauce should reduce to one cup	The cells reduce	F
+5766	order	N	4-2	it was on the order of a mile	law and order	F
+5772	way	N	2-1	a lonely way of life	make way for	F
+5777	want	V	1-2	I want to go home now	This piano wants the attention of a competent tuner	F
+5780	competition	N	5-1	The newspaper is featuring a competition to win a car .	business competition can be fiendish at times	F
+5786	kill	V	1-2	cigarettes kill	drunken driving kills	T
+5802	practice	N	4-1	I took over his practice when he retired	the practice of the law	T
+5803	range	N	0-5	range of motion	the army maintains a missile range in the desert	F
+5806	break	V	0-2	break a lucky streak	The policeman broke sixty on a residential street in his hurry to catch the thief .	F
+5810	quotation	N	4-8	Let 's get a quotation for repairing the roof before we decide whether it 's worth doing .	since he lacks originality he must rely on quotation	F
+5811	melt	V	0-2	melt butter	The wax melted in the sun	T
+5812	credit	N	3-2	he was given credit for his work	give her credit for trying	T
+5814	interest	N	3-2	in the common interest	in the interest of safety	T
+5818	neck	N	5-5	the bottle had a wide neck	the banjo had a long neck	T
+5823	check	N	3-5	they made a check of their equipment	the pilot ran through the check - out procedure	T
+5825	sign	N	3-2	charges of opposite sign	he posted signs in all the shop windows	F
+5831	help	V	3-3	She could not help watching the sad spectacle	This money will help the development of literacy in developing countries	F
+5834	grace	N	4-8	there but for the grace of God go I	I 'm so grateful to God for the grace that He has given me .	T
+5843	break	V	0-3	break a branch from a tree	The business partners broke over a tax question	F
+5848	break	V	10-1	If the vase falls to the floor , it might break .	He broke the glass plate	T
+5850	service	V	0-6	service my truck	the washing machine needs to be serviced	T
+5852	call	V	3-4	I would not call her beautiful	Take two aspirin and call me in the morning	F
+5857	question	N	3-1	There was a question of which material to use .	the question of disease merits serious discussion	T
+5865	sex	N	2-10	We had sex in the back seat .	( The believers ... those ... ) who abstain from sex	T
+5876	make	V	3-3	This invention will make you a millionaire	What do you make of his remarks ?	F
+5881	coverage	N	11-3	The enemy fire is increasing – can we get some immediate coverage from those bunkers ?	the dictionary 's coverage of standard English is excellent	T
+5887	tea	N	4-8	Would you like some tea ?	the store shelves held many different kinds of tea	T
+5891	top	N	7-3	a relief pitcher took over in the top of the fifth	I bought this top as it matches my jeans .	F
+5896	polish	V	0-1	polish your social manners	He polished up the chrome until it gleamed .	F
+5904	render	V	1-0	To render Latin into English	render the town to the enemy	F
+5906	give	V	0-1	give thought to	I gave two sons to the war	F
+5916	figure	N	1-7	a figure of $ 17 was suggested	the area covered can be seen from Figure 2	F
+5920	train	N	1-10	a train of thought	Unfortunately , the leading bridesmaid stepped on the bride 's train as they were walking down the aisle .	F
+5922	draw	V	0-0	draw parallels	draw a wagon	F
+5923	hit	V	1-3	Jones hit for the pitcher .	I have to hit the MAC machine before the weekend starts	T
+5926	line	N	5-3	they attacked the enemy 's line	drop me a line when you get there	F
+5939	treat	V	0-1	treat an oil spill	You treated me like a fool .	F
+5940	sign	N	4-3	The hunters found deer sign at the end of the trail .	they welcomed the signs of spring	T
+5942	scale	N	6-1	There are some who question the scale of our ambitions .	the scale of the model	T
+5945	beat	V	0-2	beat one 's breast	The eagle beat its wings and soared high into the sky	F
+5949	play	V	0-1	play the stock market	She plays on her clients ' emotions	F
+5950	use	V	0-6	use your head !	He does n't know how to use a computer	T
+5957	thing	N	4-3	to say the same thing in other terms	she has a thing about him	F
+5960	take	V	2-1	Do you take sugar in your coffee ?	We take all major credit cards .	T
+5965	cut	V	2-1	The baby cut a tooth	This cuts into my earnings	F
+5966	poison	V	3-0	This mushrooms can poison	poison someone 's mind	F
+5968	term	N	2-5	the general term of an algebraic equation of the n - th degree	He was sentenced to a term of six years in prison .	F
+5989	land	V	4-2	Use the net to land the fish .	this may land you in jail	T
+5990	break	V	5-5	The horse was tough to break	I ca n't believe she broke 3 under par !	F
+5991	break	V	0-1	break a branch from a tree	Someone broke in while I was on vacation	F
+5995	way	N	1-4	make way for	did n't know the way home	F
+6006	cut	V	0-1	cut a caper	We cut through the neighbor 's yard to get home sooner	F
+6010	turn	V	0-0	turn cartwheels	turn the dial to 10	F
+6011	keep	V	0-8	keep food for a week in the pantry	There 's little to earn and many to keep	F
+6015	make	V	0-2	make a mistake	My wife made me buy a new sofa	F
+6017	piece	N	2-4	an important piece of the evidence	he wrote an interesting piece on Iran	F
+6022	birth	N	4-4	his election signaled the birth of a new age	they divorced after the birth of the child	T
+6023	catch	V	11-0	I have some free time tonight so I think I 'll catch a movie .	Catch some sleep	F
+6025	orbit	V	1-2	electrons orbit the nucleus	The moon orbits around the Earth	T
+6031	work	V	2-1	I will work hard to improve my grades	John worked with Paul on the task .	T
+6037	drive	N	1-2	his drive and energy exhausted his co - workers	the riverside drive offers many exciting scenic views	F
+6042	place	N	1-4	a place in my heart	he has a special place in my thoughts	T
+6044	overkill	N	11-12	24 hours of TV coverage of the US election verged on overkill .	Should I give you yet more homework , or would that be overkill ?	T
+6045	trombone	N	1-3	This trombone is very expensive .	Jim plays the trombone very well .	T
+6047	make	V	0-0	make clay into bricks	Make plans	F
+6068	hand	N	6-6	I did n't hold a good hand all evening	he kept trying to see my hand	T
+6069	compare	V	3-1	You ca n't compare my problems and yours .	We compared notes after we had both seen the movie	T
+6076	impact	N	5-8	the book had an important impact on my thinking	Our choice of concrete will have a tremendous impact on the building 's mechanical performance .	T
+6078	range	N	7-7	the plains lay just beyond the mountain range	he dreamed of a home on the range	F
+6087	life	N	6-0	he lived a long and happy life	life depends on many chemical and physical processes	F
+6097	run	V	4-4	Run , Sarah , run !	the story or argument runs as follows	F
+6101	come	V	0-0	come into the room	come down here !	T
+6112	business	N	15-6	He 's such a poor cook , I ca n't believe he 's still in business !	computers are now widely used in business	T
+6120	catch	V	2-11	do n't catch your meaning	I have some free time tonight so I think I 'll catch a movie .	F
+6132	bankruptcy	N	1-1	moral bankruptcy	spiritual bankruptcy	T
+6138	shortness	N	1-3	The shortness of a stubby pencil	The patient 's shortness of breath	T
+6140	place	N	4-1	he has a special place in my thoughts	your place or mine ?	F
+6141	reaction	N	2-8	a bad reaction to the medicine	The announcement of the verdict brought a violent reaction .	T
+6147	splash	N	3-4	I heard a splash when the rock landed in the pond .	he made a great splash and then disappeared	F
+6153	reach	V	2-2	Our advertisements reach millions	His hand reaches the river	F
+6168	gold	N	5-6	she has a heart of gold	the child was as good as gold	T
+6171	follow	V	7-2	When he lectures , I can not follow	Can you follow her argument ?	T
+6175	derivation	N	5-3	he prefers shoes of Italian derivation	music of Turkish derivation	T
+6179	formation	N	1-1	the formation of memories	the formation of sentences	T
+6184	make	V	0-0	make enemies	make a dress	F
+6186	entreaty	N	1-3	an entreaty to stop the fighting	We need an entreaty to stop the hostilities .	T
+6188	give	V	0-3	give a divorce	His two singles gave the team the victory	F
+6189	take	V	3-2	How should I take this message ?	Do you take me for a fool ?	T
+6191	play	V	0-0	play safe	play it safe	T
+6194	microprocessor	N	1-5	a microprocessor functions as the central processing unit of a microcomputer	a disk drive contains a microprocessor to handle the internal functions of the drive	T
+6195	whet	V	1-0	To whet one 's appetite or one 's courage	whet my appetite	T
+6200	give	V	2-1	do n't give the child this tough meat	He gave his life for his children	F
+6203	break	V	5-2	The horse was tough to break	The surf broke	F
+6210	series	N	6-5	his coin collection included the complete series of Indian - head pennies	the Post Office issued a series commemorating famous American entertainers	T
+6223	round	N	1-5	The round of the seasons ; a round of pleasures	the story is going the rounds in Washington	F
+6224	whole	N	4-1	Europe considered as a whole	the whole of American literature	T
+6227	skinful	N	12-10	someone had to drive me home last night because I had a skinful	I was n't thinking straight – I 'd had a skinful that night .	T
+6229	take	V	4-2	This box wo n't take all the items	I 'll take the blue plates .	F
+6233	get	V	3-4	She did n't get his name when they met the first time	Her childish behavior really get to me	F
+6241	court	N	6-7	The girls were playing in the court .	the house was built around an inner court	T
+6252	run	N	5-3	Let 's go for a run in the car .	I have a run in my stocking .	F
+6253	verify	V	0-1	verify a claim	Please verify that the doors are closed	T
+6254	shot	N	6-4	he left me an almost impossible shot	he is a crack shot	F
+6259	stake	V	2-0	I will stake my good reputation for this	stake your goat	F
+6260	process	N	3-1	events now in process	the process of calcification begins later for boys than for girls	T
+6263	admit	V	1-3	To admit a serious thought into the mind	We can not admit non - members into our club building	T
+6264	body	N	1-3	a body of law	they found the body in the lake	F
+6269	fall	V	0-4	fall prey to an imposter	The line of men fall forward	F
+6270	feel	V	2-1	I can feel the sadness in his poems .	She felt an object brushing her arm	F
+6272	apparition	N	1-5	The apparition of Lawyer Clippurse occasioned much speculation in that portion of the world . – Sir W. Scott .	natives were amazed at the apparition of this white stranger	T
+6287	process	N	3-16	events now in process	This product of last month 's quality standards committee is quite good , even though the process was flawed .	T
+6289	use	V	0-3	use the plastic bags to store the food	I ca n't use this tool	T
+6298	canvas	N	2-7	the crowded canvas of history	the boxer picked himself up off the canvas	F
+6299	charge	N	6-3	the battle began with a cavalry charge	the newspaper published charges that Jones was guilty of drunken driving	F
+6301	cut	V	0-4	cut a record	The employer wants to cut back health benefits	F
+6307	fix	V	0-2	fix a race	let 's fix the picture to the frame	F
+6311	side	N	1-6	Which side of the tray shall I put it on ?	he had a pain in his side	T
+6318	make	V	0-0	make an estimate	make a phone call	F
+6322	give	V	2-5	can you give me lessons ?	When they asked , I gave my coat .	T
+6325	development	N	1-7	the development of Alaskan resources	such land is practical for small park developments	F
+6332	unit	N	1-6	a unit of wheat is a bushel	the dollar is the United States unit of currency	T
+6348	make	V	0-0	make merry	make a move	F
+6356	make	V	3-6	They hope to make a bigger profit	You have to spend money to make money !	T
+6359	move	N	1-2	his move put him directly in my path	A slight move of the tiller , and the boat will go off course .	T
+6362	time	N	12-2	Time stops for nobody .     the ebb and flow of time	At what times do the trains arrive ? ;    these times were erroneously converted between zones	F
+6367	eat	V	4-3	This dog does n't eat certain kinds of meat	What do whales eat ?	T
+6368	help	V	2-1	Can you help me carry this table ?	Everyone helped out during the earthquake	T
+6376	licking	N	4-5	they suffered a convincing licking	Our football team took a licking last night .	T
+6382	shatter	V	7-6	A high - pitched voice that could shatter glass	The old oak tree has been shattered by lightning .	T
+6384	raise	V	0-0	raise a smile	raise your ` o '	F
+6393	poison	V	0-0	poison someone 's mind	poison the atmosphere in the office	T
+6394	bear	V	0-0	bear a signature	bear a resemblance	T
+6396	process	N	16-1	This product of last month 's quality standards committee is quite good , even though the process was flawed .	the process of calcification begins later for boys than for girls	T
+6400	word	N	4-5	Can I have a word with you ?	he did n't say a word about it	T
+6403	softness	N	4-0	the climate had the softness of the south of France	softness is not something permitted of good leaders	F
+6404	formation	N	1-1	a formation of planes	the formation of sentences	F
+6406	liver	N	5-20	I 'd like some goose liver pate .	You could fry up some chicken livers for a tasty treat . — Nah , I do n't like chicken liver .	T
+6407	conflict	N	3-1	"the harder the conflict the more glorious the triumph ""-- Thomas Paine"	The conflict between the government and the rebels began three years ago .	T
+6409	consider	V	2-2	You must consider her age	I 'm considering going to the beach tomorrow .	F
+6411	eat	V	3-3	We did not eat until 10 P.M. because there were so many phone calls	I did n't eat yet , so I gladly accept your invitation	T
+6416	answer	V	0-1	answer the door	Nobody answered when I knocked on the door .	T
+6417	play	V	14-2	I 've practiced the piano off and on , and I still ca n't play very well .	This development played into her hands	F
+6418	go	V	4-2	The speech has to go through several more drafts	Messages must go through diplomatic channels	F
+6421	follow	V	2-4	Let 's follow our great helmsman !	The police had been following him for weeks but they could not prove his involvement in the bombing	F
+6426	focus	N	5-1	the controversy brought clearly into focus an important difference of opinion	the focus of activity shifted to molecular biology	F
+6433	hold	N	3-3	he has a hold over them	he ordered a hold in the action	F
+6438	strike	V	0-2	strike a medal	The teacher struck the child	F
+6449	see	V	2-7	Can you see the bird in that tree ?	He is blind -- he can not see	T
+6458	life	N	1-2	The life of this milk carton may be thousands of years in this landfill .	Get a life .	F
+6462	dresser	N	4-4	she 's an elegant dresser	he 's a meticulous dresser	T
+6469	breath	N	6-2	I could feel the runner 's breath on my shoulder .	his sour breath offended her	T
+6472	time	N	1-3	this time he succeeded	See you another time ;    that 's three times he 's made the same mistake	T
+6481	tolerate	V	2-13	I can tolerate working on Saturdays , but not on Sundays .	I like the way he plays the guitar , but I ca n't tolerate his voice when he sings .	T
+6484	cover	V	0-0	cover the child with a blanket	cover the grave with flowers	T
+6488	bitch	N	3-1	Karma 's a bitch .	My bitch just had puppies : they 're so cute !	F
+6492	call	V	3-1	We could always call on a friend .     The engineer called round whilst you were away .	He called me a bastard	F
+6500	sampler	N	1-2	a sampler of French poets	a candy sampler	T
+6501	draw	V	0-1	draw wire	He drew a base on balls	F
+6517	design	V	0-1	design a better mousetrap	She designed to go far in the world of business	F
+6528	play	V	3-2	I used to play with trucks as a little girl	The fountains played all day	F
+6542	admit	V	1-2	To admit a serious thought into the mind	This pipe admits air	T
+6543	system	N	5-4	they had to devise a system that did not depend on cooperation	the body has a system of organs for digestion	F
+6554	rest	N	6-10	I need to get a good rest tonight ; I was up late last night .	The sun sets , and the workers go to their rest .	T
+6556	take	V	3-2	I do n't take sugar in my coffee	He had taken this woman when she was most vulnerable	F
+6559	blow	V	16-3	There 's nothing more thrilling to the whale watcher than to see a whale surface and blow .	The leaves were blowing in the wind	F
+6564	admit	V	3-1	We can not admit non - members into our club building	To admit evidence in the trial of a cause	T
+6568	save	V	2-1	This will save you a lot of time	She saved the old family photographs in a drawer	F
+6577	play	V	0-1	play water from a hose	I played no role in your dismissal	F
+6578	head	N	1-1	200 head of cattle	12 head of big cattle and 14 head of branded calves	T
+6588	quality	N	14-8	While being impulsive can be great for artists , it is not a desirable quality for engineers .	Security , stability , and efficiency are good qualities of an operating system .	T
+6589	play	V	7-2	The Democrats still have some cards to play before they will concede the electoral victory	This development played into her hands	F
+6591	business	N	3-7	a racially integrated business concern	a small mom - and - pop business	T
+6592	touch	V	3-9	He could not touch the meaning of the poem	They stood next to each other , their shoulders touching .	F
+6595	make	V	3-2	What do you make of his remarks ?	We barely made the plane	F
+6597	par	N	0-2	par for this course is 72	on a par with the best	F
+6602	carry	V	2-2	I will carry the secret to my grave	The drive carried to the green	F
+6612	mirror	N	7-6	We could see the lorry in the mirror , so decided to change lanes .	I had a look in the mirror to see if the blood had come off my face .	T
+6613	carry	V	3-1	He can not carry a tune	Amanda carried the package to New York .	F
+6619	degree	N	3-4	he earned his degree at Princeton summa cum laude	Water boils at 100 degrees Celsius .	F
+6621	finish	N	6-4	it was a fight to the finish	booze will be the finish of him	T
+6623	position	N	5-3	moved from third to fifth position	Stand in this position , with your arms at your side .	F
+6640	side	N	5-5	it brought out his better side	he is on the purchasing side of the business	T
+6643	allow	V	5-1	This sealed door wo n't allow the water come into the basement	To allow a servant his liberty ;    to allow a free passage ;    to allow one day for rest	F
+6648	stand	V	2-2	Can you stand the bookshelf up ?	The law stands !	F
+6652	fool	N	3-2	You were a fool to cross that busy road without looking .	The village fool threw his own shoes down the well .	T
+6654	call	N	6-3	after two raises there was a call	the salesman 's call on a customer	F
+6657	drive	V	0-1	drive the cows into the barn	To drive sheep out of a field	T
+6660	tap	V	0-0	tap a source of money	tap one 's memory	T
+6664	think	V	1-1	I think that he is her boyfriend	I think she is pretty , contrary to most people .	T
+6665	break	V	0-0	break a fall	break cigarette smoking	F
+6676	hold	N	4-3	she kept a firm hold on the railing	Keep a firm hold on the handlebars .	T
+6678	break	N	1-4	the break in the dam threatened the valley	he was up two breaks in the second set	F
+6684	day	N	4-1	she called it a day and went to bed	my day began early this morning	T
+6685	point	N	5-3	Cut the skin with the point of the knife .	he broke the point of his pencil	F
+6702	land	N	11-5	the plane turned away from the sea and moved back over land	They come from a faraway land .	T
+6709	break	V	8-4	My daughter 's fancy wedding is going to break me !	The heat wave finally broke yesterday	F
+6718	order	N	6-8	the machine is now in working order	a friend in New Mexico said that the order caused no trouble out there	F
+6726	foot	N	1-4	the foot of the list	he stood at the foot of the tower	F
+6734	time	N	4-4	We had a wonderful time at the party .	they had a good time together	T
+6736	restraint	N	5-1	dogs should be kept under restraint	legal restraints	F
+6738	charge	V	4-3	Do n't forget to charge the drill .	I need to charge my car battery	T
+6742	head	N	2-1	under the head of minor Roman poets	"the head of the nail "" , "" a pinhead is the head of a pin"	F
+6747	carry	V	4-2	put down 5 and carry 2	This paper carries a restaurant review	F
+6748	product	N	1-1	The product of 2 and 3 is 6 .    The product of 2 , 3 , and 4 is 24 .	the product of 2 and 3 is 6	T
+6749	life	N	5-3	the battery had a short life	while there 's life there 's hope	F
+6753	memorability	N	6-1	continuous change results in lack of memorability	true memorability of phrase	T
+6754	fall	V	0-2	fall into a trap	The estate fell to the oldest daughter	F
+6764	fix	N	4-3	he got a good fix on the target	We have a fix on your position .	T
+6769	fall	V	0-1	fall into a trap	she fell to pieces after she lost her work	T
+6770	notice	N	2-1	an obituary notice	a notice of sale	T
+6773	time	N	4-9	We had a wonderful time at the party .	The judge leniently granted a sentence with no hard time .     He is not living at home because he is doing time .	F
+6782	stretch	V	2-0	Let 's stretch for a minute -- we've been sitting here for over 3 hours	Stretch your arms out above your head .	T
+6785	take	V	1-4	I take it you 're not going ?	Tomorrow the doctor will take the cast off her arm .	F
+6786	recognition	N	1-4	the recognition of the Rio Grande as a boundary between Mexico and the United States	The law was a recognition of their civil rights .	T
+6801	call	N	12-4	he heard the phone ringing but did n't want to take the call	he placed a phone call to London	T
+6816	follow	V	0-2	follow the road	Let 's follow our great helmsman !	F
+6821	area	N	4-4	it was a mountainous area	it was a closed area of employment	F
+6823	cut	V	0-1	cut a nice figure	soap cuts grease	F
+6827	complexion	N	2-3	A rugged complexion ;    a sunburnt complexion	a liberal political complexion	F
+6837	check	V	0-8	check the brakes	Katie 's sick , so I need to check up on her and see if she needs anything .	T
+6861	life	N	5-1	the oceans are teeming with life	social life	F
+6864	carry	V	2-0	You must carry your camping gear	carry the suitcases to the car	T
+6865	make	V	1-3	They make a cute couple	She may not make the grade	F
+6875	narrowness	N	7-8	the problem with achievement tests is the narrowness they impose on students	the attraction of the book is precisely its narrowness of focus	T
+6882	keep	V	9-3	Our grant has run out and we can not keep you on	The student was kept after school	F
+6886	make	V	0-2	make a cake	He will make a fine father	F
+6888	gather	V	1-1	I gather from Aunty May that you had a good day at the match .	I gather you have not done your homework	T
+6889	touch	N	2-3	the cooling touch of the night air	there was a touch of sarcasm in his tone	F
+6892	summerize	V	0-0	summerize a house	summerize your car	T
+6905	carry	V	0-1	carry the suitcases to the car	Amanda carried the package to New York .	T
+6907	stuff	N	5-5	you do n't have the stuff to be a United States Marine	the trunk was full of stuff	F
+6910	define	V	3-4	The camera could define the smallest object	The tree was clearly defined by the light	T
+6912	reason	N	1-2	the reason that war was declared	there is reason to believe he is lying	F
+6917	space	N	5-3	it all happened in the space of 10 minutes	the architect left space in front of the building	F
+6920	reduce	V	0-0	reduce an image	reduce one 's standard of living	F
+6922	carry	V	0-1	carry too far	We carry a very large mortgage	F
+6934	estimate	N	1-6	an estimate of what it would cost	many factors are involved in any estimate of human life	F
+6938	see	V	2-3	I can see what will happen	I ca n't see him on horseback !	T
+6941	run	V	0-2	run through your presentation before the meeting	The children ran to the store	F
+6944	dick	N	6-6	Sorry , girls , I suck dick .	He wore a condom over his dick .	T
+6945	pack	V	1-0	To pack goods in a box ;    to pack fish	pack the books into the boxes	T
+6947	capture	V	0-1	capture the essence of Spring	She captured all the men 's hearts	F
+6948	turn	V	0-0	turn the legs of the table	turn a somersault	F
+6956	burn	V	0-2	burn garbage	The car burns only Diesel oil	T
+6960	rest	N	14-10	Now that we 're all in agreement , we can put that issue to rest .	people actually accomplish more when they take time for short rests	F
+6967	carry	V	0-1	carry the suitcases to the car	Amanda carried the package .	T
+6974	play	V	0-5	play fair	Play football ;    play sports ;    play games	F
+6979	cut	V	5-0	Cut orders ;    cut a check	cut a ticket	T
+6982	run	V	2-4	I will run the sample .	Our coach had us running plays for the whole practice .	T
+6985	voice	N	1-2	the voice of the law	the noisy voice of the waterfall	F
+6988	classify	V	2-1	"Should we classify "" make up "" as an idiom or as a phrasal verb ?"	She classified the articles into different genres .	T
+6993	close	V	7-2	The owners decided to move and to close the factory	My business closes every night at 8 P.M.	T
+7002	stock	N	4-1	they will cut round stock to 1-inch diameter	his stock was so high he could have been elected mayor	F
+7006	deal	N	6-5	I did n't have a good deal all evening .	I believe it 's your deal .	T
+7011	carry	V	4-1	I resent having to carry her all the time	We carry a very large mortgage	F
+7013	look	N	6-4	he went out to have a look	his camera does his looking for him	T
+7022	make	V	2-7	He will make a splendid father !	It was n't the problem some people made it	F
+7024	view	N	6-7	he tried to get a better view of it	He changed seat to get a complete view of the stage .	T
+7050	work	V	0-5	work your way through every problem or task	Start from the bottom and work towards the top	T
+7053	line	N	4-4	the cast stood in line for the curtain call	they were arrayed in line of battle	T
+7056	stand	V	3-1	We had to stand for the entire performance !	There stood on the corner a statue .	T
+7060	neighborhood	N	4-1	it is a friendly neighborhood	my neighborhood voted for Bush	T
+7063	take	V	3-3	You ca n't take credit for this !	How should I take this message ?	T
+7065	cost	N	2-1	The average cost of a new house is twice as much as t was 20 years ago .	the cost in human life was enormous	F
+7067	touch	N	5-9	this piano has a wonderful touch	Suddenly , in the crowd , I felt a touch at my shoulder .	F
+7070	difference	N	5-6	his support made a real difference	It just wo n't make much difference to me .	T
+7076	fire	N	5-0	put the kettle on the fire	fire was one of our ancestors ' first discoveries	F
+7084	fiddle	V	2-7	The reporter fiddle with the facts	We found out that she had been fiddling for years	F
+7090	work	V	4-7	He used pliers to work the wire into shape .	this unpleasant situation is n't going to work itself out	F
+7094	work	V	3-0	He could not work the math problem	work one 's way through the crowd	F
+7097	lead	N	3-5	he takes the lead in any group	they did n't follow our lead	T
+7101	number	N	4-3	he has an unlisted number	he had a number of chores to do	F
+7103	humor	N	5-11	she did n't appreciate my humor	you ca n't survive in the army without a sense of humor	T
+7115	life	N	6-9	She 's my love , my life .	he could no longer cope with the complexities of life	F
+7121	grain	N	1-1	A grain of sand	A grain of salt	T
+7125	block	V	5-0	The offensive linemen tried to block the blitz .	block an attack	T
+7128	travel	N	7-0	he enjoyed selling but he hated the travel	Travel to Spain	T
+7129	believe	V	4-1	Why did I ever believe you ?	She believes in spirits	T
+7134	go	V	2-2	We should go farther in this matter	His money went on drink .	F
+7135	carry	V	9-2	She always carries a purse ;    marsupials carry their young in a pouch	The motion carried easily	F
+7148	interest	N	4-3	Victorian furniture is an interest of mine .	in the common interest	F
+7149	head	N	6-1	A reduction in the assessment per head of sheep	200 head of cattle and 50 head of horses	T
+7157	represent	V	3-2	Ms. Smith will represent the defendant	our parents represented to us the need for more caution	F
+7164	law	N	3-1	there is a law against kidnapping	By law , one is not allowed to own a wallaby in New York City .	F
+7168	break	V	8-6	My daughter 's fancy wedding is going to break me !	This play will either make or break the playwright	F
+7169	throw	V	6-1	Throw a shoe ;     throw a javelin ;     the horse threw its rider	She threw herself forwards	F
+7173	now	N	5-0	it worked up to right now	Now is a good time to do it	T
+7174	spring	N	6-8	You can visit me in the spring , when the weather is bearable .	the emerging buds were a sure sign of spring	T
+7176	club	V	1-3	To club exertions	The two men clubbed together	T
+7181	strike	V	0-3	strike ` z ' on the keyboard	The horse finally struck a pace	F
+7183	return	N	2-2	on his return from Australia we gave him a welcoming party	the average return was about 5 %	F
+7186	see	V	4-2	The minister does n't see anybody before noon	I must see your passport before you can enter the country	F
+7189	civilization	N	7-7	the people slowly progressed from barbarism to civilization	he is remembered for his generosity and civilization	F
+7195	seize	V	1-2	To seize a ship after libeling	The terrorists seized the politicians	F
+7201	change	N	1-5	the change was intended to increase sales	The product is undergoing a change in order to improve it .	T
+7203	krona	N	1-4	Papīra krona — paper krona ( i.e. , bills , banknotes )	Piecas kronas — five krona	T
+7204	home	N	7-0	he grew up in a good Christian home	home is where the heart is	T
+7210	block	V	0-0	block a nerve	block a muscle	T
+7217	head	N	6-4	A reduction in the assessment per head of sheep	he was at the head of the column	F
+7222	beat	V	2-1	The boat beat in the strong wind	I beat the traffic	F
+7223	book	N	4-1	Genesis is the first book of the Bible .	the book of Isaiah	T
+7226	buy	V	5-1	I 'm not going to buy your stupid excuses anymore !	Carmen bought a dress for $ 50 .	F
+7229	use	V	6-0	He does n't know how to use a computer	use your head !	T
+7231	run	V	6-4	If you see this man , run !	The crowd had to run away from the burning structure with only the clothes on their backs .	T
+7237	flare	N	5-3	infection can cause a lupus flare	he threw a flare to the fullback who was tackled for a loss	F
+7246	head	N	4-3	he was at the head of the column	She gave great head .	F
+7247	get	V	2-3	did you get it ?	What did you get at the toy store ?	F
+7252	withholding	N	3-5	I resented his withholding permission	there were allegations of the withholding of evidence	T
+7254	raise	V	0-0	raise from the dead	raise a protest	F
+7255	get	V	3-0	What did you get at the toy store ?	get someone mad	F
+7264	bit	N	5-7	A horse hates having a bit put in its mouth .	the horse was not accustomed to a bit	T
+7270	make	V	0-0	make a move	make advances	T
+7275	sense	N	1-1	a sense of happiness	a sense of danger	T
+7276	trojan	N	4-12	the contents of a trojan can be a virus or a worm	when he downloaded the free game it turned out to be a trojan horse	T
+7279	competition	N	5-11	The newspaper is featuring a competition to win a car .	The new stain remover was ten times more effective than the competition .	F
+7283	keep	V	0-4	keep your cool	The abundance of squirrels kept the dogs running for hours .	F
+7286	set	N	7-3	his instructions deliberately gave them the wrong set	the subjects ' set led them to solve problems the familiar way and to overlook the simpler solution	T
+7291	run	V	2-1	the heifers run with the bulls to produce offspring	He ran his eyes over her body	F
+7292	shuck	V	2-0	Shall we shuck walnuts ?	shuck oysters	T
+7298	society	N	5-9	they formed a small lunch society	It was then that they decided to found a society of didgeridoo - playing unicyclists .	T
+7304	dozen	N	4-7	Can I have a dozen eggs , please ?	There should n't be more than two dozen Christmas cards left to write .	T
+7314	make	V	0-3	make merry	What do you make of his remarks ?	F
+7317	do	V	3-1	Will $ 100 do ?	We did 6 miles on our hike every day	F
+7322	work	V	4-2	He used pliers to work the wire into shape .	The medicine works only if you take it with a lot of water	F
+7332	grip	N	1-4	The grip of a sword	There are several good grips on the northern face of this rock .	T
+7335	seat	N	11-1	He sat on the arm of the chair rather than the seat , which always annoyed his mother .	The seat of a saddle	T
+7343	ease	N	5-6	a life of luxury and ease	He passed all the exams with ease .	F
+7350	appearance	N	5-5	it was Bernhardt 's last appearance in America	the rookie made a brief appearance in the first period	T
+7355	body	N	8-7	Penny was in the scullery , pressing the body of her new dress .	they moved their arms and legs and bodies	T
+7356	protection	N	3-2	he made trade protection a plank in the party platform	insurance provided protection against loss of wages due to illness	F
+7374	place	N	1-5	a place in my heart	a political system with no place for the less prominent groups	T
+7382	call	V	3-4	We could always call on a friend .     The engineer called round whilst you were away .	The mayor likes to call on some of the prominent citizens	T
+7392	simplify	V	3-3	We had to simplify the instructions	this move will simplify our lives	T
+7397	carry	V	0-2	carry a cause	Her voice carries very well in this big opera house	F
+7398	leave	V	0-0	leave the flowers that you see in the park behind	leave the young fawn alone	T
+7408	lead	N	1-2	the lead was in the dummy	the trail led straight to the perpetrator	F
+7413	drill	V	2-0	do n't drill here , there 's a gas pipe	Drill a small hole to start the screw in the right direction .	T
+7415	break	V	0-3	break a lucky streak	I had to break a $ 100 bill just to buy the candy	F
+7426	get	V	2-3	did you get it ?	It must be getting more serious	F
+7431	save	V	2-2	This will save money	This will save you a lot of time	T
+7432	break	V	2-2	Kids were break - dancing at the street corner	The wholesaler broke the container loads into palettes and boxes for local retailers .	F
+7435	treatment	N	11-5	The change is due largely to the increased availability of antiretroviral treatment .	Cancer survivors who got radiation treatments as children have nearly twice the risk of developing diabetes as adults .	T
+7440	chain	N	6-1	The third link of the silver chain needs to be resoldered .	A chain of mountains	T
+7444	draw	V	1-7	To draw a memorial , a deed , or bill of exchange	They saw that the night was quickly drawing in , so they pitched their tent .	F
+7459	figure	N	4-3	He cut a sorry figure standing there in the rain .	he made a figure of Santa Claus	F
+7466	cup	N	3-7	he drank a cup of coffee	he swore as the ball rimmed the cup and rolled away	F
+7467	play	V	0-1	play the stock market	They played games on their opponents	T
+7468	pop	V	0-5	pop the pizza into the microwave oven	The man charged with murder popped a valium to calm his nerves	F
+7469	turn	V	0-3	turn the heat down	This milk has turned ; it smells awful .	F
+7472	post	V	0-1	post a warning	To post someone for cowardice	T
+7476	movement	N	2-7	a broad movement of the electorate to the right	he was a charter member of the movement	F
+7479	devotion	N	1-1	the devotion of his time and wealth to science	their devotion to each other was beautiful	F
+7483	have	V	3-5	I wo n't have this dog in my house !	The only girl who would have him was the miller 's daughter	T
+7492	pack	V	7-3	Such odd - shaped items do not pack well	This singer always packs the concert halls	F
+7493	lift	V	0-0	lift one 's eyes	lift potatoes	F
+7494	come	V	0-0	come down here !	come into the room	T
+7496	take	V	2-1	Do you take sugar in your coffee ?	He takes the bus to work	F
+7502	break	V	7-1	Is it your or my turn to break ?	Someone broke in while I was on vacation	F
+7510	school	N	2-8	the whole school turned out for the game	he did n't miss a single day of school	F
+7523	stretch	V	7-2	During the Inquisition , the torturers would stretch their victims on a rack	Let 's stretch for a minute -- we've been sitting here for over 3 hours	F
+7524	end	N	5-1	he came to a bad end	the end of town	F
+7530	humor	N	11-5	you ca n't survive in the army without a sense of humor	she did n't appreciate my humor	T
+7531	dissent	V	0-2	dissent to the laws of the country	Several Republicans dissented	F
+7532	treat	V	4-1	She was tempted to treat the whole affair as a joke .	You treated me like a fool .	T
+7533	head	N	1-6	12 head of big cattle and 14 head of branded calves	A reduction in the assessment per head of sheep	T
+7540	peak	N	1-5	voltage peak	The stock market reached a peak in September 1929 .	T
+7544	carry	V	2-1	These pipes carry waste water into the river	Amanda carried the package from home to New York .	T
+7545	reaction	N	2-8	In this reaction , the acid and base will neutralize each other , producing a salt .	The announcement of the verdict brought a violent reaction .	F
+7551	hegemony	N	12-1	to say they have priority is not to say they have complete hegemony	the hegemony of a single member state is not incompatible with a genuine confederation	T
+7561	mount	V	0-2	mount a horse	The rider mounted his horse .	T
+7566	breath	N	3-6	The child 's breath came quickly and unevenly .	he was fighting to his last breath	T
+7568	field	N	7-3	There were some cows grazing in a field .	he planted a field of wheat	T
+7581	flux	N	5-4	It is important to use flux when soldering or oxides on the metal will prevent a good bond .	his opinions are in flux	F
+7593	skin	N	7-1	He is so disgusting he makes my skin crawl .	your skin is the largest organ of your body	T
+7594	make	V	0-0	make a phone call	make one 's way into the forest	F
+7596	make	V	0-3	make revolution	He did n't make the choir after his voice changed .	F
