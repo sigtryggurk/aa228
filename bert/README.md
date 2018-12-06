@@ -47,7 +47,7 @@ python run_classifier.py \
   --train_batch_size=32 \
   --learning_rate=2e-5 \
   --num_train_epochs=3.0 \
-  --output_dir=/tmp/mrpc_output/
+  --output_dir=/tmp/wic_output/
 ```
 
 You should see output like this:
@@ -84,7 +84,7 @@ python run_classifier.py \
   --bert_config_file=$BERT_BASE_DIR/bert_config.json \
   --init_checkpoint=$TRAINED_CLASSIFIER \
   --max_seq_length=128 \
-  --output_dir=/tmp/mrpc_output/
+  --output_dir=/tmp/wic_output/
 ```
 
 #### From Where?
