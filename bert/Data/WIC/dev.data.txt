@@ -1,0 +1,703 @@
+random	noun/verb	location	#1 String	#2 String
+move	N	3-10	It 's your move ! Roll the dice !	If you roll a six , you can make two moves .
+accumulate	V	3-2	He wishes to accumulate a sum of money .	Journals are accumulating in my office
+kid	N	0-6	kid gloves	they were able to send their kids to college
+adoxography	N	4-0	Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things	adoxography is particularly useful to lawyers
+dip	V	0-1	dip the brush into the paint	She dipped her knee
+answer	V	0-0	answer the riddle	answer a question
+replicate	V	11-0	On entering a host cell , a virus will start to replicate .	replicate the cell
+torrent	N	7-3	the houses were swept away in the torrent	They endured a torrent of inquiries .
+facility	N	6-1	the assembly plant is an enormous facility	educational facilities
+refresher	N	5-8	The nap was a welcome refresher .	he stopped at the bar for a quick refresher
+decussate	V	2-2	the fibers decussate	this nerve decussates the other
+parade	N	6-3	The floats and horses in the parade were impressive , but the marching bands were really amazing .	she made a parade of her sorrows
+sequence	N	5-4	he played the trumps in sequence	the doctor saw a sequence of patients
+glaze	V	0-2	glaze the bread with eggwhite	the potter glazed the dishes
+mess	V	1-3	I mess with the wardroom officers .	The afternoon breeze messed up my hair .
+fuel	V	0-0	fuel aircraft , ships , and cars	fuel the debate on creationism
+reline	V	0-6	reline the paper	the old fur coat must be relined
+collapse	V	0-4	collapse the music stand	The school system is collapsing
+operation	N	3-7	the plane 's operation in high winds	the power of its engine determines its operation
+heritage	N	3-1	the world 's heritage of knowledge	a heritage of freedom
+embellish	V	1-5	To embellish a story , the truth	The old book cover was embellished with golden letters
+misdirect	V	0-2	misdirect the letter	The pedestrian misdirected the out - of - town driver
+chew	V	5-0	The steak was tough to chew as it had been cooked too long .	Chew your food and do n't swallow it !
+breeze	N	1-1	The breeze rustled the papers on her desk .	the breeze was cooled by the lake
+remove	V	0-2	remove a wrapper	The President removed many postmasters .
+rush	N	7-4	the linebackers were ready to stop a rush	come back after the rush
+agency	N	3-3	The superintendence and agency of Providence in the natural world . --Woodward .	the Central Intelligence Agency
+precaution	N	10-2	he put an ice pack on the injury as a precaution	To take precautions against risks of accident
+buy	V	5-2	$ 50 wo n't even buy a dress .	FMC has bought 565
+scrub	V	2-1	surgeons must scrub prior to an operation	She scrubbed his back
+hang	V	2-0	Let 's hang this cute animal in the nursery	Hang wallpaper
+identity	N	2-4	A right identity , x * I = x for any x in the structure	you can lose your identity when you join the army
+leave	V	0-1	leave your child the nurse 's care	He left the decision to his deputy
+review	V	2-10	let 's review your situation	Before I tackle the question directly , I must briefly review historical approaches to the problem .
+char	N	10-11	“ Among other native delicacies , they give you fresh char . ”	“ I had to scrub the kitchen today , because the char could n't come ”
+clap	V	4-3	The children began to clap in time with the music .	The big bird clapped its wings
+heel	V	0-0	heel a golf ball	heel that dance
+opinion	N	2-6	In my opinion , white chocolate is better than milk chocolate .	I would like to know your opinions on the new systems .
+longevity	N	2-1	had unusual longevity in the company	her longevity as a star
+brother	N	3-3	Thank you , brother . I would like to thank the brother who just spoke .	none of his brothers would betray him
+burn	V	0-3	burn a CD	My eyes are burning
+touch	V	3-7	He could not touch the meaning of the poem	Helen Keller felt the physical world by touching people and objects around her
+cognate	N	3-10	English is a cognate of Greek , German , Russian and Persian .	English and , Russian , Icelandic and Irish are all cognates .
+acquisition	N	3-7	the child 's acquisition of language	That graphite tennis racquet is quite an acquisition .
+intention	N	1-1	The intention of this legislation is to boost the economy .	good intentions are not enough
+send	V	0-1	send me your latest results	Nora sent the book from Paris .
+draw	N	4-1	the luck of the draw	they drew lots for it
+comb	V	0-0	comb the wool	comb your hair before dinner
+snorter	N	9-1	the storm was n't long but it was a snorter	a snorter of a sermon
+hack	V	3-1	I ca n't hack it anymore	he hacked his way through the forest
+detention	N	1-1	his detention was politically motivated	the detention of tardy pupils
+adhesion	N	1-7	the adhesion of Seville was decisive	a heated hydraulic press was required for adhesion
+capacity	N	2-7	limited runway capacity	he should be retained in his present capacity at a higher salary
+wait	V	3-0	She used to wait down at the Dew Drop Inn .	Wait here until your car arrives .
+instruction	N	2-0	Students receive instruction in the arts and sciences .	Instruction will be provided on how to handle difficult customers .
+attitude	N	10-6	The airliner had to land with a nose - up attitude after the incident .	the actor struck just the right attitude
+snap	N	3-3	the infielder 's snap and throw was a single motion	children can manage snaps better than buttons
+scallop	V	0-0	scallop the hem of the dress	scallop the meat
+fiddle	V	2-2	Do n't fiddle with the screws	She always fiddles with her van on the weekend
+gesture	N	2-1	a political gesture	a gesture of defiance
+deal	N	1-3	a deal of trouble	He made a deal with the devil .
+develop	V	2-2	Children must develop a sense of right and wrong	We have developed a new theory of evolution
+scraping	N	4-3	all that bowing and scraping did not impress him	they collected blood scrapings for analysis
+point	V	0-4	point a gun	It 's rude to point at other people .
+induction	N	6-1	he was ordered to report for induction into the army	the induction of an anesthetic state
+partnership	N	5-5	the action teams worked in partnership with the government	effective language learning is a partnership between school , teacher and student
+percolate	V	0-2	percolate coffee	I 'll percolate some coffee .
+fondler	N	8-2	the woman charged that her jailer was a fondler	not all fondlers are sexual perverts
+bravura	N	3-7	in a final bravura the ballerina appeared to be floating in water	the music ends with a display of bravura
+noise	N	15-3	He knew that it was trash day , when the garbage collectors made all the noise .	they heard indistinct noises of people talking
+gown	N	5-5	the relations between town and gown are always sensitive	In the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .
+form	V	8-0	By adding " -ness " , you can form a noun from an adjective .	Form cylinders from the dough
+help	N	3-3	there 's no help for it	I need some help with my homework .
+border	N	6-1	the rug had a wide blue border	The borders of the garden
+bang	N	12-1	When he struck it with a hammer , there was a loud bang .	My bangs keep getting in my eyes when I swim .
+sort	N	4-3	she served a creamy sort of dessert thing	she wore a sort of magenta dress
+shock	N	5-14	subjects received a small electric shock when they made the wrong response	corn is bound in small sheaves and several sheaves are set up together in shocks
+dig	N	7-3	they set up camp next to the dig	she takes a dig at me every chance she gets
+spread	V	2-4	The invaders spread their language all over the country	A big oil spot spread across the water
+dissipation	N	1-1	the dissipation of the mist	mindless dissipation of natural resources
+loose	V	1-0	let loose mines	Loose terrible plagues upon humanity
+save	N	7-5	the relief pitcher got credit for a save	the goalie made a brilliant save
+excite	V	0-6	excite the neurons	The fireworks which opened the festivities excited anyone present .
+sensation	N	4-1	the news caused a sensation	a sensation of touch
+fight	N	1-2	a fight broke out at the hockey game	there was fighting in the streets
+party	N	1-3	the party of the first part	he planned a party to celebrate Bastille Day
+brush	N	6-4	She gave her hair a quick brush .	the dentist recommended two brushes a day
+defense	N	4-5	they died in the defense of Stalingrad	they were developed for the defense program
+share	V	2-3	Our children share a love of music	The two countries share a long border
+growth	N	1-1	a growth of hair	the growth of culture
+death	N	5-5	the animal died a painful death	he seemed more content in death than he had ever been in life
+bull	N	3-4	he was a bull of a man	he made a bad bull of the assignment
+flowage	N	4-6	rock fracture and rock flowage are different types of geological deformation	many campsites were located near the flowage
+influence	N	4-4	he was a bad influence on the children	used her parents ' influence to get the job
+portmanteau	N	8-5	` brunch ' is a well - known portmanteau	` motel ' is a portmanteau word made by combining ` motor ' and ` hotel '
+gauntlet	N	3-3	threw down the gauntlet	took up the gauntlet
+street	N	4-2	be careful crossing the street	the whole street protested the absence of street lights
+curd	N	1-1	bean curd	lemon curd
+cup	N	3-4	he put the cup back in the saucer	the handle of the cup was missing
+reverence	N	6-2	the French treat food with gentle reverence	the Chinese reverence for the dead
+sign	V	0-4	sign an intersection	This road has been signed
+reach	V	2-2	Can he reach ? " " The chair must not touch the wall	The water reached the doorstep
+grip	N	8-4	in Britain they call a bobby pin a grip	they kept a firm grip on the two top priorities
+section	N	7-0	there are three synagogues in the Jewish section	sections from the left ventricle showed diseased tissue
+carry	V	3-1	He can not carry a tune	She carried herself well
+aliyah	N	2-6	students making aliyah	he was called on for an aliyah
+disable	V	0-2	disable this command on your computer	He was disabled in a car accident
+fuel	N	1-3	more fuel is needed during the winter months	they developed alternative fuels for aircraft
+return	V	0-0	return her love	return a compliment
+donate	V	5-1	Some of the members may donate privately .	She donates to her favorite charity every month
+foot	N	4-5	We went there by foot because we could not afford a taxi .	There is a lot of foot traffic on this street .
+strangle	V	5-6	the imperialist nation wanted to strangle the free trade between the two small countries	A man in Boston has been strangling several dozen prostitutes
+criticism	N	4-7	the senator received severe criticism from his opponent	The politician received a lot of public criticism for his controversial stance on the issue .
+violate	V	0-2	violate the sanctity of the church	This sentence violates the rules of syntax
+collapse	N	1-6	the collapse of the old star under its own gravity	the roof is in danger of collapse
+sense	V	2-2	particle detectors sense ionization	She immediately sensed her disdain .
+fuss	V	2-1	do n't fuss too much over the grandchildren -- they are quite big now	She fusses over her husband
+earshot	N	10-7	I 'll row out on the lake but stay within earshot .	the children were told to stay within earshot
+homogenization	N	1-3	the homogenization of cream	the network 's homogenization of political news
+socialization	N	1-4	Force socialization rarely creates strong friendships , but there are exceptions .	there was too much socialization with the enlisted men
+dollar	N	4-1	he worships the almighty dollar	the dollar coin has never been popular in the United States
+average	V	2-8	If you average 10 , 20 and 24 , you get 18 .	The number of hours I work per work averages out to 40
+fire	N	3-3	Clinton directed his fire at the Republican Party	There was a fire at the school last night and the whole place burned down .
+segment	V	0-0	segment a compound word	segment an orange
+minister	N	1-4	The minister said a prayer on behalf of the entire congregation .	clergymen are usually called ministers in Protestant churches
+cushion	V	1-0	To cushion a blow	cushion the blow
+answer	V	3-2	The man must answer to his employer for the money entrusted to his care .	She must answer for her actions
+inadequacy	N	5-1	juvenile offenses often reflect an inadequacy in the parents	the inadequacy of unemployment benefits
+brush	V	0-0	brush aside the objections	brush the dust from the jacket
+view	N	6-10	they look the same in outward view	the most desirable feature of the park are the beautiful views
+drought	N	10-5	when England defeated Pakistan it ended a ten - year drought	farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season
+stabilize	V	3-2	The country will stabilize after the next election ends .	The economy stabilized
+class	N	3-15	an emerging professional class	Apologizing for losing your temper , even though you were badly provoked , showed real class .
+fuzz	N	9-1	he tried to clear his head of the whisky fuzz	peach fuzz
+delight	N	5-1	the new car is a delight	his delight to see her was obvious to all
+part	N	5-3	the government must do its part	religions in all parts of the world
+charge	N	3-6	the wrestler 's charge carried him past his adversary	the battle began with a cavalry charge
+want	V	0-2	want the strength to go on living	flood victims wanting food and shelter
+sleep	V	1-2	We sleep five people in each room .	This tent sleeps six people
+elapse	V	5-2	He allowed a month to elapse before beginning the work .	Several days elapsed before they met again .
+chemistry	N	1-1	The chemistry of indigo	The chemistry of iron
+convey	V	1-1	To convey an impression ; to convey information	She conveyed the message to me
+muscle	N	4-0	the senators used their muscle to get the party leader to resign	Muscle consists largely of actin and myosin filaments .
+heartbeat	N	5-5	The policeman waited for a heartbeat in vain	He alone gives me such heartbeats
+manipulation	N	1-11	his manipulation of his friends was scandalous	He found that the new manager was known for his Machiavellian manipulations in his last two positions .
+barrage	N	1-4	a barrage of questions	they laid down a barrage in front of the advancing troops
+carve	V	0-2	carve one 's name into the bark	That chisel carved the statue .
+dad	N	5-0	He had n't seen his dad in years .	Dad , happy Father 's Day !
+shake	V	0-2	shake the salt out of the salt shaker	his hands shook
+ball	N	1-4	the ball at the base of the thumb	he stood on the balls of his feet
+vision	N	9-3	the runners emerged from the trees into his clear vision	he had a vision of the Virgin Mary
+corner	N	5-2	he tripled to the rightfield corner	the southeastern corner of the Mediterranean
+upset	V	1-3	Truman upset Dewey in the 1948 US presidential election .	The foreign team upset the local team
+military	N	1-6	their military is the largest in the region	He spent six years in the military .
+drawing	N	1-8	the drawing of water from the well	he did complicated pen - and - ink drawings like medieval miniatures
+switch	V	0-3	switch to a different brand of beer	I want to switch this red dress for a green one .
+shape	N	6-6	geometry is the mathematical science of shape	he could barely make out their shapes
+deliberation	N	3-1	it was the deliberation of his act that was insulting	the deliberations of the jury
+care	V	2-3	Do you care to try this dish ?	The nurse was caring for the wounded
+suit	N	1-11	what suit is trumps ?	To deal and shuffle , to divide and sort Her mingled suits and sequences . — .
+applaud	V	1-9	I applaud your efforts	Although we do n't like your methods , we applaud your motives .
+way	N	7-4	they did n't have much in the way of clothing	we went our separate ways
+lot	N	4-1	they were an angry lot	a lot of money
+strike	V	0-2	strike an arc	The clock struck midnight
+month	N	4-6	he was given a month to pay the bill	We went on holiday for two months .
+hell	N	2-1	war is hell	the hell of battle
+submerge	V	0-2	submerge your head completely	The submarine submerged in the water .
+license	N	2-3	the intolerable license with which the newspapers break ... the rules of decorum"- Edmund Burke	when liberty becomes license dictatorship is near"- Will Durant
+plant	V	0-0	plant bugs in the dissident 's apartment	Plant a spy in Moscow
+direct	V	0-1	direct your anger towards others , not towards yourself	He directed all his energies into his dissertation
+amuse	V	6-2	I watch these movies because they amuse me .	The clown amused the children .
+efficiency	N	1-6	The efficiency of the planning department is deplorable .	she did the work with great efficiency
+story	N	4-2	The book tells the story of two roommates .	Disney 's stories entertain adults as well as children
+mechanism	N	1-0	a mechanism of social control	mechanisms of communication
+mince	N	1-0	a mince of mushrooms	Mince tastes really good fried in a pan with some chopped onion and tomato .
+nightlife	N	4-5	in the summer the nightlife shifts to the dance clubs	a futile search for intelligent nightlife
+distance	N	6-1	I could see it in the distance	the distance from New York to Chicago
+bull	V	1-1	To bull railroad bonds	He bulled his way in .
+configure	V	0-0	configure a plane for a combat mission	configure my new computer
+toilet	N	4-4	he made his morning toilet and went to breakfast	pensions are in the toilet
+shtik	N	3-7	he 's a shtik crazy	how did you ever fall for a shtik like that ?
+tipper	N	2-7	a generous tipper	The Americans are among the most generous tippers in the world .
+probity	N	5-6	in a world where financial probity may not be widespread	he enjoys an exaggerated reputation for probity
+prepare	V	0-1	prepare for war	We prepared a fish for dinner .
+lecture	V	3-1	Did you ever lecture at Harvard ?	She lectured to the class about her travels .
+oppression	N	3-1	the tyrant 's oppression of the people	The oppression of the poor by the aristocracy was one cause of the French Revolution .
+preempt	V	6-6	discussion of the emergency situation will preempt the lecture by the professor	live broadcast of the presidential debate preempts the regular news hour
+build	V	0-3	build up confidence	They had to build up their fortress to protect against attack .
+tree	V	4-4	her dog likes to tree squirrels	this lot should be treed so that the house will be shaded in summer
+worship	V	1-2	They worship in the traditional manner	Many Hindus worship Shiva
+aptness	N	1-1	The aptness of men to follow example	the aptness of iron to rust
+poster	N	3-1	I saw a poster for it on the side of a bus .	a poster advertised the coming attractions
+touch	V	12-1	Please can I have a look , if I promise not to touch ?	Carrie touched his shoulder with the stick .
+liberate	V	1-1	To liberate the mind from prejudice	To liberate gases
+bane	N	1-1	The bane of my existence	the bane of my life
+sit	V	6-7	When does the court of law sit ?	In what city is the circuit court sitting for this session .
+spin	N	5-4	the campaign put a favorable spin on the story	The skaters demonstrated their spins .
+scrap	N	7-8	the unhappy couple got into a terrible scrap	That car is n't good for anything but scrap .
+installation	N	8-2	he gave a speech as part of his installation into the hall of fame	the telephone installation took only a few minutes
+streak	N	1-4	a streak of wildness	he has a stubborn streak
+recreation	N	1-9	for recreation he wrote poetry and solved crossword puzzles	drug abuse is often regarded as a form of recreation
+confusion	N	4-1	the army retreated in confusion	a confusion of impressions
+swarm	V	1-3	There swarm bees in the garden .	The garden was swarming with bees
+scavenge	V	1-1	hyenas scavenge	She scavenged the garbage cans for food
+conserve	V	0-2	conserve your energy for the ascent to the summit	Mom always conserved the strawberries we grew in the backyard
+stab	N	3-3	he took a stab at forecasting	she felt a stab of excitement
+activity	N	1-4	catalytic activity	they avoided all recreational activity
+footprint	N	5-1	the computer had a desktop footprint of 10 by 16 inches	the footprints of an earlier civilization
+path	N	1-1	the path of virtue	our paths in life led us apart
+map	V	0-0	map the genes	map the surface of Venus
+rise	V	0-2	rise to the occasion	Her spirits rose when she heard the good news
+crash	V	2-2	You can crash here , though it 's not very comfortable	The terrorists crashed the plane into the palace
+run	N	7-6	the defensive line braced to stop the run	the coach put great emphasis on running
+relieve	V	3-2	This shall not relieve either Party of any obligations .	The thief relieved me of $ 100
+breast	N	3-5	he beat his breast in anger	The robin has a red breast .
+horse	N	2-1	A clothes horse ;    a sawhorse	500 horse led the attack
+whimsy	N	0-3	whimsy can be humorous to someone with time to enjoy it	he had a whimsy about flying to the moon
+obstacle	N	5-7	lack of imagination is an obstacle to one 's advancement	the poverty of a district is an obstacle to good education
+minute	N	2-4	Wait a minute , I 'm not ready yet !	it only takes a minute
+kinship	N	2-3	anthropology 's kinship with the humanities	felt a deep kinship with the other students
+boot	V	0-11	boot your computer	When arriving at the office , first thing I do is booting my machine .
+laugh	N	3-1	thanks for the laugh	he laughed unpleasantly at his own jest
+marriage	N	1-1	a marriage of ideas	the marriage of music and dance
+piano	N	10-9	Most of the works by Frédéric Chopin are for the piano .	He can play " Happy Birthday " on the piano .
+check	N	8-1	as he called the role he put a check mark by each student 's name	a check on its dependability under stress
+pierce	V	1-2	To pierce a mystery	The path pierced the jungle
+finish	N	8-11	my horse was several lengths behind at the finish	the winner is the team with the most points at the finish
+catch	N	1-3	the catch was only 10 fish	he shared his catch with the others
+go	V	4-2	how did your interview go ?	She was going that way anyway , so she offered to show him where it was .
+adhocracy	N	8-5	the need for informational flexibility can lead to adhocracy	the choice between bureaucracy and adhocracy represents a common dilemma
+ease	V	0-2	ease the pain in your legs	The pain eased overnight .
+aim	V	3-1	She wanted to aim a pun	He aimed his fists towards his opponent 's face
+crop	N	2-2	the annual crop of students brings a new crop of ideas	the latest crop of fashions is about to hit the stores
+sophistication	N	5-6	he practiced the art of sophistication upon reason	understanding affine transformations requires considerable mathematical sophistication
+share	V	4-1	I 'd like to share this idea with you	We shared the cake
+undo	V	0-3	undo the shoelace	A single mistake undid the President and he had to resign
+sultriness	N	1-1	the sultriness of her look was unmistakable	the sultriness of lust was in the air
+strip	N	17-3	You use strips of paper in papier mache .     He welded together some pieces of strip .	she did a strip right in front of everyone
+fundus	N	1-2	the fundus of the stomach	the uterine fundus
+book	N	5-13	I am reading a good book on economics	He was frustrated because he could n't find anything about dinosaurs in the book .
+segregate	V	5-2	Experiments show clearly that genes segregate	Many towns segregated into new counties
+stress	N	0-3	stress is a vasoconstrictor	he put the stress on the wrong syllable
+member	N	3-4	Canada is a member of the United Nations	the library was a member of the interlibrary loan association
+mate	N	4-9	He 's my best mate .	I 'm going to the pub with a few mates .
+sight	N	4-7	he was a familiar sight on the television	they went to Paris to see the sights
+escalation	N	4-4	higher wages caused an escalation of prices	there was a gradual escalation of hostilities
+forbid	V	1-2	I forbid you to call me late at night	The rules forbid it .
+swear	V	1-3	I swear by my grandmother 's recipes	Before God I swear I am innocent
+chore	N	4-4	Washing dishes is a chore , but we can not just stop eating .	the farmer 's morning chores
+hook	V	0-1	hook a fish	He hooked a snake accidentally , and was so scared he dropped his rod into the water .
+militarize	V	0-0	militarize the Civil Service	militarize Germany again after the war
+bang	N	3-4	he got a bang on the head	they got a great bang out of it
+flip	V	2-1	I 'd flip if anyone broke my phone .	he flipped when he heard that he was accepted into Princeton University
+criticize	V	2-2	Those who criticize others often are not perfect , either	The paper criticized the new movie
+seed	V	0-4	seed grapes	The dandelions went to seed
+rise	N	6-1	they asked for a 10 % rise in rates	the rising of the Holy Ghost
+attend	V	2-1	I rarely attend services at my church	She attends class regularly
+attack	N	4-1	he published an unexpected attack on my work	an attack of diarrhea
+update	V	3-1	I need to update my records to take account of the most recent transaction .	We updated the kitchen in the old house
+process	V	0-1	process iron	They processed into the dining room
+sign	V	1-1	Please sign on the dotted line .	Please sign here
+association	N	7-2	conditioning is a form of learning by association	many close associations with England
+round	N	1-3	The round of the seasons ; a round of pleasures	the postman 's rounds
+peradventure	N	3-2	this proves beyond peradventure that he is innocent	Proved beyond peradventure . — South .
+eliminate	V	2-4	Let 's eliminate the course on Akkadian hieroglyphics	This possibility can be eliminated from our consideration
+lay	V	1-0	To lay a tax on land	lay a responsibility on someone
+remember	V	10-1	After the shelling , many people lost the ability to remember	some remember better than others
+curl	V	0-1	curl my hair , please	She curled farther down under the covers
+leave	V	0-1	leave lots of time for the trip	This leaves no room for improvement
+bite	V	4-4	Gunny invariably tried to bite her	As soon as you bite that sandwich , you 'll know how good it is .
+state	V	0-0	state your name	state your opinion
+profession	N	1-6	a profession of disagreement	My father was a barrister by profession .
+repair	V	4-1	One can never fully repair the suffering and losses of the Jews in the Third Reich	She repaired her TV set
+wish	N	4-4	it was his last wish	they should respect the wishes of the people
+hoist	V	0-0	hoist the flags	hoist a sail
+resolution	N	3-6	Printing at higher resolution will cause a reduction in performance .	they never did achieve a final resolution of their differences
+system	N	5-6	that language has a complex system for indicating gender	they have to operate under a system they oppose
+tradecraft	N	13-10	the CIA chief of station accepted responsibility for his agents ' failures of tradecraft	instructional designers are trained in something that might be called tradecraft
+square	N	10-3	the carpenter who built this room must have lost his square	64 is the square of 8 .
+squeaker	N	4-3	which hinge is the squeaker ?	those sneakers are squeakers
+watch	V	9-3	Put a little baking soda in some vinegar and watch what happens .	The world is watching Sarajevo
+admit	V	0-2	admit someone to the profession	She was admitted to the New Jersey Bar
+vary	V	1-2	Prices vary	His moods vary depending on the weather
+whitewash	V	3-10	Let 's not whitewash the crimes of Stalin	In his sermon , the minister did n't try to whitewash over the sins of his church .
+fuckup	N	6-6	You 've got to fire that fuckup .	Forgetting our anniversary was a major fuckup .
+destroy	V	1-2	Hooligans destroy unprovoked	The fire destroyed the house
+inclination	N	2-1	the alkaline inclination of the local waters	an inclination of his head indicated his agreement
+dinner	N	7-6	guests should never be late to a dinner party	on Sundays they had a large dinner when they returned from church
+meeting	N	3-1	there was no meeting of minds	the meeting elected a chairperson
+portfolio	N	9-3	he remembered her because she was carrying a large portfolio	he holds the portfolio for foreign affairs
+rank	N	7-4	the strike was supported by the union rank and file	he rose from the ranks to become a colonel
+appreciate	V	1-2	I appreciate your efforts	The yen appreciated again !
+splash	N	7-2	her red hat gave her outfit a splash of color	just a splash of whiskey
+command	V	1-0	To command an army or a ship	Command the military forces
+prohibition	N	5-9	they were restrained by a prohibition in their charter	in 1920 the 18th amendment to the Constitution established prohibition in the US
+load	V	0-0	load a car	load the truck with hay
+finalize	V	2-11	let 's finalize the proposal	As soon as we get the plane tickets , we 'll finalize our reservations with the hotel .
+crush	V	1-2	To crush grapes	The car crushed the toy
+motivation	N	5-1	we did not understand his motivation	his motivation was at a high level
+wateriness	N	1-3	the wateriness of his blood	the haziness and wateriness of his disquisitions
+average	N	3-6	he is about average in height	the snowfall this month is below average
+stress	N	4-3	Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .	the intensity of stress is expressed in units of force divided by units of area
+erase	V	3-2	The files will erase quickly .	The chalkboard erased easily .
+arousal	N	3-6	To influence the arousal of brain and behavior	the purpose of art is the arousal of emotions
+question	N	8-3	His claim to the property has come under question .	He obeyed without question .
+relief	N	4-2	he has been on relief for many years	was the relief supposed to be protection from future harm or compensation for past injury ?
+promise	V	1-1	I promise you my best effort	I promised somebody my time .
+piggyback	V	3-1	an amendment to piggyback the current law	He piggybacked her child so she could see the show
+smoothness	N	11-2	the weather system of the Pacific is determined by the uninterrupted smoothness of the ocean	his oily smoothness concealed his guilt from the police
+handle	V	2-5	Do n't handle the merchandise	* About his altar , handling holy things - John Milton
+surface	N	10-11	it was not what it appeared to be on the surface	the cloth had a pattern of red dots on a white surface
+mixture	N	3-1	he drank a mixture of beer and lemonade	The mixture of sulphuric acid and water produces heat .
+pull	N	2-3	A zipper pull	he grabbed the pull and opened the drawer
+cost	N	2-2	The average cost of a new house is twice as much as t was 20 years ago .	The total cost of the new complex was an estimated $ 1.5 million .
+strain	V	2-3	Dont strain your mind too much	the rope strained when the weight was attached
+stripe	N	3-3	businessmen of every stripe joined in opposition to the proposal	they earned their stripes in Kuwait
+tap	V	0-1	tap a cask of wine	He tapped a new barrel of beer .
+ticket	N	6-9	this car could be just the ticket for a small family	Joe will be running on an anti - crime ticket .
+hook	V	0-2	hook the ball	His opponent hooked him badly
+peak	N	1-4	the peak of perfection	the view from the peak was magnificent
+tilt	N	3-5	the court 's tilt toward conservative rulings	the tower had a pronounced tilt
+stampede	V	2-3	Thunderbolts can stampede animals	The tavern owners stampeded us into overeating
+bend	V	4-0	The stick does not bend	bend your knees
+breed	N	5-1	he experimented on a particular breed of white rats	A breed of animal
+transplant	V	5-0	These delicate plants do not transplant easily	Transplant the young rice plants
+avail	V	2-1	It will avail them to dispose of their booty	He availed himself of the available resources
+building	N	2-1	the entire building complained about the noise	The building of the bridge will be completed in a couple of weeks .
+lead	N	2-13	a good lead for a job	Joe is a great addition to our sales team , he has numerous leads in the paper industry .
+twist	V	2-0	Do n't twist my words	twist the dough into a braid
+torture	N	7-13	In every war there are acts of torture that cause the world to shudder .	Using large dogs to attack bound , hand - cuffed prisoners is clearly torture .
+youth	N	0-1	youth everywhere rises in revolt	Her youth and beauty is what attracted him to her .
+board	N	2-2	room and board	he nailed boards across the windows
+toast	N	2-5	All toasters toast toast .	I ate a piece of toast for breakfast .
+flick	V	0-1	flick a piece of paper across the table	he flicked his Bic
+foundation	N	3-2	he lacks the foundation necessary for advanced study	The Wikimedia Foundation , Inc. is the parent organization of the Wiktionary collaborative project .
+figure	V	1-4	Elections figure prominently in every government program	How do the elections figure in the current pattern of internal politics ?
+promulgation	N	1-1	the promulgation was written in English	his promulgation of the policy proved to be premature
+plume	N	1-3	a plume of smoke	grass with large plumes
+grind	V	0-0	grind lenses for glasses and cameras	Grind an axe
+shuffle	V	1-0	You shuffle , I 'll deal .	shuffle the cards
+mark	N	4-8	he left an indelible mark on the American theater	it was in London that he made his mark
+eccentricity	N	5-7	For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .	a circle is an ellipse with zero eccentricity
+blockage	N	3-10	There was a blockage in the sewer , so we called out the plumber .	we had to call a plumber to clear out the blockage in the drainpipe
+work	N	7-3	the symphony was hailed as an ingenious work	erosion is the work of wind or water over time
+sugar	V	0-2	sugar your tea	John heavily sugars his coffee .
+break	V	0-1	break a record	He broke the men 's 100-meter record .
+act	V	3-2	She wants to act Lady Macbeth , but she is too young for the role	I started acting at the age of eleven in my local theatre .
+officer	N	3-4	he is an officer of the court	the club elected its officers for the coming year
+conclusion	N	1-1	the conclusion of the peace treaty	the conclusion of a business deal
+last	V	3-3	Summer seems to last longer each year .	The bad weather lasted for three days
+experience	N	2-0	a surprising experience	experience is the best teacher
+incorporate	V	0-3	incorporate this document with those pertaining to the same case	The company was incorporated in 1980 .
+breed	N	4-1	Google represents a new breed of entrepreneurs	A breed of tulip
+apology	N	3-1	it was an apology for a meal	The Apology of Socrates .
+suppress	V	5-3	The rescue team managed to suppress the flow of oil by blasting the drilling hole .	this drug can suppress the hemorrhage
+shower	N	7-2	the game was interrupted by a brief shower	a little shower of rose petals
+sense	N	3-2	A keen musical sense	a good sense of timing
+dimple	N	4-4	The accident created a dimple in the hood of the car .	there are approximately 336 dimples on a golf ball
+mess	N	4-5	the house was a mess	My boss dumped a whole mess of projects on my desk today .
+succession	N	1-1	a succession of failures	a succession of stalls offering soft drinks
+bye	N	3-5	he had a bye in the first round	Craig 's Crew plays the bye next week .
+cleat	V	0-0	cleat running shoes for better traction	cleat a line
+down	V	3-3	Some people can down a pound of meat in the course of one meal	The mugger knocked down the old lady after she refused to hand over her wallet
+inject	V	0-5	inject hydrogen into the balloon	Now lie back while we inject you with the anesthetic .
+create	V	0-0	create a poem	Create one a peer
+assumption	N	2-13	the Nazi assumption of power in 1934	he acquired all the company 's assets for ten million dollars and the assumption of the company 's debts
+connection	N	8-8	The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .	the plane was late and he missed his connection in Atlanta
+demand	V	1-1	I demand an explanation	I demand an immediate explanation .
+home	N	11-1	Canadian tariffs enabled United States lumber companies to raise prices at home	his home is New Jersey
+lie	V	0-1	lie down on the bed until you feel better	She lied when she told me she was only 29
+result	V	0-3	result in tragedy	This measure will result in good or in evil .
+invasion	N	1-1	an invasion of locusts	an invasion of tourists
+restraint	N	7-6	the room was simply decorated with great restraint	the car did not have proper restraints fitted
+daughter	N	13-1	I already have a son , so I would like to have a daughter .	her daughter cared for her in her old age
+dish	N	4-6	they served me a dish of rice	we gave them a set of dishes for a wedding present
+say	V	4-2	What does the law say ?	The clock says noon
+bell	V	0-2	bell cows	Who will bell the cat ?
+inject	V	0-1	inject heroin	He injected new life into the performance
+affair	N	5-6	it is none of your affair	He used a hook - shaped affair with a long handle to unlock the car .
+excavate	V	0-4	excavate gold	Carnegie had a lake excavated for Princeton University 's rowing team
+cancel	V	0-4	cancel cheques or tickets	The corrective feedback mechanism cancels out the noise .
+clutch	V	1-1	To clutch power	She clutched her purse
+plenty	N	2-4	there was plenty of food for everyone	it must have cost plenty
+pressure	N	2-6	he used pressure to stop the bleeding	the sensitivity of his skin to pressure and temperature was normal
+land	N	9-7	Maybe that 's how it works in TV - land , bu not in the real world .	he made it the law of the land
+wrangle	V	0-11	wrangle horses	The bar keeper threw them out , but they continued to wrangle on down the street
+stream	N	3-4	he felt a stream of air	the hose ejected a stream of water
+log	N	3-2	they kept a log of all transmission by the radio station	an email log
+glow	N	1-1	a glow of regret	the glow of new love
+button	N	3-6	Pat pushed the button marked " shred " on the blender .	the elevator was operated by push buttons
+god	N	3-3	he was a god among men	money was his god
+gnash	V	1-1	To gnash the air in fury	To gnash a carpet
+dignity	N	4-3	it was beneath his dignity to cheat	showed his true dignity when under pressure
+slip	V	0-3	slip into something comfortable	My grades are slipping
+life	N	1-13	real life	it was a heavy play and the actors tried in vain to give life to it
+gap	N	0-7	gap between income and outgo	The exploring party went through the high gap in the mountains .
+middle	N	2-3	In the middle of the marathon , David collapsed from fatigue .	rain during the middle of April
+usage	N	1-1	English usage	a usage borrowed from French
+analyze	V	0-2	analyze your real motives	The inspector analyzed the building 's soundness .
+piece	N	6-3	the children acted out a comic piece to amuse the guests	he sacrificed a piece to get a strategic advantage
+breakdown	N	8-5	After so much stress , he suffered a breakdown and simply gave up .	his warning came after the breakdown of talks in London
+moderate	V	1-1	To moderate a synod	John moderated the discussion
+cloister	V	0-1	cloister the garden	She cloistered herself in the office
+reflect	V	13-4	People do that sort of thing every day , without ever stopping to reflect on the consequences .	The teacher 's ability reflects well on the school .
+sexualize	V	2-3	Some languages sexualize all nouns and do not have a neuter gender	The god was sexualized and married to another god
+acquaintance	N	9-9	I know of the man ; but have no acquaintance with him .	I have trouble remembering the names of all my acquaintances
+role	N	5-2	My neighbor was the lead role in last year 's village play .	play its role
+keep	V	2-1	Can I keep my old stuffed animals ?	She kept her maiden name after she married
+bitch	N	3-5	Karma 's a bitch .	this problem is a real bitch
+redefinition	N	7-3	words like ` conservative ' require periodic redefinition	she provided a redefinition of his duties
+potluck	N	4-7	Here 's a good potluck of beans and stew .	having arrived unannounced we had to take potluck
+pronunciation	N	4-1	that is the correct pronunciation	the pronunciation of Chinese is difficult for foreigners
+can	N	6-1	Could you tell me where I can find the restroom ?	We ca n't chat today . I have to get my butt to work before I 'm late .
+conceive	V	3-7	She can not conceive	Assisted procreation can help those trying to conceive .
+wash	V	5-2	This silly excuse wo n't wash in traffic court	The cat washes several times a day
+abridge	V	4-4	the new law might abridge our freedom of expression	He had his rights abridged by the crooked sheriff .
+pinnacle	V	0-6	pinnacle a pediment	He did not want to be pinnacled
+glimpse	N	7-4	from the window he could catch a glimpse of the lake	he caught only a glimpse of the professor 's meaning
+exile	N	3-4	He lived in exile .	She lived as an exile .
+hew	V	0-11	hew out a path in the rock	One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville .
+right	N	2-1	take a right at the corner	film rights
+delay	N	6-1	instant replay caused too long a delay	The delay before the echo of a sound
+spread	V	2-1	the infection spread	Optimism spread among the population
+prefer	V	1-2	We prefer sleeping outside	Some people prefer camping to staying in hotels
+knuckleball	N	8-14	Even the pitcher does n't know where his knuckleball is going .	Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball .
+show	N	1-2	a show of impatience	a good show of looking interested
+hour	N	3-4	we live an hour from the airport	it was their finest hour
+afflict	V	0-2	afflict with the plague	she was afflicted by the death of her parents
+afford	V	3-2	We ca n't afford to send our children to college	Can you afford this car ?
+landing	N	5-1	the plane made a smooth landing	his landing on his feet was catlike
+button	N	6-4	The politician wore a bright yellow button with the slogan " Vote Smart " emblazoned on it .	they passed out campaign buttons for their candidate
+wake	N	7-3	there 's no weeping at an Irish wake	the motorboat 's wake capsized the canoe
+pick	V	1-3	To pick rags	Do n't always pick on your little brother
+harbour	N	6-7	The city has an excellent natural harbour .	The neighbourhood is a well - known harbour for petty thieves .
+advantage	N	4-5	The enemy had the advantage of a more elevated position .	the experience gave him the advantage over me
+body	N	1-1	the body of the car was badly rusted	administrative body
+belabor	V	0-2	belabor the obvious	She was belabored by her fellow students
+refrigerate	V	1-0	Please refrigerate your uncooked meats at or below 40 Fahrenheit .	refrigerate this medicine
+denizen	N	5-7	The bald eagle is a denizen of the northern part of the state .	The giant squid is one of many denizens of the deep .
+answer	V	0-5	answer the question	She did n't want to answer
+domesticity	N	4-6	making a hobby of domesticity	a royal family living in unpretentious domesticity
+follow	V	2-1	We must follow closely the economic development is Cuba	It follows that your assertion is false
+totality	N	3-1	appalled by the totality of the destruction	the totality of war and its consequences
+problem	N	3-6	what 's the problem ?	she and her husband are having problems
+jockey	N	4-2	he 's a truck jockey	a disc jockey
+safety	N	3-3	He ran to safety	the reciprocal of safety is risk
+amount	N	1-4	the amount he had in cash was insufficient	The dogs need different amounts of food .
+kick	N	1-11	the kick must be synchronized with the arm movements	a sidecar is a smooth drink but it has a powerful kick
+render	V	0-6	render the brick walls in the den	the face of the child is rendered with much tenderness in this painting
+custody	N	6-4	He was mistreated while in police custody .	he is in the custody of police
+forge	V	3-1	We decided to forge ahead with our plans even though our biggest underwriter backed out .	He forged ahead
+hostility	N	5-6	he could not conceal his hostility	he could no longer contain his hostility
+twilight	N	9-3	I could just make out her face in the twilight .	he loved the twilight
+pencil	N	2-6	an eyebrow pencil	this artist 's favorite medium is pencil
+cooperation	N	1-6	economic cooperation	they agreed on a policy of cooperation
+work	N	6-1	he was indebted to the pioneering work of John Dewey	the work of an active imagination
+circumference	N	8-5	a danger to all races over the whole circumference of the globe	he had walked the full circumference of his land
+diet	N	1-6	The diet of the Giant Panda consists mainly of bamboo .	He 's been reading a steady diet of nonfiction for the last several years .
+buzz	N	1-1	the buzz of excitement was so great that a formal denial was issued	the buzz of a bumble bee
+gig	N	3-5	they played a gig in New Jersey	Our guitar player had another gig so we had to get a sub .
+nude	N	4-4	they swam in the nude	The marketing rule ' nude sells ' spread from verbal to visual mainstream media in the 20th century
+writing	N	0-9	writing was a form of therapy for him	the idea occurs with increasing frequency in Hemingway 's writings
+toss	V	2-1	I 'll toss you for it .	Steve tossed John the ball .
+operation	N	4-4	they organized a rescue operation	consolidate the companies various operations
+fatigue	N	1-5	growing fatigue was apparent from the decline in the execution of their athletic skills	he was hospitalized for extreme fatigue
+exchange	N	4-1	they had a bitter exchange	An exchange of cattle for grain
+choke	V	0-3	choke a carburetor	This neckband is choking the cat
+flush	V	0-2	flush the meadows	the sky flushed with rosy splendor
+cost	V	2-3	These shoes cost $ 100	The bill will cost them 500 million dollars .
+press	N	1-6	the press of business matters	Put the ironing in the linen press .
+wine	N	3-0	She ordered some wine for the meal .	Wine is stronger than beer .
+recrudescence	N	1-1	a recrudescence of racism	a recrudescence of the symptoms
+pity	N	3-7	it 's a pity he could n't do it	the blind are too often objects of pity
+abuse	N	1-6	All abuse , whether physical , verbal , psychological or sexual , is bad .	the child showed signs of physical abuse
+studio	N	1-5	His studio was cramped when he began as an artist .	you do n't need a studio to make a passport photograph
+club	N	1-7	each club played six home games with teams in its own division	he played the drums at a jazz club
+shoot	V	0-0	shoot cloth	shoot a star
+vote	V	1-1	I vote that we all go home	She voted for going to the Chinese restaurant
+allowance	V	5-3	The captain was obliged to allowance his crew .	Our provisions were allowanced .
+date	V	4-1	Scientists often can not date precisely archeological or prehistorical findings	To date the building of the pyramids
+excite	V	5-0	There are drugs designed to excite certain nerves in our body .	excite the audience
+invite	V	2-2	Can I invite you for dinner on Sunday night ?	The organizers invite submissions of papers for the conference
+beat	V	0-2	beat the drum	I got beaten up by thugs on my way home .
+hold	V	1-0	please hold a table at Maxim 's	Hold a table for us at 7:00 .
+harass	V	0-2	harass the enemy	This man harasses his female co - workers
+holler	V	1-3	The holler tree	What was he hollering about ?
+triangulate	V	0-5	triangulate the piece of cardboard	The land surveyor worked by triangulating the plot
+submission	N	5-3	what was the date of submission of your proposal ?	several of his submissions were rejected by publishers
+dexterity	N	9-7	She twirled the knife through her fingers with impressive dexterity .	Playing computer games can improve your manual dexterity .
+tear	N	12-3	he took the manuscript in both hands and gave it a mighty tear	There were big tears rolling down Lisa 's cheeks .
+bracket	V	1-0	Please bracket this remark	bracket bookshelves
+frame	N	2-9	A stocking frame ; a lace frame ; a spinning frame	His starved flesh hung loosely on his once imposing frame .
+patronage	N	6-7	The restaurant had an upper class patronage .	even before noon there was a considerable patronage
+string	N	1-1	a string of islands	the strings played superlatively well
+holiday	N	4-6	Today is a Wiccan holiday !	no mail is delivered on federal holidays
+group	N	3-1	There is a group of houses behind the hill ;    he left town to join a Communist group	A group of people gathered in front of the Parliament to demonstrate against the Prime Minister 's proposals .
+reality	N	1-1	the reality of his situation slowly dawned on him	The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend .
+section	N	10-4	the history of this work is discussed in the next section	a graduate student taught sections for the professor 's lecture course
+cocoon	V	7-1	She loves to stay at home and cocoon	Families cocoon around the T.V. set most evenings
+pull	N	4-6	it was a long pull but we made it	he was sidelined with a hamstring pull
+accession	N	0-5	accession to such demands would set a dangerous precedent	the librarian shelved the new accessions
+donate	V	0-1	donate money to the orphanage	I donated blood to the Red Cross for the victims of the earthquake
+flood	V	0-3	flood the market with tennis shoes	The swollen river flooded the village
+hail	V	0-2	hail a cab	He was hailed as a hero .
+characterize	V	2-4	You can characterize his behavior as that of an egotist	This poem can be characterized as a lament for a dead lover
+closure	N	3-11	they regretted the closure of the day care center	he needed to grieve before he could achieve a sense of closure
+construction	N	5-0	The engineer marvelled at his construction .	Construction is underway on the new bridge .
+shot	N	5-1	he trained at putting the shot	The shot flew twenty metres , and nearly landed on the judge 's foot .
+plan	V	0-1	plan an attack	He plans to be in graduate school next year
+abatement	N	1-3	The abatement of a nuisance is the suppression thereof .	laws enforcing noise abatement
+painting	N	2-6	a small painting by Picasso	you can finish the job of painting faster with a roller than with a brush
+strand	N	1-6	a strand of pearls	he tried to pick up the strands of his former life
+risk	V	3-1	I can not risk smoking .	Why risk your life ?
+depth	N	1-0	the depth of the water	depth of a closet
+passage	N	2-6	the outward passage took 10 days	She struggled to play the difficult passages .
+extension	N	7-1	the dancer was praised for her uncanny extension	good extension comes from a combination of training and native ability
+break	N	2-5	Make a break for it	he finally got his big break
+impregnation	N	1-1	the impregnation of wood with preservative	the impregnation , whatever it was , had turned the rock blue
+finger	N	14-1	Human hands have five fingers : the thumb , the forefinger ( or index finger ) , the middle finger , the ring finger and the little finger .	her fingers were long and thin
+beat	N	8-1	in the old days a policeman walked a beat and knew all his people by name	A beat of the heart ; the beat of the pulse
+literature	N	11-2	one aspect of Waterloo has not yet been treated in the literature	the technical literature
+look	N	1-1	a look of triumph	his look was fixed on her eyes
+tread	V	1-8	To tread a path ; to tread land when too light ; a well - trodden path	For fools rush in where angels fear to tread
+maneuver	N	4-6	he made a great maneuver	Parallel parking can be a difficult maneuver .
+preserve	V	0-1	preserve the peace in the family	To preserve appearances ; to preserve silence
+association	N	9-5	you can not be convicted of criminal guilt by association	he joined the Modern Language Association
+winterize	V	0-0	winterize cars	winterize your houses
+preparation	N	3-8	he left the preparation of meals to his wife	the resolution of one dissonance is often the preparation for another dissonance
+response	N	4-1	this situation developed in response to events in Africa	his responses have slowed with age
+chisel	V	0-2	chisel the marble	Who 's chiseling on the side ?
+love	V	1-1	I love French food	I loved to write .
+stop	V	0-0	stop a car	stop the thief
+wish	N	3-2	he got his wish	my best wishes
+push	V	3-1	You need to push quite hard to get this door open .	Nora pushed through the crowd .
+lesson	N	5-7	The accident was a good lesson to me .	I hope this accident taught you a lesson !
+tool	N	3-3	He was a tool , no more than a pawn to her .	Hand me that tool , would you ?     I do n't have the right tools to start fiddling around with the engine .
+trailer	N	1-14	The trailer for that movie makes it seem like it would be fun .	At the end of the day , we put the snowmobiles back on the trailer .
+intellect	N	4-6	he has a keen intellect	Some of the world 's leading intellects were meeting there .
+militia	N	4-10	their troops were untrained militia	Congress shall have power to provide for calling forth the militia "-- United States Constitution
+trip	V	5-5	A pedestrian was able to trip the burglar as he was running away .	The questions on the test tripped him up
+making	N	1-5	the making of measurements	it was already in the making
+reinstatement	N	1-15	her reinstatement to her former office followed quickly	Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .
+liberty	N	1-0	at liberty to choose whatever occupation one wishes	liberty -- perfect liberty -- to think or feel or do just as one pleases
+caller	N	4-4	- Who 's the caller ?	there were so many callers that he finally disconnected the telephone
+department	N	5-4	his work established a new department of literature	baking is not my department
+circulate	V	0-4	circulate a rumor	This letter is being circulated among the faculty
+force	N	1-2	A force out was recorded on the scorecard .	a public force is necessary to give security to the rights of citizens
+mainstream	N	6-6	his thinking was in the American mainstream	His ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .
+allowance	N	2-1	my weekly allowance of two eggs	travel allowance
+mire	V	1-5	To mire a horse or wagon	Our people should not be mired in the past
+addition	N	1-1	the addition of a leap day every four years	the addition of a bathroom was a major improvement
+easiness	N	2-3	the very easiness of the deed held her back	there was an easiness between them
+wrong	N	4-7	Injustice is a heinous wrong .	he feels that you are in the wrong
+recognition	N	7-6	territorial disputes were resolved in Guatemala 's recognition of Belize in 1991	the partners were delighted with the recognition of their work
+modify	V	1-1	please modify this letter to make it more polite	he modified his views on same - gender marriage
+subsidy	N	1-6	a subsidy for research in artificial intelligence	Manufacturing firms are supported by government subsidies in some countries .
+renovate	V	2-1	This will renovate my spirits	They renovated the ceiling of the Sistine Chapel
+remover	N	1-1	rust remover	paint remover
+affiliation	N	3-2	a valuable financial affiliation	welcomed the affiliation of the research center with the university
+blend	N	5-7	` smog ' is a blend of ` smoke ' and ` fog '	Their music has been described as a blend of jazz and heavy metal .
+mandate	V	0-7	mandate a colony	the new director of the school board mandated regular tests
+clime	N	4-12	plants from a cold clime travel best in winter	After working hard all of his life , Max retired to warmer climes in Florida .
+proliferate	V	3-2	We must not proliferate nuclear arms	The flowers proliferated rapidly all spring .
+compress	V	4-1	The force required to compress a spring varies linearly with the displacement .	she compressed her lips
+preponderance	N	1-1	the preponderance of good over evil	the preponderance of wealth and power
+dig	V	7-1	In the wintertime , heavy truck tires dig into the road , forming potholes .	They dug an eight - foot ditch along the side of the road .
+kill	V	0-1	kill the engine	He killed the ball
+affect	V	4-2	Will the new rules affect me ?	the medicine affects my heart rate
+straggle	N	1-1	a straggle of followers	a straggle of outbuildings
+seed	V	0-3	seed clouds	She sowed sunflower seeds
+rail	N	4-3	he was concerned with rail safety	he traveled by rail
+base	N	9-0	he told the painter that he wanted a yellow base with just a hint of green	bases include oxides and hydroxides of metals and ammonia
+listen	V	1-3	Please listen carefully as I explain .	I like to listen to music .
+drop	N	8-4	it was a miracle that he survived the drop from that height	That was a long drop , but fortunately I did n't break any bones .
+scopolamine	N	1-3	transdermal scopolamine is used to treat motion sickness	someone sedated with scopolamine has difficulty lying
+ash	N	4-1	The woods planted in ash will see a different mix of species .	The ash trees are dying off due to emerald ash borer .
+spade	N	4-0	she led a low spade	spades were trumps
+exalt	V	2-3	These paintings exalt the imagination	The man was exalted from a humble carpenter to a minister .
+canon	N	2-0	the neoclassical canon	canons of polite society
+professionalization	N	1-1	the professionalization of warfare	the professionalization of American sports
+catch	V	10-1	I would love to have dinner but I have to catch a plane .	We caught something of his theory in the lecture
+rehearsal	N	1-4	a rehearsal will be held the day before the wedding	he missed too many rehearsals
+setting	N	2-3	a place setting of sterling flatware	he changed the setting on the thermostat
+zero	N	10-12	In unary and k - adic notation in general , zero is the empty string .	Write 0.0 to indicate a floating point number rather than the integer zero .
+assurance	N	1-1	an assurance of help when needed	his assurance in his superiority did not make him popular
+load	N	3-5	that 's a load off my mind	I 'm worried that the load on that transformer will be too high .
+fail	V	2-4	Did I fail the test ?	She studied hard but failed nevertheless
+gargle	V	0-3	gargle with this liquid	Every morning he gargled a little cheap Scotch .
+sound	N	5-6	the main body of the sound ran parallel to the coast	he strained to hear the faint sounds
+utter	V	0-1	utter counterfeit currency	He uttered strange sounds that nobody could understand
+touch	N	3-4	he has a touch of rheumatism	he longed for the touch of her hand
+delta	N	2-3	the Nile delta	the Mississippi River delta
+excuse	N	5-4	That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?	He 's a sorry excuse of a doctor .
+tap	V	0-0	tap a keg of beer	tap a maple tree for its syrup
+absorb	V	0-1	absorb the costs for something	he absorbed the knowledge or beliefs of his tribe
+branch	N	1-2	a branch of Congress	Our main branch is downtown , and we have branches in all major suburbs .
+date	N	1-1	his date never stopped talking	The date for pleading
+activity	N	3-3	the level of activity declines with age	his sphere of activity
+capital	N	2-2	the drug capital of Columbia	the crime capital of Italy
+continent	N	5-3	pioneers had to cross the continent on foot	there are seven continents
+probation	N	0-4	probation is part of the sentencing process	You 'll be on probation for first six months . After that , if you work out , they 'll hire you permanently .
+office	N	4-5	An executive or judical office ; a municipal office	during his first year in office
+drag	V	3-2	Time seems to drag when you 're waiting for a bus .	The speech dragged on for two hours
+reappearance	N	1-1	the reappearance of Halley 's comet	his reappearance as Hamlet has been long awaited
+pound	V	2-0	The locks pound the water of the canal	pound the roots with a heavy flat stone
+seize	V	4-2	Birds of prey often seize small mammals	the invaders seized the land and property of the inhabitants
+middle	N	5-8	I woke up in the middle of the night .	A whole is that which has beginning , middle , and end"- Aristotle
+protest	N	6-5	the senator rose to register his protest	they finished the game under protest to the league president
+hitter	N	2-3	a hard hitter	blacksmiths are good hitters
+shock	V	1-0	To shock rye	shock grain
+power	N	5-6	He needed a lot of power to hit the ball out of the stadium .	the mysterious presence of an evil power
+believe	V	3-1	We did n't believe his stories from the War	I believed his report
+score	V	0-1	score the SAT essays	She scored high on the SAT
+upstage	V	6-8	She only wore that dress to upstage everyone .	When the dog entered the stage , he upstaged the actress
+invasion	N	1-1	An invasion of bees	An invasion of mobile phones
+upgrade	N	6-9	the power plant received a new upgrade	With my phone company , I get a free upgrade every twelve months if I keep topping up 10 pounds a month .
+need	V	1-1	I need him to be nice .	I needed him to go .
+ruin	V	3-3	This behavior will ruin your chances of winning the election	The country lay ruined after the war
+combust	V	1-2	We combust coal and other fossil fuels	The professor combusted when the student did n't know the answer to a very elementary question
+near	V	3-2	They are drawing near	The ship nears the land .
+crisis	N	6-2	they went bankrupt during the economic crisis	after the crisis the patient either dies or gets better
+nut	N	7-5	He was driving his car like a nut .	I kicked him in the nuts .
+grunt	N	3-5	he went from grunt to chairman in six years	infantrymen in Vietnam were called grunts
+expect	V	1-2	I expect to receive wages .     I expect that the troops will be defeated .	We were expecting a visit from our relatives
+distribution	N	2-1	worldwide in distribution	the distribution of nerve fibers
+conjecture	N	4-8	The physicist used his conjecture about subatomic particles to design an experiment .	I explained it , but it is pure conjecture whether he understood , or not .
+body	N	2-2	the whole body filed out of the auditorium	the student body
+number	N	25-12	The word “ fifteen ” , the Arabic numeral “ 15 ” , and the Roman numeral “ XV ” are all numerals representing the number fifteen .	Zero , one , -1 , 2.5 , and pi are all numbers .
+bridge	N	6-5	her glasses left marks on the bridge of her nose	Rugby players often break the bridge of their noses .
+board	N	1-4	the board has seven members	he got out the board and set up the pieces
+pocket	V	7-1	Lydia pocketed the change in her left pocket .	Lydia pocketed the change .
+nowhere	N	4-6	he came out of nowhere	They went on a cruise to nowhere .
+bottom	N	4-9	they started at the bottom of the hill	they did much of their overseas trade in foreign bottoms
+cross	N	4-3	a mule is a cross between a horse and a donkey	that is his cross to bear
+distribute	V	4-2	The publisher wants to distribute the book in Asia	the function distributes the values evenly
+herald	N	4-4	Rouge Dragon is a herald at the College of Arms .	the chieftain had a herald who announced his arrival with a trumpet
+word	N	3-10	we had a word or two about it	There was then a long discussion of whether to capitalize words like " east " .
+cut	N	4-8	he played the first cut on the cd	he insisted that we give him the last cut before every deal
+embodiment	N	1-4	the embodiment of hope	a circle was the embodiment of his concept of life
+block	V	0-3	block the signals emitted by this station	The thick curtain blocked the action on the stage
+forwarding	N	1-1	the forwarding of resumes to the personnel department	the forwarding of mail to a new address is done automatically
+thing	N	1-0	a thing of the spirit	things of the heart
+joy	N	1-1	a joy to behold	The joys and demands of parenthood
+wail	V	0-1	wail in self - pity	she wailed with pain
+taste	N	11-3	to ask at that particular time was the ultimate in bad taste	he got a taste of life on the wild side
+falsity	N	9-7	The belief that the world is flat is a falsity .	argument could not determine its truth or falsity
+solemnize	V	4-2	The couple chose to solemnize their relationship in a secular ceremony , instead of having a wedding .	The King solemnized this day of morning
+peg	V	2-0	Let 's peg the rug to the floor .	peg a tent
+gem	N	3-4	he had the gem set in a ring for his wife	She 's an absolute gem .
+pay	N	3-11	he wasted his pay on drink	Many employers have rules designed to keep employees from comparing their pays .
+tremor	N	3-4	She felt a tremor in her stomach before going on stage .	Did you feel the tremor this morning ?
+demon	N	3-4	she 's a demon at math	he worked like a demon to finish the job on time
+bondage	N	5-5	he sought release from his bondage to Satan	a self freed from the bondage of time
+explanation	N	1-1	the explanation was very simple	The explanation was long and drawn - out .
+danger	N	13-4	" Two territorial questions .. unsettled .. each of which was a positive danger to the peace of Europe " ( Times , 5 Sept. 3/2 ) .	He moved out of danger
+property	N	5-4	he is a man of property	that hat is my property
+roll	N	1-3	The roll of a ball	Look at the roll of the waves .
+exhibition	N	4-2	There was an art exhibition on in the town hall .	A boat exhibition
+metadata	N	3-4	Most websites contain metadata to tell the computer how to lay the words out on the screen .	a library catalog is metadata because it describes publications
+bag	V	0-1	bag a few pheasants	We bagged three deer yesterday .
+steam	V	1-7	just steam the vegetables	her indifference to his amorous advances really steamed the young man
+house	N	3-1	he counted the house	the house applauded
+indent	V	0-0	indent the documents	Indent the paragraphs of a letter
+seem	V	1-1	I seem to be misunderstood by everyone	There seems no reason to go ahead with the project now
+fiefdom	N	3-20	The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .	Most of our company 's computers are standardized , but the IT director allows the employees in his own little fiefdom to specify their own machines .
+recruit	V	0-3	recruit new soldiers	The lab director recruited an able crew of assistants
+spend	V	0-1	spend money	He spends far more on gambling than he does on living proper .
+occurrence	N	4-1	a disease of frequent occurrence	the occurrence ( or presence ) of life on other planets
+voice	N	14-6	O Marcus , I am warm'd ; my heart Leaps at the trumpet 's voice . —	The floods have lifted up their voice . — Psalms 93:3
+largeness	N	6-5	the might have repercussions of unimaginable largeness	a man distinguished by the largeness and scope of his views
+shot	N	6-5	the nurse gave him a flu shot	he tried to get unposed shots of his friends
+play	V	0-0	play the casinos in Trouville	Play the races
+engrave	V	0-0	engrave a letter	engrave a pen
+terror	N	2-3	he used terror to make them confess	he was the terror of the neighborhood
+nose	N	5-1	the hound has a good nose	the nose of the rocket heated up on reentry
+floss	V	5-2	She flossed her teeth with floss .	The hygienist flossed my teeth .
+transfer	N	1-5	the transfer of the music from record to tape suppressed much of the background noise	the best student was a transfer from LSU
+wise	N	2-2	in no wise	in this wise
+get	V	4-2	The operator could n't get Kobe because of the earthquake	I 'll get this finished by lunchtime .
+revenge	N	4-15	Indifference is the sweetest revenge .	When I left my wife , she tried to set fire to the house in revenge .
+calibrate	V	0-1	calibrate a gun	he calibrated the thermometer for the Celsius scale
+policy	N	9-3	you should have read the small print on your policy	it was a policy of retribution
+stay	V	5-0	Wear gloves so your hands stay warm .	Stay with me , please
+go	N	3-5	it 's my go	I 'll give it a go .
+urgency	N	7-7	they departed hurriedly because of some great urgency in their affairs	I 'll be there , barring any urgencies
+consult	V	3-0	They had to consult before arriving at a decision	Consult your local broker
+hit	V	0-3	hit the bottle	He tries to hit on women in bars
+snatch	N	2-1	Martin 's snatch at the bridle failed and the horse raced away	overheard snatches of their conversation
+shadiness	N	4-1	there 's too much shadiness to take good photographs	the shadiness of their transactions
+authority	N	6-5	She lost all her respect and authority after turning up drunk to the meeting .	this book is the final authority on the life of Milton
+care	N	5-0	he handled the vase with care	Care should be taken when holding babies .
+bastion	N	2-1	the last bastion of communism	a bastion against corruption
+treatment	N	1-1	his treatment of the race question is badly biased	his treatment of space borrows from Italian architecture
+contradistinction	N	2-6	sculpture in contradistinction to painting	We used hamburgers and soda in contradistinction to healthy food .
+education	N	3-0	a girl 's education was less important than a boy 's	education is a preparation for life
+fold	V	0-1	fold up the newspaper	Tony folded the flaps open .
+deed	N	3-3	he signed the deed	I inherited the deed to the house .
+agency	N	3-2	she has free agency	Central Intelligence Agency
+cuisine	N	7-1	The restaurant is noted for its excellent cuisine .	French cuisine is considered to be one of the world 's most refined and elegant styles of cooking .
+success	N	1-5	his success in the marathon was unexpected	the election was a remarkable success for the Whigs
+banish	V	0-0	banish bad thoughts	banish gloom
+play	N	3-5	they gave full play to the artist 's talent	it was all done in play
