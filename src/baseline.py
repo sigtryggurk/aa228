@@ -7,6 +7,7 @@ from lightgbm import LGBMClassifier
 from sklearn.dummy import DummyClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, roc_auc_score
+from sklearn.model_selection import train_test_split
 
 SEED = Config.SEED
 
@@ -14,19 +15,20 @@ def run_baselines(data, clf):
     X_cols = [col_name for col_name in data.columns if "emb_" in col_name]
     acc = [] 
     auc = []
-    for train, dev in dr.get_k_fold_split(data, n_splits=5):
-        X_train = train[X_cols]
-        X_dev = dev[X_cols]
-        y_train = train['is_same']
-        y_dev = dev['is_same']
-        
-        clf.fit(train[X_cols], train['is_same'])
-        preds = clf.predict(dev[X_cols])
-        probs = [a[1] for a in clf.predict_proba(dev[X_cols])]
-        acc.append(accuracy_score(dev['is_same'], preds))
-        auc.append(roc_auc_score(dev['is_same'], probs))
+    train, dev = train_test_split(data, test_size=0.2, random_state=SEED)
     
-    return(np.mean(acc), np.mean(auc))        
+    X_train = train[X_cols]
+    X_dev = dev[X_cols]
+    y_train = train['is_same']
+    y_dev = dev['is_same']
+    
+    clf.fit(train[X_cols], train['is_same'])
+    preds = clf.predict(dev[X_cols])
+    probs = [a[1] for a in clf.predict_proba(dev[X_cols])]
+    acc = accuracy_score(dev['is_same'], preds)
+    auc = roc_auc_score(dev['is_same'], probs)
+    
+    return(acc, auc)        
 
 data = dr.get_wic()
 data = dr.add_embeddings(data)
@@ -44,8 +46,12 @@ print("LogReg: ", run_baselines(data_multift, LogisticRegression(random_state=SE
 print("LGBM: ", run_baselines(data_multift, LGBMClassifier(random_state=SEED)))
 
 #Model (Accuracy, AUC)
-#Dummy:  (0.51063216309525039, 0.51063216309525039)
-#GloVe 300d LogReg:  (0.66972953118048151, 0.72767358873453902)
-#GloVe 300d LGBM:  (0.70346311835856268, 0.77422512271428801)
-#MultiFT .subword only 300d LogReg:  (0.6362570316029813, 0.68654117742617937)
-#MultiFT .subword only 300d LGBM:  (0.70661479404430561, 0.77924869419679799)
+#GloVe 300d
+#Dummy:  (0.49343832020997375, 0.49337262200165433)
+#LogReg:  (0.67716535433070868, 0.73230631375792665)
+#LGBM:  (0.70341207349081369, 0.76380962227736426)
+#Multisense FastText (using only .subword)
+#Done. 2677466  words loaded!
+#Dummy:  (0.49343832020997375, 0.49337262200165433)
+#LogReg:  (0.63188976377952755, 0.68891990625861588)
+#LGBM:  (0.71850393700787396, 0.77560311552247041)
