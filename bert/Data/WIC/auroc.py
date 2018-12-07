@@ -7,9 +7,15 @@ Created on Fri Dec 07 00:41:48 2018
 
 import pandas as pd
 from sklearn.metrics import accuracy_score, roc_auc_score
-labels = pd.read_csv('dev_labels')
-scores = pd.read_csv('test_results.tsv', delimiter='\t', index_col=False )
+labels = pd.read_csv('dev_labels.tsv')
+scores = pd.read_csv('dev_results.tsv', delimiter='\t', index_col=False )
 og_labels = labels['label'].apply(lambda x : 0 if x == 'F' else 1 )
 preds = scores.iloc[:,0].apply(lambda x : 0 if x <= 0.5 else 1)
 accuracy_score(og_labels, preds)
 roc_auc_score(og_labels, scores.iloc[:,0])
+
+#for test labels 
+scores = pd.read_csv('test_results.tsv', delimiter='\t', index_col=False )
+preds = scores.iloc[:,0].apply(lambda x : 0 if x <= 0.5 else 1)
+preds = preds.apply(lambda x : 'F' if x == 0 else 'T' )
+preds.to_csv('test_label_predctions.tsv')
