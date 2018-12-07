@@ -1,7 +1,7 @@
 """
     Copyright (c) 2018-present. Ben Athiwaratkun
     All rights reserved.
-    
+
     This source code is licensed under the BSD-style license found in the
     LICENSE file in the root directory of this source tree.
 """
@@ -228,15 +228,15 @@ class MultiFastText(object):
     if self.maxn != 0:
       if self.mv:
         assert emb.shape[0] == self.nwords, \
-          "[MV mode] shape of loaded emb_in {}/ nwords {} / bucket {} / expected nrows {}".format(emb.shape, 
-            self.nwords, 
-            self.bucket, 
+          "[MV mode] shape of loaded emb_in {}/ nwords {} / bucket {} / expected nrows {}".format(emb.shape,
+            self.nwords,
+            self.bucket,
             self.nwords)
       else:
         assert emb.shape[0] == self.nwords + self.bucket, \
-        "shape of loaded emb_in {}/ nwords {} / bucket {} / expected nrows {}".format(emb.shape, 
-          self.nwords, 
-          self.bucket, 
+        "shape of loaded emb_in {}/ nwords {} / bucket {} / expected nrows {}".format(emb.shape,
+          self.nwords,
+          self.bucket,
           self.nwords + self.bucket)
 
     else:
@@ -258,7 +258,7 @@ class MultiFastText(object):
     ngrams += _ngrams
     ngram_idxs += [self.nwords + hh for hh in _ngram_hashes]
     return ngram_idxs, ngrams
-  
+
   def subword_rep(self, words, emb=None, subword_emb=None, verbose=0):
     if emb is None:
       emb = self.emb
@@ -414,7 +414,7 @@ class MultiFastText(object):
   def dict_rep_multi(self, words):
     vecs, _ = self.dict_rep(words)
     vecs2, _ = self.dict_rep2(words)
-    return np.stack([vecs, vecs2], axis=1), np.array([1]*vecs.shape[0], dtype=bool)  
+    return np.stack([vecs, vecs2], axis=1), np.array([1]*vecs.shape[0], dtype=bool)
 
   def dict_rep_out(self, words, emb_out=None):
     if emb_out is None:
@@ -469,7 +469,7 @@ class MultiFastText(object):
     elapsed = timeit.default_timer() - start_time
     if verbose: print('Time for allocation', elapsed)
     start_time = timeit.default_timer()
-    for i in range(search_dict_size):  
+    for i in range(search_dict_size):
       ww = self.id2word[i]
       emb[i], _ = emb_func(ww)
     elapsed = timeit.default_timer() - start_time
@@ -523,7 +523,7 @@ class MultiFastText(object):
     highsim_idxs = highsim_idxs[:num_nns]
     dist_val = dist[highsim_idxs]
     words = self.idxs2words(highsim_idxs)
-    
+
     print('Top highest similarity of {} cl {}'.format(self.id2word[idx], cl))
     print(words[:num_nns])
     if verbose: print(dist_val[:num_nns])
@@ -542,7 +542,7 @@ class MultiFastText(object):
     dist_val = dist[highsim_idxs]
     print(highsim_idxs)
     words = ["{}".format(self.id2word[idx]) for idx in highsim_idxs]
-    
+
     print('Top highest similarity of {} cl {}'.format(self.id2word[idx], cl))
     print(words[:num_nns])
     if verbose: print(dist_val[:num_nns])
