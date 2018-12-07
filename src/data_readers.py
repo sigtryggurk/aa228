@@ -1,3 +1,4 @@
+import multift
 import numpy as np
 import pandas as pd
 
@@ -18,7 +19,23 @@ def get_wic():
     return data
 
 def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=300):
-    if embed_file != Config.MULTIFT_EMBED_FILE:
+    if embed_file == Config.MULTIFT_EMBED_FILE:
+        with open(Config.MULTIFT_WORDS_FILE, encoding="utf8" ) as f:
+           words = f.readlines()
+        subword_emb = np.load(embed_file)
+        model = {}
+        i = 0
+        for word in words:
+            word = word[:-1]
+            model[word] = subword_emb[i]
+            i = i+1
+        print ("Done.", len(model), " words loaded!")
+    elif embed_file == Config.MULTIFT_BASE:
+        words = [word[:-1] for word in Config.MULTIFT_WORDS_FILE.open().readlines()]
+        dual_ft = multift.MultiFastText(basename=Config.MULTIFT_BASE, multi=True, verbose=True, maxn=6)
+        model = {word:dual_ft.subword_rep_multi(word)[0].flatten() for word in words}
+        model['unk'] = model['UNK'] = np.zeros_like(next(iter(model.values())))
+    else:
         fails = 0
         with open(embed_file, encoding="utf8" ) as f:
            content = f.readlines()
@@ -33,17 +50,6 @@ def get_embedding_model(embed_file=Config.GLOVE_FILE, dim=300):
                 fails += 1
         print ("Done.", len(model), " words loaded!")
         print("Skipped " + str(fails) + " words!")
-    else:
-        with open(Config.MULTIFT_WORDS_FILE, encoding="utf8" ) as f:
-           words = f.readlines()
-        subword_emb = np.load(embed_file)
-        model = {}
-        i = 0
-        for word in words:
-            word = word[:-1]
-            model[word] = subword_emb[i]
-            i = i+1
-        print ("Done.", len(model), " words loaded!")
     return model
 
 
@@ -54,9 +60,9 @@ def add_embeddings(data, embed_file=Config.GLOVE_FILE, cased=False):
     if 'unk' not in model:
         if 'UNK' in model:
             model['unk'] = model['UNK']
-        
+
     word_c = lambda x, cased: x if cased else x.lower()
-    
+
     for sent1 in data['ctx1']:
         vect_1.append(np.mean([model.get(word_c(word, cased), model['unk']) for word in sent1.split()], axis=0))
     for sent2 in data['ctx2']:
