@@ -345,7 +345,7 @@ class WICProcessor(DataProcessor):
       text_a = tokenization.convert_to_unicode(line[4])
       text_b = tokenization.convert_to_unicode(line[5])
       if set_type == "test":
-        label = "0"
+        label = "F"
       else:
         label = tokenization.convert_to_unicode(line[6])
       examples.append(
@@ -398,14 +398,15 @@ def convert_single_example(ex_index, example, label_list, max_seq_length,
                            tokenizer):
   """Converts a single `InputExample` into a single `InputFeatures`."""
   label_map = {}
+  print ('label_list ', label_list)
   for (i, label) in enumerate(label_list):
     label_map[label] = i
-
+  print ('label_map ', label_map)
   tokens_a = tokenizer.tokenize(example.text_a)
   tokens_b = None
   if example.text_b:
     tokens_b = tokenizer.tokenize(example.text_b)
-
+  print ('Example ', example)
   if tokens_b:
     # Modifies `tokens_a` and `tokens_b` in place so that the total
     # length is less than the specified length.
@@ -858,7 +859,8 @@ def main(_):
       train_batch_size=FLAGS.train_batch_size,
       eval_batch_size=FLAGS.eval_batch_size,
       predict_batch_size=FLAGS.predict_batch_size)
-
+  print ('HOOPLA')
+  print (estimator)
   if FLAGS.do_train:
     train_file = os.path.join(FLAGS.output_dir, "train.tf_record")
     file_based_convert_examples_to_features(
@@ -912,6 +914,7 @@ def main(_):
   if FLAGS.do_predict:
     predict_examples = processor.get_test_examples(FLAGS.data_dir)
     predict_file = os.path.join(FLAGS.output_dir, "predict.tf_record")
+    print ("predict file " ,predict_file)
     file_based_convert_examples_to_features(predict_examples, label_list,
                                             FLAGS.max_seq_length, tokenizer,
                                             predict_file)

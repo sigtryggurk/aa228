@@ -16,3 +16,9 @@ out = pd.concat([train, train_labels], axis=1)
 train_final, dev_final = sklearn.model_selection.train_test_split(out, test_size=0.2, random_state=42)
 train_final.to_csv('train.tsv', sep='\t')
 dev_final.to_csv('dev.tsv', sep='\t')
+
+train_label, dev_label = sklearn.model_selection.train_test_split(train_labels, test_size=0.2, random_state=42)
+dev_label.to_csv('dev_labels')
+test = pd.read_csv('test.tsv', delimiter='\t')
+#test.to_csv('test.tsv', sep='\t')
+
