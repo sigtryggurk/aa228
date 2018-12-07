@@ -2,24 +2,12 @@
 
 ## Pre-trained models
 
-Bert Models:
+Bert Models Used:
 
 *   **[`BERT-Base, Uncased`](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip)**:
     12-layer, 768-hidden, 12-heads, 110M parameters
-*   **[`BERT-Large, Uncased`](https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-24_H-1024_A-16.zip)**:
-    24-layer, 1024-hidden, 16-heads, 340M parameters
-*   **[`BERT-Base, Cased`](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-12_H-768_A-12.zip)**:
-    12-layer, 768-hidden, 12-heads , 110M parameters
-*   **[`BERT-Large, Cased`](https://storage.googleapis.com/bert_models/2018_10_18/cased_L-24_H-1024_A-16.zip)**:
-    24-layer, 1024-hidden, 16-heads, 340M parameters
-*   **[`BERT-Base, Multilingual Cased (New, recommended)`](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip)**:
-    104 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
-*   **[`BERT-Base, Multilingual Uncased (Orig, not recommended)`](https://storage.googleapis.com/bert_models/2018_11_03/multilingual_L-12_H-768_A-12.zip)**:
-    102 languages, 12-layer, 768-hidden, 12-heads, 110M parameters
-*   **[`BERT-Base, Chinese`](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip)**:
-    Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M
-    parameters
-
+    
+Download the above and save it in the directory.
 Each .zip file contains three items:
 
 *   A TensorFlow checkpoint (`bert_model.ckpt`) containing the pre-trained
@@ -32,8 +20,9 @@ Before running this example you must download the
 THe data we are using is [WIC data]
 
 ```shell
-export BERT_BASE_DIR=/path/to/bert/uncased_L-12_H-768_A-12
-export GLUE_DIR=/path/to/WIC/Data
+go the directory containing bert
+export BERT_BASE_DIR=uncased_L-12_H-768_A-12
+export GLUE_DIR=Data
 
 python run_classifier.py \
   --task_name=WIC \
@@ -50,18 +39,16 @@ python run_classifier.py \
   --output_dir=/tmp/wic_output/
 ```
 
-You should see output like this:
+This is the output:
 
 ```
-***** Eval results *****
-  eval_accuracy = 0.845588
-  eval_loss = 0.505248
-  global_step = 343
-  loss = 0.505248
-```
+INFO:tensorflow:***** Eval results *****
+INFO:tensorflow:  eval_accuracy = 0.85035783
+INFO:tensorflow:  eval_loss = 0.49918082
+INFO:tensorflow:  global_step = 570
+INFO:tensorflow:  loss = 0.4969664
 
-This means that the Dev set accuracy was 84.55%. Note: You might see a message `Running train on CPU`. This really just means
-that it's running on something other than a Cloud TPU, which includes a GPU.
+```
 
 #### Prediction from classifier
 
